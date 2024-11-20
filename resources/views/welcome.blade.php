@@ -174,9 +174,10 @@
                                             data-rotate="0" data-fstransition="fade" data-fsmasterspeed="1500"
                                             data-fsslotamount="7" data-saveperformance="off" data-title="Slide One">
                                             <!-- MAIN IMAGE -->
-                                            <img src="images/bg/bg11.jpg" alt="" data-bgposition="center 20%"
-                                                data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10"
-                                                class="rev-slidebg" data-no-retina>
+                                            <img src="images/bg/kigali.jpg" alt=""
+                                                data-bgposition="center 20%" data-bgfit="cover"
+                                                data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg"
+                                                data-no-retina>
                                             <!-- LAYERS -->
                                             <!-- LAYER NR. 1 -->
                                             <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0"
@@ -194,7 +195,7 @@
                                                 data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
                                                 data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000"
                                                 data-splitin="none" data-splitout="none" data-responsive_offset="on"
-                                                style="z-index: 7; white-space: nowrap;">Making Best Future
+                                                style="z-index: 7; white-space: nowrap;">Be part of the life Changing
                                             </div>
                                             <!-- LAYER NR. 2 -->
                                             <div class="tp-caption tp-resizeme text-white text-uppercase font-montserrat rs-parallaxlevel-0"
@@ -213,7 +214,7 @@
                                                 data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000"
                                                 data-splitin="none" data-splitout="none" data-responsive_offset="on"
                                                 style="z-index: 6; min-width: 600px; max-width: 600px; white-space: normal;">
-                                                Help Rescue Child
+                                                Be Compassionate
                                             </div>
                                             <!-- LAYER NR. 3 -->
                                             <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0"
@@ -231,9 +232,9 @@
                                                 data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
                                                 data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000"
                                                 data-splitin="none" data-splitout="none" data-responsive_offset="on"
-                                                style="z-index: 7; white-space: nowrap;">We provides always our best
-                                                services for our students and always<br> try to achieve making a bright
-                                                successful future.
+                                                style="z-index: 7; white-space: nowrap;">Be part of the life
+                                                emproving<br>Be Compassionate
+
                                             </div>
                                             <!-- LAYER NR. 4 -->
                                             <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0"
