@@ -264,7 +264,7 @@
                                             data-rotate="0" data-fstransition="fade" data-fsmasterspeed="1500"
                                             data-fsslotamount="7" data-saveperformance="off" data-title="Slide Two">
                                             <!-- MAIN IMAGE -->
-                                            <img src="images/bg/rwanda1.jpg" alt=""
+                                            <img src="images/bg/kigali.jpg" alt=""
                                                 data-bgposition="center 20%" data-bgfit="cover"
                                                 data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg"
                                                 data-no-retina>
@@ -357,9 +357,10 @@
                                             data-fsslotamount="7" data-saveperformance="off"
                                             data-title="Slide Three">
                                             <!-- MAIN IMAGE -->
-                                            <img src="images/bg/bg13.jpg" alt="" data-bgposition="center 20%"
-                                                data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10"
-                                                class="rev-slidebg" data-no-retina>
+                                            <img src="images/bg/kigali.jpg" alt=""
+                                                data-bgposition="center 20%" data-bgfit="cover"
+                                                data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg"
+                                                data-no-retina>
                                             <!-- LAYERS -->
                                             <!-- LAYER NR. 1 -->
                                             <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0"
