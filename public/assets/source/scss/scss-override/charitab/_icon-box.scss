@@ -1,0 +1,39 @@
+/*
+ * Shortcode: icon-box.scss
+ * -----------------------------------------------
+*/
+.icon-box.icon-left .icon.icon-lg {
+    margin-right: 10px;
+}
+.icon-box.icon-left .btn-view-details {
+    margin-top: 10px;
+}
+.icon-box-animated-icon a.icon {
+    @include transition(all .3s ease);
+}
+.icon-box-animated-icon:hover a.icon {
+    @include translate(0, 10%);
+}
+.feature-box {
+	.btn-view-details {
+	}
+	.btn-plain-text-with-arrow {
+		color: #999;
+	}
+	&:hover {
+		.icon {
+			animation-duration: 2s;
+			animation-iteration-count: 1;
+			animation-name: fadeIn;
+		}
+	}
+}
+.tm-sc-icon-box {
+	.btn-plain-text-with-arrow {
+		color: #999;
+	}
+	&:hover {
+		.icon {
+		}
+	}
+}

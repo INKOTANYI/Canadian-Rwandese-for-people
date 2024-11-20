@@ -1,0 +1,19 @@
+/*
+ *  cpt-gallery.scss
+ * -----------------------------------------------
+*/
+.tm-sc-gallery {
+	.overlay-shade.shade-theme-colored1 {
+		background-color: $theme-color1;
+	}
+	.overlay-shade.shade-theme-colored2 {
+		background-color: $theme-color2;
+	}
+	&.gallery-style4-current-theme {
+		.tm-gallery {
+			.details {
+				background-color: $theme-color1;
+			}
+		}
+	}
+}

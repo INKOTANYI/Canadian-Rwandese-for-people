@@ -1,0 +1,19 @@
+/*
+ * shop-my-account.scss
+ * -----------------------------------------------
+*/
+.woocommerce-MyAccount-navigation {
+	.list-group {
+		li {
+			a {
+				color: #777;
+			}
+			&.is-active {
+				background-color: #eee;
+				a {
+					color: #333;
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,83 @@
+/*==================================================
+=            Bootstrap 3 Media Queries             =
+==================================================*/
+ 
+ 
+/*==========  Mobile First Method  ==========*/
+ 
+// Small devices (landscape phones, 576px and up)
+@include media-breakpoint-up(sm) {
+}
+
+// Medium devices (tablets, 768px and up)
+@include media-breakpoint-up(md) {
+}
+
+// Large devices (desktops, 992px and up)
+@include media-breakpoint-up(lg) {
+}
+
+// Extra large devices (large desktops, 1200px and up)
+@include media-breakpoint-up(xl) {
+}
+
+
+/*==========  Non-Mobile First Method  ==========*/
+ 
+// Large devices (desktops, less than 1200px)
+@include media-breakpoint-down(lg) {
+}
+
+// Medium devices (tablets, less than 992px)
+@include media-breakpoint-down(md) {
+}
+
+// Small devices (landscape phones, less than 768px)
+@include media-breakpoint-down(sm) {
+}
+
+// Extra small devices (portrait phones, less than 576px)
+@include media-breakpoint-down(xs) {
+}
+
+
+/*==========  minimum and maximum breakpoint Method  ==========*/
+@include media-breakpoint-only(lg) {
+	body {	font-size: 15px; }
+	h1 { font-size:3rem; }		/* 39px */
+	h2 { font-size:2.3077rem; }	/* 30px */
+	h3 { font-size:1.8461rem; }	/* 24px */
+	h4 { font-size:1.3846rem; }	/* 18px */
+	h5 { font-size:1.2308rem; }	/* 16px */
+	h6 { font-size:1rem; }		/* 13px */
+}
+
+@include media-breakpoint-only(md) {
+	body {	font-size: 15px; }
+	h1 { font-size:3rem; }		/* 39px */
+	h2 { font-size:2.3077rem; }	/* 30px */
+	h3 { font-size:1.8461rem; }	/* 24px */
+	h4 { font-size:1.3846rem; }	/* 18px */
+	h5 { font-size:1.2308rem; }	/* 16px */
+	h6 { font-size:1rem; }		/* 13px */
+}
+@include media-breakpoint-down(sm) {
+	body {	font-size: 15px; }
+	h1 { font-size:2.5rem; }		/* 30px */
+	h2 { font-size:2rem; }		/* 24px */
+	h3 { font-size:1.6667rem; }	/* 20px */
+	h4 { font-size:1.3333rem; }	/* 16px */
+	h5 { font-size:1.1667rem; }	/* 14px */
+	h6 { font-size:1rem; }		/* 12px */
+}
+
+
+//@include media-breakpoint-only(xs) {
+//	body {	font-size: 12px; }
+//	h1 { font-size:2.5em; }
+//	h2 { font-size:2em; }
+//	h3 { font-size:2em; }
+//	h4 { font-size:1.3333em; }
+//	h5 { font-size:1.1667em; }
+//	h6 { font-size:1em; }
+//}
