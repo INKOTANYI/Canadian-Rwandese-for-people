@@ -90,19 +90,7 @@
                                 </li>
                             </ul>
                         </div>
-                        {{-- <div
-                            class="col-xl-auto ml-xl-auto header-top-right align-self-center text-center text-xl-right">
-                            <div class="element">
-                                <ul class="header-top-nav list-inline">
-                                    <li class="menu-item"><a title="Home" class="menu-item-link"
-                                            href="#"><strong>Home</strong></a></li>
-                                    <li class="menu-item"><a title="Home" class="menu-item-link"
-                                            href="#"><strong>Cart</strong></a></li>
-                                    <li class="menu-item"><a title="Home" class="menu-item-link"
-                                            href="#"><strong>Contact Us</strong></a></li>
-                                </ul>
-                            </div>
-                        </div> --}}
+
                     </div>
                 </div>
             </div>
@@ -627,7 +615,7 @@
                                     </div>
                                     <div class="icon-text">
                                         <h3 class="icon-box-title ">
-                                            Vaue
+                                            Value
                                         </h3>
                                         <div class="content">
                                             <p>Leverage agile frameworks to provide a robust synopsis for high level
@@ -638,691 +626,331 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="row">
-                            <div class="col-lg-6 mb-md-30">
-                                <h2 class="text-uppercase mt-0">Welcome To <span class="text-theme-colored1">World’s
-                                        Largest</span> NGO</h2>
-                                <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisi cing elit. Quos dolo
-                                    rem consequ untur, natus laudantium commodie&nbsp;adipisi cing</p>
-                                <div class="wpb_wrapper">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum sunt ut dolorem
-                                        laboriosam culpa excepturi sed distinctio eius! Ut magnam numquam libero quia
-                                        vero blanditiis fugit corporis</p>
-                                </div>
-                                <div class="tm-sc tm-sc-button">
-                                    <a href="" target="_self" class="btn btn-theme-colored1 btn-sm">
-                                        Read More</a>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div
-                                    class="box-hover-effect play-video-button tm-sc tm-sc-video-popup tm-sc-video-popup-button-over-image">
-                                    <div class="effect-wrapper">
-                                        <div class="thumb">
-                                            <img class="img-fullwidth" src="images/about/1.jpg" alt="Image">
-                                        </div>
-                                        <div class="video-button"></div>
-                                        <a class="hover-link" data-lightbox-gallery="youtube-video"
-                                            href="#"></a><span><a href="#"></a></span>
+                        <div class="container pb-60">
+                            <div class="section-title text-center mb-40">
+                                <div class="row justify-content-md-center">
+                                    <div class="col-md-6">
+                                        <h2 class="title text-uppercase mt-0"><span class="">Our</span> <span
+                                                class="text-theme-colored1">Services</span></h2>
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <!-- Our Goal -->
-
-            <!-- Timeline -->
-            <section>
-                <div class="container pb-50">
-                    <div class="section-title text-center">
-                        <div class="row justify-content-md-center">
-                            <div class="col-md-6">
-                                <h2 class="title text-uppercase mt-0"><span class="">NGO</span> <span
-                                        class="text-theme-colored1">Timeline</span></h2>
-                                <p>Canadian Rwandese Foundation of People with Disabilities in Alberta
-                                    (CRFPD) is a non-profit organization founded in 2017 and incorporated in the
-                                    Government of Alberta, Canada. It is in partnership with Rwanda-Canada Hope for
-                                    Disabled (RCHD), a Rwanda based organization. CRFPD is made up of people who truly
-                                    love and care. This is seen right from founder members to our dedicated staff,
-                                    donors and volunteers. We love and care about what we do, about the people we serve,
-                                    about their family and community and about the society we live
-
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="section-content">
-                        <div class="row">
-                            <div class="col-md-6 offset-md-3">
-                                <div class="tm-timeline-responsive-vertical-cp">
-                                    <div class="timeline__block">
+                            <div class="section-content">
+                                <div class="row">
+                                    <div class="col-sm-12">
                                         <div
-                                            class="timeline__midpoint false timeline__midpoint--withtext no-top-margin d-flex align-items-center">
-                                            <div class="timeline__year">
-                                                <p>2017</p>
-                                            </div>
-                                        </div>
-                                        <div class="timeline__content timeline__content--right">
-                                            <div class="timeline__year timeline__year--mobile"></div>
-                                            <div class="timeline__text--right">
-                                                <div class="timeline-content  "></div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="timeline__block">
-                                        <div class="timeline__midpoint timeline__midpoint--highlight"></div>
-                                        <div class="timeline__content timeline__content--left">
-                                            <div class="timeline__year">
-                                                {{-- <p>October, 2009</p> --}}
-                                            </div>
-                                            <div class="timeline__text--left">
-                                                <div class="timeline-content  ">
-                                                    <div class="wpb_text_column wpb_content_element ">
-                                                        <div class="wpb_wrapper">
-                                                            <h3>It&#8217;s all started</h3>
-                                                            <p>In 2017, Mr. Cyrilo Simpunga the founder of Canadian
-                                                                Rwandese Foundation of People with Disabilities (CRFPD)
-                                                                was realizing the impact of being disabled for more than
-                                                                twenty years</p>
+                                            class="tm-sc tm-sc-services tm-sc-services-grid services-style2-classic border-radius-around-box">
+                                            <!-- Isotope Gallery Grid -->
+                                            <div class="isotope-layout grid-4 clearfix">
+                                                <!-- the loop -->
+                                                <div class="isotope-item">
+                                                    <div class="tm-service services type-services status-publish">
+                                                        <div class="box-hover-effect">
+                                                            <div class="effect-wrapper">
+                                                                <div class="thumb">
+                                                                    <img width="150" height="150"
+                                                                        src="images/service/1.jpg"
+                                                                        class="img-fullwidth wp-post-image"
+                                                                        alt="" />
+                                                                </div>
+                                                            </div>
+                                                            <div class="details">
+                                                                <h4 class="title"><a href="#">The Mobility
+                                                                        Matters</a>
+                                                                </h4>
+                                                                <div class="paragraph mb-15">
+                                                                    Our primary focus is on the acquisition of
+                                                                    prosthetic components,
+                                                                    upplies and related support
+                                                                </div>
+                                                                <div class="btn-view-details">
+                                                                    <a href="#"
+                                                                        class="btn btn-outline-theme-colored1 btn-outline btn-sm">
+                                                                        View Details</a>
+                                                                </div>
+                                                            </div>
                                                         </div>
                                                     </div>
                                                 </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="timeline__block">
-                                        <div class="timeline__midpoint false"></div>
-                                        <div class="timeline__content timeline__content--right">
-
-                                            <div class="timeline__text--right">
-                                                <div class="timeline-content  ">
-                                                    <div class="wpb_text_column wpb_content_element ">
-                                                        <div class="wpb_wrapper">
-                                                            <h3>Started NGO as a social enterprise</h3>
-                                                            <p>Lorem ipsum dolor sitamet consectetur adipiscing elit
-                                                                Utelit tellus luctus nec ullamcorpe</p>
+                                                <div class="isotope-item">
+                                                    <div class="tm-service services type-services status-publish">
+                                                        <div class="box-hover-effect">
+                                                            <div class="effect-wrapper">
+                                                                <div class="thumb">
+                                                                    <img width="150" height="150"
+                                                                        src="images/service/2.jpg"
+                                                                        class="img-fullwidth wp-post-image"
+                                                                        alt="" />
+                                                                </div>
+                                                            </div>
+                                                            <div class="details">
+                                                                <h4 class="title"><a href="#">Social
+                                                                        Inclusion</a>
+                                                                </h4>
+                                                                <div class="paragraph mb-15">
+                                                                    Introducing day programs to encourage and enable
+                                                                    social
+                                                                    inclusion for persons with disabilities
+                                                                </div>
+                                                                <div class="btn-view-details">
+                                                                    <a href="#"
+                                                                        class="btn btn-outline-theme-colored1 btn-outline btn-sm">
+                                                                        View Details</a>
+                                                                </div>
+                                                            </div>
                                                         </div>
                                                     </div>
                                                 </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="timeline__block">
-                                        <div
-                                            class="timeline__midpoint false timeline__midpoint--withtext no-top-margin d-flex align-items-center">
-                                            <div class="timeline__year">
-                                                <p>2013</p>
-                                            </div>
-                                        </div>
-                                        <div class="timeline__content timeline__content--right">
-                                            <div class="timeline__year timeline__year--mobile">1989</div>
-                                            <div class="timeline__text--right">
-                                                <div class="timeline-content  "></div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="timeline__block">
-                                        <div class="timeline__midpoint false"></div>
-                                        <div class="timeline__content timeline__content--left">
-                                            <div class="timeline__year">
-                                                <p>March, 2018</p>
-                                            </div>
-                                            <div class="timeline__text--left">
-                                                <div class="timeline-content  ">
-                                                    <h3 class="custom_heading">20th anniversary of helping children
-                                                    </h3>
-                                                    <div class="wpb_text_column wpb_content_element ">
-                                                        <div class="wpb_wrapper">
-                                                            <p>Lorem ipsum dolor sitamet consectetur adipiscing elit
-                                                                Utelit tellus luctus nec ullamcorpe</p>
+                                                <div class="isotope-item ">
+                                                    <div class="tm-service services type-services status-publish">
+                                                        <div class="box-hover-effect">
+                                                            <div class="effect-wrapper">
+                                                                <div class="thumb">
+                                                                    <img width="150" height="150"
+                                                                        src="images/service/3.jpg"
+                                                                        class="img-fullwidth wp-post-image"
+                                                                        alt="" />
+                                                                </div>
+                                                            </div>
+                                                            <div class="details">
+                                                                <h4 class="title"><a href="#">Donation
+                                                                    </a>
+                                                                </h4>
+                                                                <div class="paragraph mb-15">
+                                                                    Collection of in cash or in kind donation for the
+                                                                    persons with disabilities and special need from
+                                                                    donors and well-wishers.
+                                                                </div>
+                                                                <div class="btn-view-details">
+                                                                    <a href="#"
+                                                                        class="btn btn-outline-theme-colored1 btn-outline btn-sm">
+                                                                        View Details</a>
+                                                                </div>
+                                                            </div>
                                                         </div>
                                                     </div>
                                                 </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <!-- Call To Action -->
-            <section class="divider layer-overlay overlay-theme-colored1-8" data-tm-bg-img="images/bg/bg4.jpg">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-12 text-center font-72">
-                            <h2 class="text-white font-weight-600">We Need Your Help For Rescue Child</h2>
-                            <p class="text-white font-size-18">Leverage agile frameworks to provide a robust synopsis
-                                for high level overviews. Iterative approaches to<br> corporate strategy foster
-                                collaborative thinking to further the overall value proposition.</p>
-                            <div class="tm-sc tm-sc-button text-center mt-20">
-                                <a href="#" target="_self" class="btn btn-light btn-round">
-                                    Donate Us Now</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <!-- Our-Services-->
-            <section class="bg-no-repeat bg-img-right-bottom" data-tm-bg-img="images/causes/semi-circle.png">
-                <div class="container pb-60">
-                    <div class="section-title text-center mb-40">
-                        <div class="row justify-content-md-center">
-                            <div class="col-md-6">
-                                <h2 class="title text-uppercase mt-0"><span class="">Our</span> <span
-                                        class="text-theme-colored1">Services</span></h2>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem autem voluptatem
-                                    obcaecati consectetur adipisicing</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="section-content">
-                        <div class="row">
-                            <div class="col-sm-12">
-                                <div
-                                    class="tm-sc tm-sc-services tm-sc-services-grid services-style2-classic border-radius-around-box">
-                                    <!-- Isotope Gallery Grid -->
-                                    <div class="isotope-layout grid-4 clearfix">
-                                        <!-- the loop -->
-                                        <div class="isotope-item">
-                                            <div class="tm-service services type-services status-publish">
-                                                <div class="box-hover-effect">
-                                                    <div class="effect-wrapper">
-                                                        <div class="thumb">
-                                                            <img width="150" height="150"
-                                                                src="images/service/1.jpg"
-                                                                class="img-fullwidth wp-post-image" alt="" />
-                                                        </div>
-                                                    </div>
-                                                    <div class="details">
-                                                        <h4 class="title"><a href="#">Education</a></h4>
-                                                        <div class="paragraph mb-15">
-                                                            Lorem ipsum dolor amet conse ctetur adipisi cing elit. Quos
-                                                            dolo rem consequ untur, natuslaud antium commodie
-                                                        </div>
-                                                        <div class="btn-view-details">
-                                                            <a href="#"
-                                                                class="btn btn-outline-theme-colored1 btn-outline btn-sm">
-                                                                View Details</a>
+                                                <div class="isotope-item">
+                                                    <div class="tm-service services type-services status-publish">
+                                                        <div class="box-hover-effect">
+                                                            <div class="effect-wrapper">
+                                                                <div class="thumb">
+                                                                    <img width="150" height="150"
+                                                                        src="images/service/4.jpg"
+                                                                        class="img-fullwidth wp-post-image"
+                                                                        alt="" />
+                                                                </div>
+                                                            </div>
+                                                            <div class="details">
+                                                                <h4 class="title"><a href="#">Encouraging
+                                                                        Sel-reliance
+                                                                    </a>
+                                                                </h4>
+                                                                <div class="paragraph mb-15">
+                                                                    Assisting and encouraging persons with disabilities
+                                                                    to be independent in their day to day living.
+                                                                </div>
+                                                                <div class="btn-view-details">
+                                                                    <a href="#"
+                                                                        class="btn btn-outline-theme-colored1 btn-outline btn-sm">
+                                                                        View Details</a>
+                                                                </div>
+                                                            </div>
                                                         </div>
                                                     </div>
                                                 </div>
+                                                <!-- end of the loop -->
                                             </div>
                                         </div>
-                                        <div class="isotope-item">
-                                            <div class="tm-service services type-services status-publish">
-                                                <div class="box-hover-effect">
-                                                    <div class="effect-wrapper">
-                                                        <div class="thumb">
-                                                            <img width="150" height="150"
-                                                                src="images/service/2.jpg"
-                                                                class="img-fullwidth wp-post-image" alt="" />
-                                                        </div>
-                                                    </div>
-                                                    <div class="details">
-                                                        <h4 class="title"><a href="#">Water and Sanitation</a>
-                                                        </h4>
-                                                        <div class="paragraph mb-15">
-                                                            Lorem ipsum dolor amet conse ctetur adipisi cing elit. Quos
-                                                            dolo rem consequ untur, natuslaud antium commodie
-                                                        </div>
-                                                        <div class="btn-view-details">
-                                                            <a href="#"
-                                                                class="btn btn-outline-theme-colored1 btn-outline btn-sm">
-                                                                View Details</a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="isotope-item ">
-                                            <div class="tm-service services type-services status-publish">
-                                                <div class="box-hover-effect">
-                                                    <div class="effect-wrapper">
-                                                        <div class="thumb">
-                                                            <img width="150" height="150"
-                                                                src="images/service/3.jpg"
-                                                                class="img-fullwidth wp-post-image" alt="" />
-                                                        </div>
-                                                    </div>
-                                                    <div class="details">
-                                                        <h4 class="title"><a href="#">Health and Rights</a>
-                                                        </h4>
-                                                        <div class="paragraph mb-15">
-                                                            Lorem ipsum dolor amet conse ctetur adipisi cing elit. Quos
-                                                            dolo rem consequ untur, natuslaud antium commodie
-                                                        </div>
-                                                        <div class="btn-view-details">
-                                                            <a href="#"
-                                                                class="btn btn-outline-theme-colored1 btn-outline btn-sm">
-                                                                View Details</a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="isotope-item">
-                                            <div class="tm-service services type-services status-publish">
-                                                <div class="box-hover-effect">
-                                                    <div class="effect-wrapper">
-                                                        <div class="thumb">
-                                                            <img width="150" height="150"
-                                                                src="images/service/4.jpg"
-                                                                class="img-fullwidth wp-post-image" alt="" />
-                                                        </div>
-                                                    </div>
-                                                    <div class="details">
-                                                        <h4 class="title"><a href="#">Social Development</a>
-                                                        </h4>
-                                                        <div class="paragraph mb-15">
-                                                            Lorem ipsum dolor amet conse ctetur adipisi cing elit. Quos
-                                                            dolo rem consequ untur, natuslaud antium commodie
-                                                        </div>
-                                                        <div class="btn-view-details">
-                                                            <a href="#"
-                                                                class="btn btn-outline-theme-colored1 btn-outline btn-sm">
-                                                                View Details</a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- end of the loop -->
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-            </section>
 
-            <!-- Divider -->
-            <section data-tm-bg-img="images/bg/bg11.jpg">
-                <div class="container-fluid p-0">
-                    <div class="section-content">
-                        <div class="row">
-                            <div class="col-sm-12">
-                                <div
-                                    class="tm-sc tm-sc-custom-columns-holder tm-cc-two-columns tm-cc-responsive-mode-1280 tm-cc-items-float">
-                                    <div class="tm-sc tm-sc-custom-columns-holder-item  section-typo-light bg-theme-colored1 "
-                                        data-item-class="tm-custom-columns-520715" data-991-down="100px"
-                                        data-767-down="60px">
-                                        <div class="item-inner">
-                                            <div
-                                                class="item-content tm-custom-columns-520715 pt-150 pb-150 pr-150 pl-150">
+                <section>
+                    <div class="container pb-60">
+                        <div class="section-title text-center mb-40">
+                            <div class="row justify-content-md-center">
+                                <div class="col-md-6">
+                                    <h2 class="title text-uppercase mt-0"><span class="">Welcome to</span><span
+                                            class="text-theme-colored1"> Our Causes</span></h2>
+                                    <p>We’re excited to welcome you to Our Causes, a platform designed with inclusivity
+                                        and accessibility at its core. This space is dedicated to empowering individuals
+                                        of
+                                        all abilities to connect, advocate, and make a difference.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="section-content">
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <div class="tm-sc tm-sc-charitable-campaigns tm-sc-charitable-campaigns-grid">
+                                        <!-- Isotope Gallery Grid -->
+                                        <div class="isotope-layout grid-3 clearfix">
+                                            <!-- the loop -->
+                                            <div class="isotope-item food water">
                                                 <div
-                                                    class="tm-sc tm-sc-section-title section-title section-title-style1 mb-30">
-                                                    <div class="title-wrapper mb-20">
-                                                        <h2 class="title font-size-60">Join The Worlds Biggest Family
-                                                            <span class="title-shadow-text font-size-200">NGO</span>
-                                                        </h2>
-                                                        <div class="title-seperator-line"></div>
+                                                    class="charitable-campaign campaign type-campaign campaign_category-food">
+                                                    <div class="campaign-inner">
+                                                        <div class="campaign-thumbnail"><a href="#"><img
+                                                                    width="672" height="448"
+                                                                    src="images/causes/1.jpg"
+                                                                    class="img-fullwidth wp-post-image"
+                                                                    alt="" /></a></div>
+                                                        <div class="campaign-content">
+                                                            <h4 class="campaign-title"><a href="#">Sponsor a
+                                                                    Child</a></h4>
+                                                            <div class="campaign-meta"></div>
+                                                            <div class="campaign-description"> Lorem ipsum dolor sit
+                                                                amet,
+                                                                consect adipisicing elit. Praesent quos sit.Lorem ipsum
+                                                                dolor sit amet, consect adipisicing elit. Praesent quos
+                                                                sit.
+                                                            </div>
+                                                            <div class="tm-sc tm-sc-progress-bar progress-bar-default charitable-progress-bar"
+                                                                data-percent="80" data-unit-left="$"
+                                                                data-unit-right="" data-bar-height=""
+                                                                data-barcolor="bg-theme-colored1">
+                                                                <div class="progress-holder">
+                                                                    <div class="progress-content"><span
+                                                                            class="symbol-left">$</span><span
+                                                                            class="value">80</span><span
+                                                                            class="symbol-right"></span></div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="campaign-donation-stats">
+                                                                <div class="donation-raised"><span
+                                                                        class="progress-title">Raised:</span><span
+                                                                        class="amount">&#036;4,000.00</span></div>
+                                                                <div class="donation-goal"><span
+                                                                        class="progress-title">Goal:</span><span
+                                                                        class="amount goal-amount">&#036;7,500.00</span>
+                                                                </div>
+                                                            </div>
+                                                            <div class="campaigns-btn"><a href="#"
+                                                                    class="btn btn-theme-colored1 btn-xs">View
+                                                                    Details</a><a href="#"
+                                                                    class="btn btn-dark btn-xs">Donate Now</a>
+                                                                <div class="clearfix"></div>
+                                                            </div>
+                                                        </div>
                                                     </div>
                                                 </div>
-                                                <div class="paragraph lead mb-30 mt-0">
-                                                    <p>We strive for a world that advances children’s rights and
-                                                        equality for girls. Lorem ipsum dolor sit amet, consectetur
-                                                        adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis,
-                                                        pulvinar dapibus leo.</p>
-                                                </div>
-                                                <div class="tm-sc tm-sc-button  btn-circle">
-                                                    <a href="" target="_self"
-                                                        class="btn btn-outline-light btn-outline">
-                                                        Join Us</a>
+                                            </div>
+                                            <div class="isotope-item food water">
+                                                <div
+                                                    class="charitable-campaign campaign type-campaign campaign_category-food">
+                                                    <div class="campaign-inner">
+                                                        <div class="campaign-thumbnail"><a href="#"><img
+                                                                    width="672" height="448"
+                                                                    src="images/causes/7.jpg"
+                                                                    class="img-fullwidth wp-post-image"
+                                                                    alt="" /></a> </div>
+                                                        <div class="campaign-content">
+                                                            <h4 class="campaign-title"><a href="#"> Help Senior
+                                                                    Citizens</a></h4>
+                                                            <div class="campaign-meta"></div>
+                                                            <div class="campaign-description"> Lorem ipsum dolor sit
+                                                                amet,
+                                                                consect adipisicing elit. Praesent quos sit.Lorem ipsum
+                                                                dolor sit amet, consect adipisicing elit. Praesent quos
+                                                                sit.
+                                                            </div>
+                                                            <div class="tm-sc tm-sc-progress-bar progress-bar-default charitable-progress-bar"
+                                                                data-percent="70" data-unit-left="$"
+                                                                data-unit-right="" data-bar-height=""
+                                                                data-barcolor="bg-theme-colored1">
+                                                                <div class="progress-holder">
+                                                                    <div class="progress-content"><span
+                                                                            class="symbol-left">$</span><span
+                                                                            class="value">70</span><span
+                                                                            class="symbol-right"></span></div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="campaign-donation-stats">
+                                                                <div class="donation-raised"><span
+                                                                        class="progress-title">Raised:</span><span
+                                                                        class="amount">&#036;2,000.00</span></div>
+                                                                <div class="donation-goal"><span
+                                                                        class="progress-title">Goal:</span><span
+                                                                        class="amount goal-amount">&#036;8,600.00</span>
+                                                                </div>
+                                                            </div>
+                                                            <div class="campaigns-btn"><a href="#"
+                                                                    class="btn btn-theme-colored1 btn-xs"> View
+                                                                    Details</a><a href="#"
+                                                                    class="btn btn-dark btn-xs"> Donate Now</a>
+                                                                <div class="clearfix"></div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
                                                 </div>
                                             </div>
-                                        </div>
-                                    </div>
-                                    <div class="tm-sc tm-sc-custom-columns-holder-item"
-                                        data-item-class="tm-custom-columns-924903" data-991-down="100px"
-                                        data-767-down="60px">
-                                        <div class="item-inner">
-                                            <div class="item-content tm-custom-columns-924903 p-100">
+                                            <div class="isotope-item environment water">
+                                                <div
+                                                    class="charitable-campaign campaign type-campaign campaign_category-environment">
+                                                    <div class="campaign-inner">
+                                                        <div class="campaign-thumbnail"> <a href="#"><img
+                                                                    width="672" height="448"
+                                                                    src="images/causes/3.jpg"
+                                                                    class="img-fullwidth wp-post-image"
+                                                                    alt="" /></a> </div>
+                                                        <div class="campaign-content">
+                                                            <h4 class="campaign-title"> <a href="#"> Help
+                                                                    rebuild
+                                                                    Nepal </a> </h4>
+                                                            <div class="campaign-meta"> </div>
+                                                            <div class="campaign-description"> Lorem ipsum dolor sit
+                                                                amet,
+                                                                consect adipisicing elit. Praesent quos sit.Lorem ipsum
+                                                                dolor sit amet, consect adipisicing elit. Praesent quos
+                                                                sit.
+                                                            </div>
+                                                            <div class="tm-sc tm-sc-progress-bar progress-bar-default charitable-progress-bar"
+                                                                data-percent="90" data-unit-left="$"
+                                                                data-unit-right="" data-bar-height=""
+                                                                data-barcolor="bg-theme-colored1">
+                                                                <div class="progress-holder">
+                                                                    <div class="progress-content"><span
+                                                                            class="symbol-left">$</span><span
+                                                                            class="value">90</span><span
+                                                                            class="symbol-right"></span></div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="campaign-donation-stats">
+                                                                <div class="donation-raised"><span
+                                                                        class="progress-title">Raised:</span> <span
+                                                                        class="amount">&#036;5,000.00</span></div>
+                                                                <div class="donation-goal"><span
+                                                                        class="progress-title">Goal:</span> <span
+                                                                        class="amount goal-amount">&#036;5,600.00</span>
+                                                                </div>
+                                                            </div>
+                                                            <div class="campaigns-btn"> <a href="#"
+                                                                    class="btn btn-theme-colored1 btn-xs"> View
+                                                                    Details</a><a href="#"
+                                                                    class="btn btn-dark btn-xs"> Donate Now </a>
+                                                                <div class="clearfix"></div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
                                             </div>
+                                            <!-- end of the loop -->
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div>
-            </section>
+                </section>
 
-            <!-- Recent-Work -->
-            <section>
-                <div class="container pb-60">
-                    <div class="section-title text-center mb-40">
-                        <div class="row justify-content-md-center">
-                            <div class="col-md-6">
-                                <h2 class="title text-uppercase mt-0"><span class="">Our Recent</span> <span
-                                        class="text-theme-colored1">
-                                        Works</span></h2>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem autem voluptatem
-                                    obcaecati consectetur adipisicing</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="section-content">
-                        <div class="row">
-                            <div class="col-sm-12">
-                                <div class="tm-sc tm-sc-works-categories tm-sc-works-categories-grid  style-floating">
-                                    <!-- Isotope Gallery Grid -->
-                                    <div class="isotope-layout grid-3 clearfix">
-                                        <!-- the loop -->
-                                        <div class="isotope-item">
-                                            <div class="each-category">
-                                                <div class="box-hover-effect">
-                                                    <div class="effect-wrapper">
-                                                        <div class="thumb">
-                                                            <img src="images/work/1.jpg" alt="image">
-                                                        </div>
-                                                        <div class="shadow-overlay"></div>
-                                                        <div class="text-holder details">
-                                                            <h4 class="title"><a
-                                                                    href="page-work-details.html">Education</a></h4>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="isotope-item">
-                                            <div class="each-category">
-                                                <div class="box-hover-effect">
-                                                    <div class="effect-wrapper">
-                                                        <div class="thumb">
-                                                            <img src="images/work/2.jpg" alt="image">
-                                                        </div>
-                                                        <div class="shadow-overlay"></div>
-                                                        <div class="text-holder details">
-                                                            <h4 class="title"><a
-                                                                    href="page-work-details.html">Food</a></h4>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="isotope-item">
-                                            <div class="each-category">
-                                                <div class="box-hover-effect">
-                                                    <div class="effect-wrapper">
-                                                        <div class="thumb">
-                                                            <img src="images/work/3.jpg" alt="image">
-                                                        </div>
-                                                        <div class="shadow-overlay"></div>
-                                                        <div class="text-holder details">
-                                                            <h4 class="title"><a
-                                                                    href="page-work-details.html">Health</a></h4>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- end of the loop -->
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <!-- Our-Work -->
-            <section data-tm-bg-color="#f8f4f0">
-                <div class="container pb-80">
-                    <div class="section-title text-center mb-40">
-                        <div class="row justify-content-md-center">
-                            <div class="col-md-6">
-                                <h2 class="title text-uppercase mt-0"><span class="">What We Did</span> <span
-                                        class="text-theme-colored1">Last Year</span></h2>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem autem voluptatem
-                                    obcaecati consectetur adipisicing</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="section-content">
-                        <div class="row">
-                            <div class="col-sm-6">
-                                <div
-                                    class="tm-sc tm-sc-icon-box icon-box icon-left iconbox-centered-in-responsive icon-position-icon-left mb-30">
-                                    <a class="icon icon-type-image  icon-default">
-                                        <img src="images/icon/girl.png" alt="Image"></a>
-                                    <div class="icon-text">
-                                        <h5 class="icon-box-title mt-0">
-                                            85770 Women were Benefited and Empowered
-                                        </h5>
-                                        <div class="content">
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem autem
-                                                voluptatem obcaecati consectetur adipisicing</p>
-                                        </div>
-                                    </div>
-                                    <div class="clearfix"></div>
-                                </div>
-                                <div
-                                    class="tm-sc tm-sc-icon-box icon-box icon-left iconbox-centered-in-responsive icon-position-icon-left">
-                                    <a class="icon icon-type-image  icon-default">
-                                        <img src="images/icon/piggy-bank.png" alt="Image"></a>
-                                    <div class="icon-text">
-                                        <h5 class="icon-box-title mt-0">
-                                            Scholarship Support was Provided to 150 Less Privileged Girls for Higher
-                                            Education
-                                        </h5>
-                                        <div class="content">
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem autem
-                                                voluptatem obcaecati consectetur adipisicing</p>
-                                        </div>
-                                    </div>
-                                    <div class="clearfix"></div>
-                                </div>
-                            </div>
-                            <div class="col-sm-6">
-                                <div
-                                    class="tm-sc tm-sc-icon-box icon-box icon-left iconbox-centered-in-responsive icon-position-icon-left mb-30">
-                                    <a class="icon icon-type-image  icon-default">
-                                        <img src="images/icon/vaccine.png" alt="Image"></a>
-                                    <div class="icon-text">
-                                        <h5 class="icon-box-title mt-0">
-                                            703,026 Girls Supported Before, During and After Emergencies
-                                        </h5>
-                                        <div class="content">
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem autem
-                                                voluptatem obcaecati consectetur adipisicing</p>
-                                        </div>
-                                    </div>
-                                    <div class="clearfix"></div>
-                                </div>
-                                <div
-                                    class="tm-sc tm-sc-icon-box icon-box icon-left iconbox-centered-in-responsive icon-position-icon-left">
-                                    <a class="icon icon-type-image  icon-default">
-                                        <img src="images/icon/house.png" alt="Image"></a>
-                                    <div class="icon-text">
-                                        <h5 class="icon-box-title mt-0">
-                                            98650 Women and Girls were Provided Better water and sanitation
-                                        </h5>
-                                        <div class="content">
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem autem
-                                                voluptatem obcaecati consectetur adipisicing</p>
-                                        </div>
-                                    </div>
-                                    <div class="clearfix"></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
             </section>
 
             <!-- Our-Causes -->
-            <section>
-                <div class="container pb-60">
-                    <div class="section-title text-center mb-40">
-                        <div class="row justify-content-md-center">
-                            <div class="col-md-6">
-                                <h2 class="title text-uppercase mt-0"><span class="">Our</span><span
-                                        class="text-theme-colored1">Causes</span></h2>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem autem voluptatem
-                                    obcaecati consectetur adipisicing</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="section-content">
-                        <div class="row">
-                            <div class="col-sm-12">
-                                <div class="tm-sc tm-sc-charitable-campaigns tm-sc-charitable-campaigns-grid">
-                                    <!-- Isotope Gallery Grid -->
-                                    <div class="isotope-layout grid-3 clearfix">
-                                        <!-- the loop -->
-                                        <div class="isotope-item food water">
-                                            <div
-                                                class="charitable-campaign campaign type-campaign campaign_category-food">
-                                                <div class="campaign-inner">
-                                                    <div class="campaign-thumbnail"><a href="#"><img
-                                                                width="672" height="448"
-                                                                src="images/causes/1.jpg"
-                                                                class="img-fullwidth wp-post-image"
-                                                                alt="" /></a></div>
-                                                    <div class="campaign-content">
-                                                        <h4 class="campaign-title"><a href="#">Sponsor a
-                                                                Child</a></h4>
-                                                        <div class="campaign-meta"></div>
-                                                        <div class="campaign-description"> Lorem ipsum dolor sit amet,
-                                                            consect adipisicing elit. Praesent quos sit.Lorem ipsum
-                                                            dolor sit amet, consect adipisicing elit. Praesent quos sit.
-                                                        </div>
-                                                        <div class="tm-sc tm-sc-progress-bar progress-bar-default charitable-progress-bar"
-                                                            data-percent="80" data-unit-left="$" data-unit-right=""
-                                                            data-bar-height="" data-barcolor="bg-theme-colored1">
-                                                            <div class="progress-holder">
-                                                                <div class="progress-content"><span
-                                                                        class="symbol-left">$</span><span
-                                                                        class="value">80</span><span
-                                                                        class="symbol-right"></span></div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="campaign-donation-stats">
-                                                            <div class="donation-raised"><span
-                                                                    class="progress-title">Raised:</span><span
-                                                                    class="amount">&#036;4,000.00</span></div>
-                                                            <div class="donation-goal"><span
-                                                                    class="progress-title">Goal:</span><span
-                                                                    class="amount goal-amount">&#036;7,500.00</span>
-                                                            </div>
-                                                        </div>
-                                                        <div class="campaigns-btn"><a href="#"
-                                                                class="btn btn-theme-colored1 btn-xs">View
-                                                                Details</a><a href="#"
-                                                                class="btn btn-dark btn-xs">Donate Now</a>
-                                                            <div class="clearfix"></div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="isotope-item food water">
-                                            <div
-                                                class="charitable-campaign campaign type-campaign campaign_category-food">
-                                                <div class="campaign-inner">
-                                                    <div class="campaign-thumbnail"><a href="#"><img
-                                                                width="672" height="448"
-                                                                src="images/causes/7.jpg"
-                                                                class="img-fullwidth wp-post-image"
-                                                                alt="" /></a> </div>
-                                                    <div class="campaign-content">
-                                                        <h4 class="campaign-title"><a href="#"> Help Senior
-                                                                Citizens</a></h4>
-                                                        <div class="campaign-meta"></div>
-                                                        <div class="campaign-description"> Lorem ipsum dolor sit amet,
-                                                            consect adipisicing elit. Praesent quos sit.Lorem ipsum
-                                                            dolor sit amet, consect adipisicing elit. Praesent quos sit.
-                                                        </div>
-                                                        <div class="tm-sc tm-sc-progress-bar progress-bar-default charitable-progress-bar"
-                                                            data-percent="70" data-unit-left="$" data-unit-right=""
-                                                            data-bar-height="" data-barcolor="bg-theme-colored1">
-                                                            <div class="progress-holder">
-                                                                <div class="progress-content"><span
-                                                                        class="symbol-left">$</span><span
-                                                                        class="value">70</span><span
-                                                                        class="symbol-right"></span></div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="campaign-donation-stats">
-                                                            <div class="donation-raised"><span
-                                                                    class="progress-title">Raised:</span><span
-                                                                    class="amount">&#036;2,000.00</span></div>
-                                                            <div class="donation-goal"><span
-                                                                    class="progress-title">Goal:</span><span
-                                                                    class="amount goal-amount">&#036;8,600.00</span>
-                                                            </div>
-                                                        </div>
-                                                        <div class="campaigns-btn"><a href="#"
-                                                                class="btn btn-theme-colored1 btn-xs"> View
-                                                                Details</a><a href="#"
-                                                                class="btn btn-dark btn-xs"> Donate Now</a>
-                                                            <div class="clearfix"></div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="isotope-item environment water">
-                                            <div
-                                                class="charitable-campaign campaign type-campaign campaign_category-environment">
-                                                <div class="campaign-inner">
-                                                    <div class="campaign-thumbnail"> <a href="#"><img
-                                                                width="672" height="448"
-                                                                src="images/causes/3.jpg"
-                                                                class="img-fullwidth wp-post-image"
-                                                                alt="" /></a> </div>
-                                                    <div class="campaign-content">
-                                                        <h4 class="campaign-title"> <a href="#"> Help rebuild
-                                                                Nepal </a> </h4>
-                                                        <div class="campaign-meta"> </div>
-                                                        <div class="campaign-description"> Lorem ipsum dolor sit amet,
-                                                            consect adipisicing elit. Praesent quos sit.Lorem ipsum
-                                                            dolor sit amet, consect adipisicing elit. Praesent quos sit.
-                                                        </div>
-                                                        <div class="tm-sc tm-sc-progress-bar progress-bar-default charitable-progress-bar"
-                                                            data-percent="90" data-unit-left="$" data-unit-right=""
-                                                            data-bar-height="" data-barcolor="bg-theme-colored1">
-                                                            <div class="progress-holder">
-                                                                <div class="progress-content"><span
-                                                                        class="symbol-left">$</span><span
-                                                                        class="value">90</span><span
-                                                                        class="symbol-right"></span></div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="campaign-donation-stats">
-                                                            <div class="donation-raised"><span
-                                                                    class="progress-title">Raised:</span> <span
-                                                                    class="amount">&#036;5,000.00</span></div>
-                                                            <div class="donation-goal"><span
-                                                                    class="progress-title">Goal:</span> <span
-                                                                    class="amount goal-amount">&#036;5,600.00</span>
-                                                            </div>
-                                                        </div>
-                                                        <div class="campaigns-btn"> <a href="#"
-                                                                class="btn btn-theme-colored1 btn-xs"> View
-                                                                Details</a><a href="#"
-                                                                class="btn btn-dark btn-xs"> Donate Now </a>
-                                                            <div class="clearfix"></div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- end of the loop -->
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
 
             <!-- Funfact -->
             <section class="bg-theme-colored1">
@@ -1423,9 +1051,11 @@
                                                             </div>
                                                         </div>
                                                         <div class="staff-content">
-                                                            <h4 class="name"><a href="#">Andy Rojar</a></h4>
+                                                            <h4 class="name"><a href="#">Andy Rojar</a>
+                                                            </h4>
                                                             <div class="speciality">Web Developer</div>
-                                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit
+                                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing
+                                                                elit
                                                             </p>
                                                             <div class="staff-btn">
                                                                 <div class="btn-view-details">
@@ -1474,7 +1104,8 @@
                                                             <h4 class="name"><a href="#">Jacob Smith</a>
                                                             </h4>
                                                             <div class="speciality">UI/UX Designer</div>
-                                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit
+                                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing
+                                                                elit
                                                             </p>
                                                             <div class="staff-btn">
                                                                 <div class="btn-view-details">
@@ -1510,7 +1141,8 @@
                                                                                     class="fa fa-instagram"></i></a>
                                                                         </li>
                                                                         <li><a target="_blank" href="#"><i
-                                                                                    class="fa fa-skype"></i></a></li>
+                                                                                    class="fa fa-skype"></i></a>
+                                                                        </li>
                                                                         <li><a target="_blank" href="#"><i
                                                                                     class="fa fa-twitter"></i></a>
                                                                         </li>
@@ -1522,7 +1154,8 @@
                                                             <h4 class="name"><a href="#">Petey Cruiser</a>
                                                             </h4>
                                                             <div class="speciality">Project Manager</div>
-                                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit
+                                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing
+                                                                elit
                                                             </p>
                                                             <div class="staff-btn">
                                                                 <div class="btn-view-details">
@@ -1571,7 +1204,8 @@
                                                             <h4 class="name"><a href="#">Anna Sthesia</a>
                                                             </h4>
                                                             <div class="speciality">UI/UX Designer</div>
-                                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit
+                                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing
+                                                                elit
                                                             </p>
                                                             <div class="staff-btn">
                                                                 <div class="btn-view-details">
@@ -1607,7 +1241,8 @@
                                                                                     class="fa fa-instagram"></i></a>
                                                                         </li>
                                                                         <li><a target="_blank" href="#"><i
-                                                                                    class="fa fa-skype"></i></a></li>
+                                                                                    class="fa fa-skype"></i></a>
+                                                                        </li>
                                                                         <li><a target="_blank" href="#"><i
                                                                                     class="fa fa-twitter"></i></a>
                                                                         </li>
@@ -1619,7 +1254,8 @@
                                                             <h4 class="name"><a href="#">Paige Turner</a>
                                                             </h4>
                                                             <div class="speciality">Web Designer</div>
-                                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit
+                                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing
+                                                                elit
                                                             </p>
                                                             <div class="staff-btn">
                                                                 <div class="btn-view-details">
@@ -1665,9 +1301,11 @@
                                                             </div>
                                                         </div>
                                                         <div class="staff-content">
-                                                            <h4 class="name"><a href="#">Tara Misu</a></h4>
+                                                            <h4 class="name"><a href="#">Tara Misu</a>
+                                                            </h4>
                                                             <div class="speciality">Web Developer</div>
-                                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit
+                                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing
+                                                                elit
                                                             </p>
                                                             <div class="staff-btn">
                                                                 <div class="btn-view-details">
@@ -1690,682 +1328,6 @@
                     </div>
                 </div>
             </section>
-
-            <!-- Upcoming Events -->
-            <section data-tm-bg-color="#f8f4f0">
-                <div class="container pb-60">
-                    <div class="section-title text-center mb-40">
-                        <div class="row justify-content-md-center">
-                            <div class="col-md-6">
-                                <h2 class="title text-uppercase mt-0"><span class="">Upcoming</span> <span
-                                        class="text-theme-colored1">Events</span></h2>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem autem voluptatem
-                                    obcaecati consectetur adipisicing</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="section-content">
-                        <div class="row">
-                            <div class="col-sm-12">
-                                <div class="tm-sc tm-sc-tribe-events tm-sc-tribe-events-carousel owl-dots-light-skin">
-                                    <!-- Isotope Gallery Grid -->
-                                    <div class="owl-carousel owl-theme tm-owl-carousel-2col" data-nav="true"
-                                        data-autoplay="true" data-loop="true" data-duration="6000"
-                                        data-margin="30">
-                                        <!-- the loop -->
-                                        <div class="tm-carousel-item nightlife">
-                                            <div
-                                                class="event type-tribe_events post-282 tribe-clearfix tribe-events-category-nightlife tribe-events-venue-264 tribe-events-organizer-273 tribe-events-first tribe-events-last">
-                                                <div class="event-thumb">
-                                                    <div class="tribe-events-event-image"><a href="#"
-                                                            tabindex="-1"><img width="672" height="448"
-                                                                src="images/event/1.jpg" alt="" /></a></div>
-                                                    <div class="event-start-date">
-                                                        <span class="event-start-day">01</span>
-                                                        <span class="event-start-month">Sep</span>
-                                                    </div>
-                                                </div>
-                                                <div class="event-content">
-                                                    <h5 class="event-title">
-                                                        <a href="#" title="Rock Concert">Rock Concert</a>
-                                                    </h5>
-                                                    <div class="event-meta">
-                                                        <div class="each-meta event-schedule-details">
-                                                            <i class="fa fa-clock-o"></i> 8:00 pm - 11:30 pm
-                                                        </div>
-                                                    </div>
-                                                    <div class="event-excerpt">
-                                                        <p>Who's that then? Shh! Knights, I bid you welcome to your new
-                                                            home.</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="tm-carousel-item family-fun">
-                                            <div
-                                                class="event type-tribe_events post-284 tribe-clearfix tribe-events-category-family-fun tribe-events-venue-261 tribe-events-organizer-272 tribe-events-first tribe-events-last">
-                                                <div class="event-thumb">
-                                                    <div class="tribe-events-event-image"><a href="#"
-                                                            tabindex="-1"><img width="672" height="448"
-                                                                src="images/event/2.jpg" alt="" /></a></div>
-                                                    <div class="event-start-date">
-                                                        <span class="event-start-day">23</span>
-                                                        <span class="event-start-month">Aug</span>
-                                                    </div>
-                                                </div>
-                                                <div class="event-content">
-                                                    <h5 class="event-title">
-                                                        <a href="#" title="Farmer’s Market">Farmer’s
-                                                            Market</a>
-                                                    </h5>
-                                                    <div class="event-meta">
-                                                        <div class="each-meta event-schedule-details">
-                                                            <i class="fa fa-clock-o"></i> 12:00 am - 11:59 pm
-                                                        </div>
-                                                    </div>
-                                                    <div class="event-excerpt">
-                                                        <p>Who's that then? Shh! Knights, I bid you welcome to your new
-                                                            home.</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="tm-carousel-item family-fun">
-                                            <div
-                                                class="event type-tribe_events post-277 tribe-clearfix tribe-events-category-family-fun tribe-events-venue-267 tribe-events-organizer-274 tribe-events-first tribe-events-last">
-                                                <div class="event-thumb">
-                                                    <div class="tribe-events-event-image"><a href="#"
-                                                            tabindex="-1"><img width="672" height="448"
-                                                                src="images/event/3.jpg" alt="" /></a></div>
-                                                    <div class="event-start-date">
-                                                        <span class="event-start-day">14</span>
-                                                        <span class="event-start-month">Aug</span>
-                                                    </div>
-                                                </div>
-                                                <div class="event-content">
-                                                    <h5 class="event-title">
-                                                        <a href="#" title="Movie Marathon">Movie Marathon</a>
-                                                    </h5>
-                                                    <div class="event-meta">
-                                                        <div class="each-meta event-schedule-details">
-                                                            <i class="fa fa-clock-o"></i> 10:00 am - 8:00 pm
-                                                        </div>
-                                                    </div>
-                                                    <div class="event-excerpt">
-                                                        <p>Who's that then? Shh! Knights, I bid you welcome to your new
-                                                            home.</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- end of the loop -->
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <!-- Our Gallery -->
-            <section>
-                <div class="container pb-70">
-                    <div class="section-title text-center mb-40">
-                        <div class="row justify-content-md-center">
-                            <div class="col-md-6">
-                                <h2 class="title text-uppercase mt-0"><span class="">Photo</span> <span
-                                        class="text-theme-colored1">
-                                        Gallery</span></h2>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem autem voluptatem
-                                    obcaecati consectetur adipisicing</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="section-content">
-                        <div class="row">
-                            <div class="col-sm-12">
-
-                                <div class="tm-sc tm-sc-gallery tm-sc-gallery-masonry gallery-style1-current-theme">
-                                    <!-- Isotope Filter -->
-                                    <div class="isotope-layout-filter filter-style-2 text-center cat-filter-default"
-                                        data-link-with="gallery-holder-1">
-                                        <a href="#" class="active" data-filter="*">All</a>
-                                        <a href="#festival" class="" data-filter=".festival">Festival</a>
-                                        <a href="#picnic" class="" data-filter=".picnic">Picnic</a>
-                                        <a href="#meeting" class="" data-filter=".meeting">Meeting</a>
-                                    </div>
-                                    <!-- End Isotope Filter -->
-
-                                    <!-- Isotope Gallery Grid -->
-                                    <div id="gallery-holder-1"
-                                        class="isotope-layout masonry grid-3 gutter-15 clearfix lightgallery-lightbox">
-                                        <div class="isotope-layout-inner">
-                                            <div class="isotope-item isotope-item-sizer"></div>
-
-                                            <!-- Isotope Item Start -->
-                                            <div class="isotope-item  festival picnic">
-                                                <div class="isotope-item-inner tm-gallery">
-                                                    <div class="tm-gallery-inner">
-                                                        <div class="thumb ">
-                                                            <a href="#"><img src="images/gallery/1.jpg"
-                                                                    alt=""></a>
-                                                        </div>
-                                                        <div class="tm-gallery-content-wrapper">
-                                                            <div class="tm-gallery-content">
-                                                                <div class="tm-gallery-content-inner">
-                                                                    <div class="icons-holder-inner">
-                                                                        <div
-                                                                            class="styled-icons icon-dark icon-circled icon-theme-colored1">
-                                                                            <a class="lightgallery-trigger styled-icons-item"
-                                                                                data-exthumbimage="images/gallery/1.jpg"
-                                                                                data-src="images/gallery/1.jpg"
-                                                                                title="Project Title Here"
-                                                                                href="images/gallery/1.jpg"><i
-                                                                                    class="fa fa-plus"></i></a> <a
-                                                                                class="styled-icons-item"
-                                                                                title="Project Title Here"
-                                                                                href="#"><i
-                                                                                    class="fa fa-link"></i></a>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="title-holder">
-                                                                        <h5 class="title"><a href="#">Project
-                                                                                Title Here</a></h5>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <!-- Isotope Item End -->
-
-                                            <!-- Isotope Item Start -->
-                                            <div class="isotope-item  festival picnic">
-                                                <div class="isotope-item-inner tm-gallery">
-                                                    <div class="tm-gallery-inner">
-                                                        <div class="thumb ">
-                                                            <a href="#"><img src="images/gallery/1.jpg"
-                                                                    alt=""></a>
-                                                        </div>
-                                                        <div class="tm-gallery-content-wrapper">
-                                                            <div class="tm-gallery-content">
-                                                                <div class="tm-gallery-content-inner">
-                                                                    <div class="icons-holder-inner">
-                                                                        <div
-                                                                            class="styled-icons icon-dark icon-circled icon-theme-colored1">
-                                                                            <a class="lightgallery-trigger styled-icons-item"
-                                                                                data-exthumbimage="images/gallery/1.jpg"
-                                                                                data-src="images/gallery/1.jpg"
-                                                                                title="Project Title Here"
-                                                                                href="images/gallery/1.jpg"><i
-                                                                                    class="fa fa-plus"></i></a> <a
-                                                                                class="styled-icons-item"
-                                                                                title="Project Title Here"
-                                                                                href="#"><i
-                                                                                    class="fa fa-link"></i></a>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="title-holder">
-                                                                        <h5 class="title"><a href="#">Project
-                                                                                Title Here</a></h5>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <!-- Isotope Item End -->
-
-                                            <!-- Isotope Item Start -->
-                                            <div class="isotope-item  meeting picnic">
-                                                <div class="isotope-item-inner tm-gallery">
-                                                    <div class="tm-gallery-inner">
-                                                        <div class="thumb ">
-                                                            <a href="#"><img src="images/gallery/1.jpg"
-                                                                    alt=""></a>
-                                                        </div>
-                                                        <div class="tm-gallery-content-wrapper">
-                                                            <div class="tm-gallery-content">
-                                                                <div class="tm-gallery-content-inner">
-                                                                    <div class="icons-holder-inner">
-                                                                        <div
-                                                                            class="styled-icons icon-dark icon-circled icon-theme-colored1">
-                                                                            <a class="lightgallery-trigger styled-icons-item"
-                                                                                data-exthumbimage="images/gallery/1.jpg"
-                                                                                data-src="images/gallery/1.jpg"
-                                                                                title="Project Title Here"
-                                                                                href="images/gallery/1.jpg"><i
-                                                                                    class="fa fa-plus"></i></a> <a
-                                                                                class="styled-icons-item"
-                                                                                title="Project Title Here"
-                                                                                href="#"><i
-                                                                                    class="fa fa-link"></i></a>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="title-holder">
-                                                                        <h5 class="title"><a href="#">Project
-                                                                                Title Here</a></h5>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <!-- Isotope Item End -->
-
-                                            <!-- Isotope Item Start -->
-                                            <div class="isotope-item  festival picnic">
-                                                <div class="isotope-item-inner tm-gallery">
-                                                    <div class="tm-gallery-inner">
-                                                        <div class="thumb ">
-                                                            <a href="#"><img src="images/gallery/1.jpg"
-                                                                    alt=""></a>
-                                                        </div>
-                                                        <div class="tm-gallery-content-wrapper">
-                                                            <div class="tm-gallery-content">
-                                                                <div class="tm-gallery-content-inner">
-                                                                    <div class="icons-holder-inner">
-                                                                        <div
-                                                                            class="styled-icons icon-dark icon-circled icon-theme-colored1">
-                                                                            <a class="lightgallery-trigger styled-icons-item"
-                                                                                data-exthumbimage="images/gallery/1.jpg"
-                                                                                data-src="images/gallery/1.jpg"
-                                                                                title="Project Title Here"
-                                                                                href="images/gallery/1.jpg"><i
-                                                                                    class="fa fa-plus"></i></a> <a
-                                                                                class="styled-icons-item"
-                                                                                title="Project Title Here"
-                                                                                href="#"><i
-                                                                                    class="fa fa-link"></i></a>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="title-holder">
-                                                                        <h5 class="title"><a href="#">Project
-                                                                                Title Here</a></h5>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <!-- Isotope Item End -->
-
-                                            <!-- Isotope Item Start -->
-                                            <div class="isotope-item  festival">
-                                                <div class="isotope-item-inner tm-gallery">
-                                                    <div class="tm-gallery-inner">
-                                                        <div class="thumb ">
-                                                            <a href="#"><img src="images/gallery/1.jpg"
-                                                                    alt=""></a>
-                                                        </div>
-                                                        <div class="tm-gallery-content-wrapper">
-                                                            <div class="tm-gallery-content">
-                                                                <div class="tm-gallery-content-inner">
-                                                                    <div class="icons-holder-inner">
-                                                                        <div
-                                                                            class="styled-icons icon-dark icon-circled icon-theme-colored1">
-                                                                            <a class="lightgallery-trigger styled-icons-item"
-                                                                                data-exthumbimage="images/gallery/1.jpg"
-                                                                                data-src="images/gallery/1.jpg"
-                                                                                title="Project Title Here"
-                                                                                href="images/gallery/1.jpg"><i
-                                                                                    class="fa fa-plus"></i></a> <a
-                                                                                class="styled-icons-item"
-                                                                                title="Project Title Here"
-                                                                                href="#"><i
-                                                                                    class="fa fa-link"></i></a>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="title-holder">
-                                                                        <h5 class="title"><a href="#">Project
-                                                                                Title Here</a></h5>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <!-- Isotope Item End -->
-
-                                            <!-- Isotope Item Start -->
-                                            <div class="isotope-item meeting">
-                                                <div class="isotope-item-inner tm-gallery">
-                                                    <div class="tm-gallery-inner">
-                                                        <div class="thumb ">
-                                                            <a href="#"><img src="images/gallery/1.jpg"
-                                                                    alt=""></a>
-                                                        </div>
-                                                        <div class="tm-gallery-content-wrapper">
-                                                            <div class="tm-gallery-content">
-                                                                <div class="tm-gallery-content-inner">
-                                                                    <div class="icons-holder-inner">
-                                                                        <div
-                                                                            class="styled-icons icon-dark icon-circled icon-theme-colored1">
-                                                                            <a class="lightgallery-trigger styled-icons-item"
-                                                                                data-exthumbimage="images/gallery/1.jpg"
-                                                                                data-src="images/gallery/1.jpg"
-                                                                                title="Project Title Here"
-                                                                                href="images/gallery/1.jpg"><i
-                                                                                    class="fa fa-plus"></i></a> <a
-                                                                                class="styled-icons-item"
-                                                                                title="Project Title Here"
-                                                                                href="#"><i
-                                                                                    class="fa fa-link"></i></a>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="title-holder">
-                                                                        <h5 class="title"><a href="#">Project
-                                                                                Title Here</a></h5>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <!-- Isotope Item End -->
-                                        </div>
-                                    </div>
-                                    <!-- End Isotope Gallery Grid -->
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <!-- Testimonials-->
-            <section class="layer-overlay overlay-white-4" data-tm-bg-color="#f8f4f0"
-                data-tm-bg-img="images/testimonials/bg.png">
-                <div class="container pb-70">
-                    <div class="section-title text-center mb-40">
-                        <div class="row justify-content-md-center">
-                            <div class="col-md-6">
-                                <h2 class="title text-uppercase mt-0"><span class="">Clients</span> <span
-                                        class="text-theme-colored1">Testimonials</span></h2>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem autem voluptatem
-                                    obcaecati consectetur adipisicing</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="section-content">
-                        <div class="row">
-                            <div class="col-sm-12">
-                                <div
-                                    class="tm-sc tm-sc-testimonials tm-sc-testimonials-masonry testimonial-style4-modern testimonial-has-quote-icon">
-                                    <!-- Isotope Gallery Grid -->
-                                    <div class="isotope-layout masonry grid-3 clearfix">
-                                        <div class="isotope-item isotope-item-sizer"></div>
-                                        <!-- the loop -->
-                                        <div class="isotope-item mb-0 mb-sm-30">
-                                            <div class="tm-testimonial testimonials type-testimonials">
-                                                <div class="testimonial-inner">
-                                                    <div class="testimonial-text-holder bg-white">
-                                                        <div class="author-text">Lorem ipsum dolor sit ametconse
-                                                            ctetur adipisicing elitvolup tatem error sit qui dolorem
-                                                            facilis.Lorem ipsum dolor sit ametconse ctetur adipisicing
-                                                            elitvolup tatem error sit qui dolorem facilis.</div>
-                                                        <div class="star-rating">
-                                                            <span data-tm-width="80%"></span>
-                                                        </div>
-                                                    </div>
-                                                    <div class="testimonial-author-details">
-                                                        <div class="testimonial-image-holder">
-                                                            <div class="author-thumb">
-                                                                <img src="images/testimonials/1.png"
-                                                                    class="img-thumbnail rounded-circle wp-post-image"
-                                                                    alt="">
-                                                            </div>
-                                                        </div>
-                                                        <div class="testimonial-author-info-holder">
-                                                            <span class="name">Masa Daw</span>
-                                                            <span class="job-position">Employee</span>
-                                                            <a class="company-url"
-                                                                href="http://www.kodesolution.com">kodesolution</a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="isotope-item mb-0 mb-sm-30">
-                                            <div class="tm-testimonial testimonials type-testimonials">
-                                                <div class="testimonial-inner">
-                                                    <div class="testimonial-text-holder bg-white">
-                                                        <div class="author-text">Lorem ipsum dolor sit ametconse
-                                                            ctetur adipisicing elitvolup tatem error sit qui dolorem
-                                                            facilis.Lorem ipsum dolor sit ametconse ctetur adipisicing
-                                                            elitvolup tatem error sit qui dolorem facilis.</div>
-                                                        <div class="star-rating">
-                                                            <span data-tm-width="90%"></span>
-                                                        </div>
-                                                    </div>
-                                                    <div class="testimonial-author-details">
-                                                        <div class="testimonial-image-holder">
-                                                            <div class="author-thumb">
-                                                                <img src="images/testimonials/2.jpg"
-                                                                    class="img-thumbnail rounded-circle wp-post-image"
-                                                                    alt="">
-                                                            </div>
-                                                        </div>
-                                                        <div class="testimonial-author-info-holder">
-                                                            <span class="name">Ismo Duo</span>
-                                                            <span class="job-position">C.E.O</span>
-                                                            <a class="company-url"
-                                                                href="http://www.kodesolution.com">kodesolution</a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="isotope-item mb-0 mb-sm-30">
-                                            <div class="tm-testimonial testimonials type-testimonials">
-                                                <div class="testimonial-inner">
-                                                    <div class="testimonial-text-holder bg-white">
-                                                        <div class="author-text">Lorem ipsum dolor sit ametconse
-                                                            ctetur adipisicing elitvolup tatem error sit qui dolorem
-                                                            facilis.Lorem ipsum dolor sit ametconse ctetur adipisicing
-                                                            elitvolup tatem error sit qui dolorem facilis.</div>
-                                                        <div class="star-rating">
-                                                            <span data-tm-width="100%"></span>
-                                                        </div>
-                                                    </div>
-                                                    <div class="testimonial-author-details">
-                                                        <div class="testimonial-image-holder">
-                                                            <div class="author-thumb">
-                                                                <img src="images/testimonials/3.jpg"
-                                                                    class="img-thumbnail rounded-circle wp-post-image"
-                                                                    alt="">
-                                                            </div>
-                                                        </div>
-                                                        <div class="testimonial-author-info-holder">
-                                                            <span class="name">Zakaria jacon</span>
-                                                            <span class="job-position">Employee</span>
-                                                            <a class="company-url"
-                                                                href="http://www.kodesolution.com">kodesolution</a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- end of the loop -->
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <!-- Blog -->
-            <section>
-                <div class="container pb-60">
-                    <div class="section-title text-center mb-40">
-                        <div class="row justify-content-md-center">
-                            <div class="col-md-6">
-                                <h2 class="title text-uppercase mt-0"><span class="">Latest</span> <span
-                                        class="text-theme-colored1">News</span></h2>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem autem voluptatem
-                                    obcaecati consectetur adipisicing</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="section-content">
-                        <div class="row">
-                            <div class="col-sm-12">
-                                <div class="tm-sc tm-sc-blog tm-sc-blog-grid blog-style2-standard">
-                                    <!-- Isotope Gallery Grid -->
-                                    <div class="isotope-layout grid-3 clearfix">
-                                        <!-- the loop -->
-                                        <div class="isotope-item home">
-                                            <article class="post type-post status-publish format-standard">
-                                                <div class="entry-header">
-                                                    <div class="post-thumb thumb lightgallery-lightbox">
-                                                        <div class="box-hover-effect">
-                                                            <div class="effect-wrapper">
-                                                                <div class="thumb">
-                                                                    <a href="news-details.html"
-                                                                        title="Adopt Orphan Child"><img
-                                                                            width="360" height="240"
-                                                                            src="images/blog/1.jpg"
-                                                                            alt=""></a>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="entry-content">
-                                                    <!-- title tag must be dynamic like conall -->
-                                                    <h4 class="entry-title"><a href="news-details.html"
-                                                            rel="bookmark">Adopt Orphan Child</a></h4>
-                                                    <ul class="entry-meta list-inline">
-                                                        <li class="list-inline-item author"><i
-                                                                class="fa fa-user-o"></i> <span class="byline">By
-                                                                <span class="author vcard"><a class="url fn n"
-                                                                        href="#"
-                                                                        rel="author">jakaria</a></span></span></li>
-                                                        <li class="list-inline-item posted-date"><i
-                                                                class="fa fa-calendar-o"></i> <a href="#"
-                                                                rel="bookmark">February 21, 2019</a></li>
-                                                    </ul>
-                                                    <div class="post-excerpt">
-                                                        <div class="mascot-post-excerpt">Lorem ipsum dolor sit amet,
-                                                            consectetur adipiscing elit. Mauris tortor ipsum, suscipit
-                                                            vitae lacus ac, sagittis pretium sem. Nulla placerat
-                                                            sollicitudin tempor....</div>
-                                                    </div>
-                                                    <div class="post-btn-readmore mt-20">
-                                                        <a href="news-details.html"
-                                                            class="btn btn-theme-colored1 btn-sm">View Details</a>
-                                                    </div>
-                                                    <div class="clearfix"></div>
-                                                </div>
-                                            </article>
-                                        </div>
-                                        <div class="isotope-item medicine">
-                                            <article class="post type-post status-publish format-standard">
-                                                <div class="entry-header">
-                                                    <div class="post-thumb thumb lightgallery-lightbox">
-                                                        <div class="box-hover-effect">
-                                                            <div class="effect-wrapper">
-                                                                <div class="thumb">
-                                                                    <a href="news-details.html"
-                                                                        title="Provide Healthy Food"><img
-                                                                            width="360" height="240"
-                                                                            src="images/blog/2.jpg"
-                                                                            alt=""></a>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="entry-content">
-                                                    <!-- title tag must be dynamic like conall -->
-                                                    <h4 class="entry-title"><a href="news-details.html"
-                                                            rel="bookmark">Provide Healthy Food</a></h4>
-                                                    <ul class="entry-meta list-inline">
-                                                        <li class="list-inline-item author"><i
-                                                                class="fa fa-user-o"></i> <span class="byline">By
-                                                                <span class="author vcard"><a class="url fn n"
-                                                                        href="#"
-                                                                        rel="author">jakaria</a></span></span></li>
-                                                        <li class="list-inline-item posted-date"><i
-                                                                class="fa fa-calendar-o"></i> <a href="#"
-                                                                rel="bookmark">February 21, 2019</a></li>
-                                                    </ul>
-                                                    <div class="post-excerpt">
-                                                        <div class="mascot-post-excerpt">Lorem ipsum dolor sit amet,
-                                                            consectetur adipiscing elit. Mauris tortor ipsum, suscipit
-                                                            vitae lacus ac, sagittis pretium sem. Nulla placerat
-                                                            sollicitudin tempor....</div>
-                                                    </div>
-                                                    <div class="post-btn-readmore mt-20">
-                                                        <a href="news-details.html"
-                                                            class="btn btn-theme-colored1 btn-sm">
-                                                            View Details</a>
-                                                    </div>
-                                                    <div class="clearfix"></div>
-                                                </div>
-                                            </article>
-                                        </div>
-                                        <div class="isotope-item home">
-                                            <article class="post type-post status-publish format-standard">
-                                                <div class="entry-header">
-                                                    <div class="post-thumb thumb lightgallery-lightbox">
-                                                        <div class="box-hover-effect">
-                                                            <div class="effect-wrapper">
-                                                                <div class="thumb">
-                                                                    <a href="news-details.html"
-                                                                        title="School For Poor"><img width="360"
-                                                                            height="240" src="images/blog/3.jpg"
-                                                                            alt=""></a>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="entry-content">
-                                                    <!-- title tag must be dynamic like conall -->
-                                                    <h4 class="entry-title"><a href="news-details.html"
-                                                            rel="bookmark">School For Poor</a></h4>
-                                                    <ul class="entry-meta list-inline">
-                                                        <li class="list-inline-item author"><i
-                                                                class="fa fa-user-o"></i> <span class="byline">By
-                                                                <span class="author vcard"><a class="url fn n"
-                                                                        href="#"
-                                                                        rel="author">jakaria</a></span></span></li>
-                                                        <li class="list-inline-item posted-date"><i
-                                                                class="fa fa-calendar-o"></i> <a href="#"
-                                                                rel="bookmark">February 20, 2019</a></li>
-                                                    </ul>
-                                                    <div class="post-excerpt">
-                                                        <div class="mascot-post-excerpt">Lorem ipsum dolor sit amet,
-                                                            consectetur adipiscing elit. Mauris tortor ipsum, suscipit
-                                                            vitae lacus ac, sagittis pretium sem. Nulla placerat
-                                                            sollicitudin tempor....</div>
-                                                    </div>
-                                                    <div class="post-btn-readmore mt-20">
-                                                        <a href="news-details.html"
-                                                            class="btn btn-theme-colored1 btn-sm">
-                                                            View Details</a>
-                                                    </div>
-                                                    <div class="clearfix"></div>
-                                                </div>
-                                            </article>
-                                        </div>
-                                        <!-- end of the loop -->
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
             <!-- Client -->
             <section data-tm-bg-color="#f2f3f5">
                 <div class="container pt-40 pb-40">
@@ -2408,8 +1370,6 @@
             </section>
         </div>
         <!-- end main-content -->
-
-
 
         <!-- Footer -->
         <footer id="footer" class="footer">
