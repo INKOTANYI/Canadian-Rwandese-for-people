@@ -124,194 +124,21 @@
                                                 data-animation="none" data-align="right">
                                                 <ul id="main-nav" class="menuzord-menu">
                                                     <li class="active"><a href="#">Home</a>
-                                                        <ul class="dropdown">
-                                                            <li><a href="index-mp-layout1.html">Index-mp-layout1</a>
-                                                            </li>
-                                                            <li><a href="index-mp-layout2.html">Index-mp-layout2</a>
-                                                            </li>
-                                                            <li><a href="index-mp-layout3.html">Index-mp-layout3</a>
-                                                            </li>
-                                                            <li><a href="index-mp-layout4.html">Index-mp-layout4</a>
-                                                            </li>
-                                                            <li><a href="index-mp-layout5.html">Index-mp-layout5</a>
-                                                            </li>
-                                                        </ul>
+
                                                     </li>
                                                     <li><a href="#">Pages</a>
-                                                        <ul class="dropdown">
-                                                            <li><a href="page-about.html">About</a></li>
-                                                            <li><a href="#">Services</a>
-                                                                <ul class="dropdown">
-                                                                    <li><a href="page-services.html">Service Grid</a>
-                                                                    </li>
-                                                                    <li><a href="page-service-details.html">Service
-                                                                            Deatils</a></li>
-                                                                </ul>
-                                                            </li>
-                                                            <li><a href="#">Works</a>
-                                                                <ul class="dropdown">
-                                                                    <li><a href="page-works.html">Works Grid</a></li>
-                                                                    <li><a href="page-work-details.html">Work
-                                                                            Deatils</a></li>
-                                                                </ul>
-                                                            </li>
-                                                            <li><a href="#home">Volunteer</a>
-                                                                <ul class="dropdown">
-                                                                    <li><a href="page-volunteer-grid.html">Volunteer
-                                                                            Grid</a></li>
-                                                                    <li><a href="page-volunteer-carousel.html">Volunteer
-                                                                            Carousel</a></li>
-                                                                    <li><a href="page-volunteer-details.html">Volunteer
-                                                                            Details</a></li>
-                                                                </ul>
-                                                            </li>
-                                                            <li><a href="page-gallery.html">Gallery</a>
-                                                            <li><a href="page-event.html">Events</a>
-                                                        </ul>
+
                                                     </li>
                                                     <li><a href="#home">Causes</a>
-                                                        <ul class="dropdown">
-                                                            <li><a href="page-causes-grid.html">Causes Gird</a></li>
-                                                            <li><a href="page-causes-carousel.html">Causes Carousel</a>
-                                                            </li>
-                                                        </ul>
+
                                                     </li>
                                                     <li><a href="#">Blog</a>
-                                                        <ul class="dropdown">
-                                                            <li><a href="news-grid.html">News Grid</a></li>
-                                                            <li><a href="news-details.html">News Details</a></li>
-                                                        </ul>
+
                                                     </li>
                                                     <li
                                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children">
                                                         <a href="#">Shortcodes</a>
-                                                        <div
-                                                            class="megamenu megamenu-fullwidth megamenu-position-left">
-                                                            <div class="megamenu-row">
-                                                                <div class="col3">
-                                                                    <ul class="list-unstyled list-dashed">
-                                                                        <li
-                                                                            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children">
-                                                                            <a title="Theme Shortcodes"
-                                                                                class="menu-item-link tm-submenu-title"
-                                                                                href="#">Theme Shortcodes</a>
-                                                                            <ul class="list-unstyled list-dashed">
-                                                                                <li id="menu-item-18759"
-                                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18759">
-                                                                                    <a title="Before After Slider"
-                                                                                        class="menu-item-link"
-                                                                                        href="shortcode-before-after-slider.html"><span>Before
-                                                                                            After Slider</span></a>
-                                                                                </li>
-                                                                                <li id="menu-item-18760"
-                                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18760">
-                                                                                    <a title="Buttons"
-                                                                                        class="menu-item-link"
-                                                                                        href="shortcode-buttons.html"><span>Buttons</span></a>
-                                                                                </li>
-                                                                                <li id="menu-item-18761"
-                                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18761">
-                                                                                    <a title="Call to Action"
-                                                                                        class="menu-item-link"
-                                                                                        href="shortcode-call-to-actions.html"><span>Call
-                                                                                            to Action</span></a>
-                                                                                </li>
-                                                                            </ul>
-                                                                        </li>
-                                                                    </ul>
-                                                                </div>
-                                                                <div class="col3">
-                                                                    <ul class="list-unstyled list-dashed">
-                                                                        <li
-                                                                            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children">
-                                                                            <a title="Theme Shortcodes"
-                                                                                class="menu-item-link tm-submenu-title"
-                                                                                href="#">Theme Shortcodes</a>
-                                                                            <ul class="list-unstyled list-dashed">
-                                                                                <li id="menu-item-18762"
-                                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18762">
-                                                                                    <a title="Counter Up"
-                                                                                        class="menu-item-link"
-                                                                                        href="shortcode-funfacts.html"><span>Counter
-                                                                                            Up</span></a>
-                                                                                </li>
-                                                                                <li id="menu-item-18766"
-                                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18766">
-                                                                                    <a title="Iconbox"
-                                                                                        class="menu-item-link"
-                                                                                        href="shortcode-iconbox.html"><span>Iconbox</span></a>
-                                                                                </li>
-                                                                                <li id="menu-item-18771"
-                                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18771">
-                                                                                    <a title="Pie Chart"
-                                                                                        class="menu-item-link"
-                                                                                        href="shortcode-piechart.html"><span>Pie
-                                                                                            Chart</span></a>
-                                                                                </li>
-                                                                            </ul>
-                                                                        </li>
-                                                                    </ul>
-                                                                </div>
-                                                                <div class="col3">
-                                                                    <ul class="list-unstyled list-dashed">
-                                                                        <li id="menu-item-18748"
-                                                                            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18748 ">
-                                                                            <a title="Theme Shortcodes"
-                                                                                class="menu-item-link tm-submenu-title"
-                                                                                href="#"><span>Theme
-                                                                                    Shortcodes</span></a>
-                                                                            <ul class="list-unstyled list-dashed">
-                                                                                <li id="menu-item-18772"
-                                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18772">
-                                                                                    <a title="Pricing Tables"
-                                                                                        class="menu-item-link"
-                                                                                        href="pricing-table"><span>Pricing
-                                                                                            Tables</span></a>
-                                                                                </li>
-                                                                                <li id="menu-item-18773"
-                                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18773">
-                                                                                    <a title="Progress bars"
-                                                                                        class="menu-item-link"
-                                                                                        href="shortcode-progressbar.html"><span>Progress
-                                                                                            bars</span></a>
-                                                                                </li>
-                                                                                <li id="menu-item-18838"
-                                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18838">
-                                                                                    <a title="Testimonials"
-                                                                                        class="menu-item-link"
-                                                                                        href="shortcode-testimonials.html"><span>Testimonials</span></a>
-                                                                                </li>
-                                                                            </ul>
-                                                                        </li>
-                                                                    </ul>
-                                                                </div>
-                                                                <div class="col3">
-                                                                    <ul class="list-unstyled list-dashed">
-                                                                        <li id="menu-item-18748"
-                                                                            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18748 ">
-                                                                            <a title="Theme Shortcodes"
-                                                                                class="menu-item-link tm-submenu-title"
-                                                                                href="#"><span>Theme
-                                                                                    Shortcodes</span></a>
-                                                                            <ul class="list-unstyled list-dashed">
-                                                                                <li id="menu-item-18776"
-                                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18776">
-                                                                                    <a title="Typography"
-                                                                                        class="menu-item-link"
-                                                                                        href="shortcode-typography.html"><span>Typography</span></a>
-                                                                                </li>
-                                                                                <li id="menu-item-18839"
-                                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18839">
-                                                                                    <a title="Timeline"
-                                                                                        class="menu-item-link"
-                                                                                        href="shortcode-vertical-timeline.html"><span>Timeline</span></a>
-                                                                                </li>
-                                                                            </ul>
-                                                                        </li>
-                                                                    </ul>
-                                                                </div>
-                                                            </div>
-                                                        </div>
+
                                                     </li>
                                                     <li><a href="page-contact.html">Contact</a></li>
                                                 </ul>
@@ -345,31 +172,6 @@
         <!-- Start main-content -->
         <div class="main-content">
             <!-- Section: home -->
-            <section class="page-title divider layer-overlay overlay-dark-8 section-typo-light"
-                data-tm-bg-img="images/bg/bg8.jpg">
-                <div class="container pt-90 pb-90">
-                    <!-- Section Content -->
-                    <div class="section-content">
-                        <div class="row">
-                            <div class="col-md-12 text-center">
-                                <h2 class="title">Contact</h2>
-                                <nav role="navigation" class="breadcrumb-trail breadcrumbs">
-                                    <div class="breadcrumbs">
-                                        <span class="trail-item trail-begin">
-                                            <a href="#"><span>Home</span></a>
-                                        </span>
-                                        <span><i class="fa fa-angle-right"></i></span>
-                                        <span class="trail-item"><a href="#"><span>Pages</span></a></span>
-                                        <span><i class="fa fa-angle-right"></i></span>
-                                        <span itemscope itemtype="http://schema.org/ListItem"
-                                            class="trail-item trail-end active"><span>About</span></span>
-                                    </div>
-                                </nav>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
 
             <section>
                 <div class="container pb-0">
@@ -388,7 +190,8 @@
                                             Office Location
                                         </h3>
                                         <div class="content">
-                                            <p>121 King Street, Collins Street,&nbsp; 3000 Australia</p>
+                                            <p>
+                                                119 - 5510 Schonsee Drive NW Edmonton AB, Canada T5Z 0N9</p>
                                         </div>
                                     </div>
                                     <div class="clearfix"></div>

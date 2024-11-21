@@ -254,9 +254,7 @@
                                                 data-splitin="none" data-splitout="none" data-responsive_offset="on"
                                                 style="z-index: 7; white-space: nowrap;"><a href="#"
                                                     class="btn btn-dark btn-circled btn-round btn-theme-colored1 mr-10 pr-30 pl-30">Donate
-                                                    Now</a> <a href="#"
-                                                    class="btn btn-light btn-round pr-30 pl-30">Read More</a>
-                                            </div>
+                                                    Now</a> <a href="#" </div>
                                         </li>
                                         <!-- SLIDE 2 -->
                                         <li data-index="rs-2" data-transition="slidingoverlayhorizontal"
