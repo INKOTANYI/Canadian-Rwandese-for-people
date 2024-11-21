@@ -1006,8 +1006,8 @@
                             <div class="col-md-6">
                                 <h2 class="title text-uppercase mt-0"><span class="">Our</span> <span
                                         class="text-theme-colored1">Volunteers</span></h2>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem autem voluptatem
-                                    obcaecati consectetur adipisicing</p>
+                                <p>We believe that every small act of kindness can transform lives and that
+                                    passionate individuals like you make all the difference.</p>
                             </div>
                         </div>
                     </div>
