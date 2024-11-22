@@ -112,24 +112,22 @@
                                             <nav id="top-primary-nav" class="menuzord green" data-effect="fade"
                                                 data-animation="none" data-align="right">
                                                 <ul id="main-nav" class="menuzord-menu">
-                                                    <li class="active"><a href="#">Home</a>
+
+                                                    <li><a href="{{ route('about-us') }}">AboutUs</a>
 
                                                     </li>
-                                                    <li><a href="#">AboutUs</a>
+                                                    <li><a href="{{ route('causes') }}">Causes</a>
 
                                                     </li>
-                                                    <li><a href="#home">Causes</a>
-
-                                                    </li>
-                                                    <li><a href="#">Events</a>
+                                                    <li><a href="{{ route('events') }}">Events</a>
 
                                                     </li>
                                                     <li
                                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children">
-                                                        <a href="#">Contact-Us</a>
+                                                        <a href="{{ route('contact-us') }}">Contact-Us</a>
 
                                                     </li>
-                                                    <li><a href="page-contact.html">Galery</a></li>
+                                                    <li><a href="{{ route('contact-us') }}">Galery</a></li>
                                                 </ul>
                                             </nav>
                                         </div>
@@ -1384,14 +1382,11 @@
                                     <div class="thumb">
                                         <img alt="Logo" src="images/logo-wide-white.png">
                                     </div>
-                                    <div class="description">203, Envato Labs, Behind Alis Steet, Melbourne,
-                                        Australia.</div>
+                                    <div class="description">(CRFPD) is a non-profit
+                                        organization founded in 2017 and
+                                        incorporated in the Government of Alberta, Canada.</div>
                                     <ul>
-                                        <li class="contact-email">
-                                            <div class="icon"><i class="icon-globe"></i></div>
-                                            <div class="text"><a
-                                                    href="mailto:www.yourdomain.com">www.yourdomain.com</a></div>
-                                        </li>
+
                                     </ul>
                                 </div>
                             </div>
@@ -1417,23 +1412,19 @@
                                     <ul class="menu">
                                         <li id="menu-item-16307"
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16307">
-                                            <a href="#">About Us</a>
-                                        </li>
-                                        <li id="menu-item-16308"
-                                            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16308">
-                                            <a href="#">Online Video</a>
+                                            <a href="{{ route('about-us') }}">About Us</a>
                                         </li>
                                         <li id="menu-item-16309"
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16309">
-                                            <a href="#">Contact with us</a>
+                                            <a href="{{ route('about-us') }}">Contact with us</a>
                                         </li>
                                         <li id="menu-item-16310"
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16310">
-                                            <a href="#">News Portal</a>
+                                            <a href="{{ route('about-us') }}">Causes</a>
                                         </li>
                                         <li id="menu-item-16311"
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16311">
-                                            <a href="#">Press Release</a>
+                                            <a href="{{ route('about-us') }}">Galery</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -1513,12 +1504,7 @@
                         <div class="row pt-20 pb-20">
                             <div class="col-sm-6">
                                 <div class="footer-paragraph">
-                                    © 2019 ThemeMascot. All Rights Reserved.
-                                </div>
-                            </div>
-                            <div class="col-sm-6">
-                                <div class="footer-paragraph text-right">
-                                    Site Template
+                                    © 2024 CRFPD. All Rights Reserved.
                                 </div>
                             </div>
                         </div>
