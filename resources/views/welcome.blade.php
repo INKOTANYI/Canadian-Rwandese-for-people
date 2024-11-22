@@ -1328,6 +1328,7 @@
                 </div>
             </section>
             <!-- Client -->
+
             <section data-tm-bg-color="#f2f3f5">
                 <div class="container pt-40 pb-40">
                     <div class="section-content">
