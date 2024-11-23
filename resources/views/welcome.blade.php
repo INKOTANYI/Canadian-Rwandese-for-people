@@ -113,6 +113,9 @@
                                                 data-animation="none" data-align="right">
                                                 <ul id="main-nav" class="menuzord-menu">
 
+                                                    <li><a href="{{ route('home') }}">Home</a>
+
+
                                                     <li><a href="{{ route('about-us') }}">AboutUs</a>
 
                                                     </li>

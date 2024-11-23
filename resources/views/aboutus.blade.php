@@ -80,11 +80,12 @@
                         <div class="col-xl-auto header-top-left align-self-center text-center text-xl-left">
                             <ul class="element contact-info">
                                 <li class="contact-phone"><i class="fa fa-phone font-icon sm-display-block"></i> Tel:
-                                    +440-98-5298</li>
+                                    +1(780) 999-4052</li>
                                 <li class="contact-email"><i class="fa fa-envelope-o font-icon sm-display-block"></i>
-                                    info@example.com</li>
+                                    crfdisability@gmail.com</li>
                                 <li class="contact-address"><i class="fa fa-map-o font-icon sm-display-block"></i> 121
-                                    King Street, Melbourne</li>
+                                    119 - 5510 Schonsee Drive NW Edmonton AB, Canada T5Z 0N9
+                                    Alberta</li>
                             </ul>
                         </div>
                         <div
@@ -92,7 +93,7 @@
                             <div class="element">
                                 <ul class="header-top-nav list-inline">
                                     <li class="menu-item"><a title="Home" class="menu-item-link"
-                                            href="#"><strong>Home</strong></a></li>
+                                            href=""><strong>Home</strong></a></li>
                                     <li class="menu-item"><a title="Home" class="menu-item-link"
                                             href="#"><strong>Cart</strong></a></li>
                                     <li class="menu-item"><a title="Home" class="menu-item-link"
@@ -122,19 +123,8 @@
                                             <nav id="top-primary-nav" class="menuzord green" data-effect="fade"
                                                 data-animation="none" data-align="right">
                                                 <ul id="main-nav" class="menuzord-menu">
-                                                    <li class="active"><a href="#">Home</a>
-                                                        <ul class="dropdown">
-                                                            <li><a href="index-mp-layout1.html">Index-mp-layout1</a>
-                                                            </li>
-                                                            <li><a href="index-mp-layout2.html">Index-mp-layout2</a>
-                                                            </li>
-                                                            <li><a href="index-mp-layout3.html">Index-mp-layout3</a>
-                                                            </li>
-                                                            <li><a href="index-mp-layout4.html">Index-mp-layout4</a>
-                                                            </li>
-                                                            <li><a href="index-mp-layout5.html">Index-mp-layout5</a>
-                                                            </li>
-                                                        </ul>
+                                                    <li class="active"><a href="{{ route('causes') }}">Home</a>
+
                                                     </li>
                                                     <li><a href="#">Pages</a>
                                                         <ul class="dropdown">

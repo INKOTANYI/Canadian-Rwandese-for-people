@@ -27,4 +27,9 @@ Route::get('galery', function () {
 })->name('galery');
 
 
+Route::get('home', function () {
+    return view('welcome');
+})->name('home');
+
+
 
