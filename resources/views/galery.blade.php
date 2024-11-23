@@ -200,7 +200,8 @@
                                                                                     <a title="Before After Slider"
                                                                                         class="menu-item-link"
                                                                                         href="shortcode-before-after-slider.html"><span>Before
-                                                                                            After Slider</span></a></li>
+                                                                                            After Slider</span></a>
+                                                                                </li>
                                                                                 <li id="menu-item-18760"
                                                                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18760">
                                                                                     <a title="Buttons"
@@ -212,7 +213,8 @@
                                                                                     <a title="Call to Action"
                                                                                         class="menu-item-link"
                                                                                         href="shortcode-call-to-actions.html"><span>Call
-                                                                                            to Action</span></a></li>
+                                                                                            to Action</span></a>
+                                                                                </li>
                                                                             </ul>
                                                                         </li>
                                                                     </ul>
@@ -230,7 +232,8 @@
                                                                                     <a title="Counter Up"
                                                                                         class="menu-item-link"
                                                                                         href="shortcode-funfacts.html"><span>Counter
-                                                                                            Up</span></a></li>
+                                                                                            Up</span></a>
+                                                                                </li>
                                                                                 <li id="menu-item-18766"
                                                                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18766">
                                                                                     <a title="Iconbox"
@@ -242,7 +245,8 @@
                                                                                     <a title="Pie Chart"
                                                                                         class="menu-item-link"
                                                                                         href="shortcode-piechart.html"><span>Pie
-                                                                                            Chart</span></a></li>
+                                                                                            Chart</span></a>
+                                                                                </li>
                                                                             </ul>
                                                                         </li>
                                                                     </ul>
@@ -261,13 +265,15 @@
                                                                                     <a title="Pricing Tables"
                                                                                         class="menu-item-link"
                                                                                         href="pricing-table"><span>Pricing
-                                                                                            Tables</span></a></li>
+                                                                                            Tables</span></a>
+                                                                                </li>
                                                                                 <li id="menu-item-18773"
                                                                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18773">
                                                                                     <a title="Progress bars"
                                                                                         class="menu-item-link"
                                                                                         href="shortcode-progressbar.html"><span>Progress
-                                                                                            bars</span></a></li>
+                                                                                            bars</span></a>
+                                                                                </li>
                                                                                 <li id="menu-item-18838"
                                                                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18838">
                                                                                     <a title="Testimonials"
@@ -412,7 +418,8 @@
                                                                                 class="styled-icons-item"
                                                                                 title="Project Title Here"
                                                                                 href="#"><i
-                                                                                    class="fa fa-link"></i></a> </div>
+                                                                                    class="fa fa-link"></i></a>
+                                                                        </div>
                                                                     </div>
                                                                     <div class="title-holder">
                                                                         <h5 class="title"><a href="#">Project
@@ -449,7 +456,8 @@
                                                                                 class="styled-icons-item"
                                                                                 title="Project Title Here"
                                                                                 href="#"><i
-                                                                                    class="fa fa-link"></i></a> </div>
+                                                                                    class="fa fa-link"></i></a>
+                                                                        </div>
                                                                     </div>
                                                                     <div class="title-holder">
                                                                         <h5 class="title"><a href="#">Project
@@ -486,7 +494,8 @@
                                                                                 class="styled-icons-item"
                                                                                 title="Project Title Here"
                                                                                 href="#"><i
-                                                                                    class="fa fa-link"></i></a> </div>
+                                                                                    class="fa fa-link"></i></a>
+                                                                        </div>
                                                                     </div>
                                                                     <div class="title-holder">
                                                                         <h5 class="title"><a href="#">Project
@@ -523,7 +532,8 @@
                                                                                 class="styled-icons-item"
                                                                                 title="Project Title Here"
                                                                                 href="#"><i
-                                                                                    class="fa fa-link"></i></a> </div>
+                                                                                    class="fa fa-link"></i></a>
+                                                                        </div>
                                                                     </div>
                                                                     <div class="title-holder">
                                                                         <h5 class="title"><a href="#">Project
@@ -560,7 +570,8 @@
                                                                                 class="styled-icons-item"
                                                                                 title="Project Title Here"
                                                                                 href="#"><i
-                                                                                    class="fa fa-link"></i></a> </div>
+                                                                                    class="fa fa-link"></i></a>
+                                                                        </div>
                                                                     </div>
                                                                     <div class="title-holder">
                                                                         <h5 class="title"><a href="#">Project
@@ -597,7 +608,8 @@
                                                                                 class="styled-icons-item"
                                                                                 title="Project Title Here"
                                                                                 href="#"><i
-                                                                                    class="fa fa-link"></i></a> </div>
+                                                                                    class="fa fa-link"></i></a>
+                                                                        </div>
                                                                     </div>
                                                                     <div class="title-holder">
                                                                         <h5 class="title"><a href="#">Project
@@ -664,19 +676,24 @@
                                     <ul class="menu">
                                         <li id="menu-item-16307"
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16307">
-                                            <a href="#">About Us</a></li>
+                                            <a href="#">About Us</a>
+                                        </li>
                                         <li id="menu-item-16308"
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16308">
-                                            <a href="#">Online Video</a></li>
+                                            <a href="#">Online Video</a>
+                                        </li>
                                         <li id="menu-item-16309"
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16309">
-                                            <a href="#">Contact with us</a></li>
+                                            <a href="#">Contact with us</a>
+                                        </li>
                                         <li id="menu-item-16310"
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16310">
-                                            <a href="#">News Portal</a></li>
+                                            <a href="#">News Portal</a>
+                                        </li>
                                         <li id="menu-item-16311"
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16311">
-                                            <a href="#">Press Release</a></li>
+                                            <a href="#">Press Release</a>
+                                        </li>
                                     </ul>
                                 </div>
                             </div>
