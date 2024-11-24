@@ -11,7 +11,7 @@
     <meta name="author" content="ThemeMascot" />
 
     <!-- Page Title -->
-    <title>Charitab - Helping & Charity HTML5 Template</title>
+    <title>Canadian Rwandese Foundation of People With Disabilities</title>
 
     <!-- Favicon and Touch Icons -->
     <link href="images/favicon.png" rel="shortcut icon" type="image/png">
@@ -90,16 +90,7 @@
                         </div>
                         <div
                             class="col-xl-auto ml-xl-auto header-top-right align-self-center text-center text-xl-right">
-                            <div class="element">
-                                <ul class="header-top-nav list-inline">
-                                    <li class="menu-item"><a title="Home" class="menu-item-link"
-                                            href=""><strong>Home</strong></a></li>
-                                    <li class="menu-item"><a title="Home" class="menu-item-link"
-                                            href="#"><strong>Cart</strong></a></li>
-                                    <li class="menu-item"><a title="Home" class="menu-item-link"
-                                            href="#"><strong>Contact Us</strong></a></li>
-                                </ul>
-                            </div>
+
                         </div>
                     </div>
                 </div>
@@ -123,186 +114,24 @@
                                             <nav id="top-primary-nav" class="menuzord green" data-effect="fade"
                                                 data-animation="none" data-align="right">
                                                 <ul id="main-nav" class="menuzord-menu">
-                                                    <li class="active"><a href="{{ route('causes') }}">Home</a>
+                                                    <li class="active"><a href="{{ route('home') }}">Home</a>
 
                                                     </li>
-                                                    <li><a href="#">Pages</a>
-                                                        <ul class="dropdown">
-                                                            <li><a href="page-about.html">About</a></li>
-                                                            <li><a href="#">Services</a>
-                                                                <ul class="dropdown">
-                                                                    <li><a href="page-services.html">Service Grid</a>
-                                                                    </li>
-                                                                    <li><a href="page-service-details.html">Service
-                                                                            Deatils</a></li>
-                                                                </ul>
-                                                            </li>
-                                                            <li><a href="#">Works</a>
-                                                                <ul class="dropdown">
-                                                                    <li><a href="page-works.html">Works Grid</a></li>
-                                                                    <li><a href="page-work-details.html">Work
-                                                                            Deatils</a></li>
-                                                                </ul>
-                                                            </li>
-                                                            <li><a href="#home">Volunteer</a>
-                                                                <ul class="dropdown">
-                                                                    <li><a href="page-volunteer-grid.html">Volunteer
-                                                                            Grid</a></li>
-                                                                    <li><a href="page-volunteer-carousel.html">Volunteer
-                                                                            Carousel</a></li>
-                                                                    <li><a href="page-volunteer-details.html">Volunteer
-                                                                            Details</a></li>
-                                                                </ul>
-                                                            </li>
-                                                            <li><a href="page-gallery.html">Gallery</a>
-                                                            <li><a href="page-event.html">Events</a>
-                                                        </ul>
+                                                    <li><a href="{{ route('contact-us') }}">Contact Us</a>
+
                                                     </li>
-                                                    <li><a href="#home">Causes</a>
-                                                        <ul class="dropdown">
-                                                            <li><a href="page-causes-grid.html">Causes Gird</a></li>
-                                                            <li><a href="page-causes-carousel.html">Causes Carousel</a>
-                                                            </li>
-                                                        </ul>
+                                                    <li><a href="{{ route('causes') }}">Causes</a>
+
                                                     </li>
-                                                    <li><a href="#">Blog</a>
-                                                        <ul class="dropdown">
-                                                            <li><a href="news-grid.html">News Grid</a></li>
-                                                            <li><a href="news-details.html">News Details</a></li>
-                                                        </ul>
+                                                    <li><a href="{{ route('events') }}">Events</a>
+
                                                     </li>
                                                     <li
                                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children">
-                                                        <a href="#">Shortcodes</a>
-                                                        <div
-                                                            class="megamenu megamenu-fullwidth megamenu-position-left">
-                                                            <div class="megamenu-row">
-                                                                <div class="col3">
-                                                                    <ul class="list-unstyled list-dashed">
-                                                                        <li
-                                                                            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children">
-                                                                            <a title="Theme Shortcodes"
-                                                                                class="menu-item-link tm-submenu-title"
-                                                                                href="#">Theme Shortcodes</a>
-                                                                            <ul class="list-unstyled list-dashed">
-                                                                                <li id="menu-item-18759"
-                                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18759">
-                                                                                    <a title="Before After Slider"
-                                                                                        class="menu-item-link"
-                                                                                        href="shortcode-before-after-slider.html"><span>Before
-                                                                                            After Slider</span></a>
-                                                                                </li>
-                                                                                <li id="menu-item-18760"
-                                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18760">
-                                                                                    <a title="Buttons"
-                                                                                        class="menu-item-link"
-                                                                                        href="shortcode-buttons.html"><span>Buttons</span></a>
-                                                                                </li>
-                                                                                <li id="menu-item-18761"
-                                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18761">
-                                                                                    <a title="Call to Action"
-                                                                                        class="menu-item-link"
-                                                                                        href="shortcode-call-to-actions.html"><span>Call
-                                                                                            to Action</span></a>
-                                                                                </li>
-                                                                            </ul>
-                                                                        </li>
-                                                                    </ul>
-                                                                </div>
-                                                                <div class="col3">
-                                                                    <ul class="list-unstyled list-dashed">
-                                                                        <li
-                                                                            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children">
-                                                                            <a title="Theme Shortcodes"
-                                                                                class="menu-item-link tm-submenu-title"
-                                                                                href="#">Theme Shortcodes</a>
-                                                                            <ul class="list-unstyled list-dashed">
-                                                                                <li id="menu-item-18762"
-                                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18762">
-                                                                                    <a title="Counter Up"
-                                                                                        class="menu-item-link"
-                                                                                        href="shortcode-funfacts.html"><span>Counter
-                                                                                            Up</span></a>
-                                                                                </li>
-                                                                                <li id="menu-item-18766"
-                                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18766">
-                                                                                    <a title="Iconbox"
-                                                                                        class="menu-item-link"
-                                                                                        href="shortcode-iconbox.html"><span>Iconbox</span></a>
-                                                                                </li>
-                                                                                <li id="menu-item-18771"
-                                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18771">
-                                                                                    <a title="Pie Chart"
-                                                                                        class="menu-item-link"
-                                                                                        href="shortcode-piechart.html"><span>Pie
-                                                                                            Chart</span></a>
-                                                                                </li>
-                                                                            </ul>
-                                                                        </li>
-                                                                    </ul>
-                                                                </div>
-                                                                <div class="col3">
-                                                                    <ul class="list-unstyled list-dashed">
-                                                                        <li id="menu-item-18748"
-                                                                            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18748 ">
-                                                                            <a title="Theme Shortcodes"
-                                                                                class="menu-item-link tm-submenu-title"
-                                                                                href="#"><span>Theme
-                                                                                    Shortcodes</span></a>
-                                                                            <ul class="list-unstyled list-dashed">
-                                                                                <li id="menu-item-18772"
-                                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18772">
-                                                                                    <a title="Pricing Tables"
-                                                                                        class="menu-item-link"
-                                                                                        href="pricing-table"><span>Pricing
-                                                                                            Tables</span></a>
-                                                                                </li>
-                                                                                <li id="menu-item-18773"
-                                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18773">
-                                                                                    <a title="Progress bars"
-                                                                                        class="menu-item-link"
-                                                                                        href="shortcode-progressbar.html"><span>Progress
-                                                                                            bars</span></a>
-                                                                                </li>
-                                                                                <li id="menu-item-18838"
-                                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18838">
-                                                                                    <a title="Testimonials"
-                                                                                        class="menu-item-link"
-                                                                                        href="shortcode-testimonials.html"><span>Testimonials</span></a>
-                                                                                </li>
-                                                                            </ul>
-                                                                        </li>
-                                                                    </ul>
-                                                                </div>
-                                                                <div class="col3">
-                                                                    <ul class="list-unstyled list-dashed">
-                                                                        <li id="menu-item-18748"
-                                                                            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18748 ">
-                                                                            <a title="Theme Shortcodes"
-                                                                                class="menu-item-link tm-submenu-title"
-                                                                                href="#"><span>Theme
-                                                                                    Shortcodes</span></a>
-                                                                            <ul class="list-unstyled list-dashed">
-                                                                                <li id="menu-item-18776"
-                                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18776">
-                                                                                    <a title="Typography"
-                                                                                        class="menu-item-link"
-                                                                                        href="shortcode-typography.html"><span>Typography</span></a>
-                                                                                </li>
-                                                                                <li id="menu-item-18839"
-                                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18839">
-                                                                                    <a title="Timeline"
-                                                                                        class="menu-item-link"
-                                                                                        href="shortcode-vertical-timeline.html"><span>Timeline</span></a>
-                                                                                </li>
-                                                                            </ul>
-                                                                        </li>
-                                                                    </ul>
-                                                                </div>
-                                                            </div>
-                                                        </div>
+                                                        <a href="{{ route('galery') }}">Galery</a>
+
                                                     </li>
-                                                    <li><a href="page-contact.html">Contact</a></li>
+                                                    <li><a href="#">Donate</a></li>
                                                 </ul>
                                             </nav>
                                         </div>
@@ -345,10 +174,9 @@
                                 <nav role="navigation" class="breadcrumb-trail breadcrumbs">
                                     <div class="breadcrumbs">
                                         <span class="trail-item trail-begin">
-                                            <a href="#"><span>Home</span></a>
+                                            <a href="{{ route('home') }}"><span>Home</span></a>
                                         </span>
                                         <span><i class="fa fa-angle-right"></i></span>
-                                        <span class="trail-item"><a href="#"><span>Pages</span></a></span>
                                         <span><i class="fa fa-angle-right"></i></span>
                                         <span itemscope itemtype="http://schema.org/ListItem"
                                             class="trail-item trail-end active"><span>About</span></span>
@@ -686,19 +514,20 @@
                                     <div class="thumb">
                                         <img alt="Logo" src="images/logo-wide-white.png">
                                     </div>
-                                    <div class="description">203, Envato Labs, Behind Alis Steet, Melbourne, Australia.
+                                    <div class="description">(CRFPD) is a non-profit
+                                        organization founded in 2017 and
+                                        incorporated in the Government of Alberta, Canada
                                     </div>
                                     <ul>
                                         <li class="contact-email">
                                             <div class="icon"><i class="icon-globe"></i></div>
-                                            <div class="text"><a
-                                                    href="mailto:www.yourdomain.com">www.yourdomain.com</a></div>
+
                                         </li>
                                     </ul>
                                 </div>
                             </div>
                             <div class=" split-nav-menu clearfix widget widget-social-list-custom clearfix">
-                                <h4 class="widget-title ">Social List</h4>
+                                <h4 class="widget-title ">Follow us on Social Media</h4>
                                 <ul
                                     class="tm-widget tm-widget-social-list tm-widget-social-list-custom styled-icons  icon-dark  icon-rounded icon-theme-colored1 ">
                                     <li><a class="social-link" href="#"><i class="fa fa-facebook"></i></a></li>
@@ -716,23 +545,23 @@
                                     <ul class="menu">
                                         <li id="menu-item-16307"
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16307">
-                                            <a href="#">About Us</a>
+                                            <a href="{{ route('about-us') }}">About Us</a>
                                         </li>
                                         <li id="menu-item-16308"
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16308">
-                                            <a href="#">Online Video</a>
+                                            <a href="{{ route('contact-us') }}">ContactUs</a>
                                         </li>
                                         <li id="menu-item-16309"
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16309">
-                                            <a href="#">Contact with us</a>
+                                            <a href="{{ route('about-us') }}">Contact with us</a>
                                         </li>
                                         <li id="menu-item-16310"
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16310">
-                                            <a href="#">News Portal</a>
+                                            <a href="{{ route('about-us') }}">News Portal</a>
                                         </li>
                                         <li id="menu-item-16311"
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16311">
-                                            <a href="#">Press Release</a>
+                                            <a href="{{ route('about-us') }}">Press Release</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -811,13 +640,10 @@
                         <div class="row pt-20 pb-20">
                             <div class="col-sm-6">
                                 <div class="footer-paragraph">
-                                    © 2019 ThemeMascot. All Rights Reserved.
+                                    © 2024 CRFPD. All Rights Reserved.
                                 </div>
                             </div>
                             <div class="col-sm-6">
-                                <div class="footer-paragraph text-right">
-                                    Site Template
-                                </div>
                             </div>
                         </div>
                     </div>

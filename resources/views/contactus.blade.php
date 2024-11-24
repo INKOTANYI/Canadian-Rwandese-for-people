@@ -90,16 +90,7 @@
                         </div>
                         <div
                             class="col-xl-auto ml-xl-auto header-top-right align-self-center text-center text-xl-right">
-                            <div class="element">
-                                <ul class="header-top-nav list-inline">
-                                    <li class="menu-item"><a title="Home" class="menu-item-link"
-                                            href="#"><strong>Home</strong></a></li>
-                                    <li class="menu-item"><a title="Home" class="menu-item-link"
-                                            href="#"><strong>Cart</strong></a></li>
-                                    <li class="menu-item"><a title="Home" class="menu-item-link"
-                                            href="#"><strong>Contact Us</strong></a></li>
-                                </ul>
-                            </div>
+
                         </div>
                     </div>
                 </div>
@@ -123,7 +114,7 @@
                                             <nav id="top-primary-nav" class="menuzord green" data-effect="fade"
                                                 data-animation="none" data-align="right">
                                                 <ul id="main-nav" class="menuzord-menu">
-                                                    <li class="active"><a href="#">Home</a>
+                                                    <li class="active"><a href="{{ route('home') }}">Home</a>
 
                                                     </li>
                                                     <li><a href="#">Pages</a>

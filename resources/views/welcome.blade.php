@@ -130,7 +130,7 @@
                                                         <a href="{{ route('contact-us') }}">Contact-Us</a>
 
                                                     </li>
-                                                    <li><a href="{{ route('contact-us') }}">Galery</a></li>
+                                                    <li><a href="{{ route('galery') }}">Galery</a></li>
                                                 </ul>
                                             </nav>
                                         </div>
@@ -1395,7 +1395,7 @@
                                 </div>
                             </div>
                             <div class=" split-nav-menu clearfix widget widget-social-list-custom clearfix">
-                                <h4 class="widget-title ">Social List</h4>
+                                <h4 class="widget-title ">Follow us on Social Media</h4>
                                 <ul
                                     class="tm-widget tm-widget-social-list tm-widget-social-list-custom styled-icons  icon-dark  icon-rounded icon-theme-colored1 ">
                                     <li><a class="social-link" href="#"><i class="fa fa-facebook"></i></a>
@@ -1420,15 +1420,20 @@
                                         </li>
                                         <li id="menu-item-16309"
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16309">
-                                            <a href="{{ route('about-us') }}">Contact with us</a>
+                                            <a href="{{ route('causes') }}">Causes</a>
                                         </li>
                                         <li id="menu-item-16310"
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16310">
-                                            <a href="{{ route('about-us') }}">Causes</a>
+                                            <a href="{{ route('galery') }}">Galery</a>
                                         </li>
+                                        <li id="menu-item-16310"
+                                            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16310">
+                                            <a href="{{ route('galery') }}">Donate</a>
+                                        </li>
+
                                         <li id="menu-item-16311"
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16311">
-                                            <a href="{{ route('about-us') }}">Galery</a>
+                                            <a href="{{ route('contact-us') }}">Contact Us</a>
                                         </li>
                                     </ul>
                                 </div>
