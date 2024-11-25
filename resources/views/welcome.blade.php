@@ -103,8 +103,8 @@
                                     <div class="row header-nav-col-row">
                                         <div class="col-sm-auto align-self-center">
                                             <a class="menuzord-brand site-brand" href="index-mp-layout1.html">
-                                                <img class="logo-default logo-1x" src="images/ngo.png" alt="Logo">
-                                                <img class="logo-default logo-2x retina" src="images/ngo.png.png"
+                                                <img class="logo-default logo-1x" src="images/ngo.jpg" alt="Logo">
+                                                <img class="logo-default logo-2x retina" src="images/ngo.jpg"
                                                     alt="Logo">
                                             </a>
                                         </div>
@@ -1332,6 +1332,16 @@
             </section>
             <!-- Client -->
 
+            <div class="section-title text-center mb-40">
+                <div class="row justify-content-md-center">
+                    <div class="col-md-6">
+                        <h2 class="title text-uppercase mt-0"><span class="">Our</span> <span
+                                class="text-theme-colored1">Parteners</span></h2>
+
+                    </div>
+                </div>
+            </div>
+
             <section data-tm-bg-color="#f2f3f5">
                 <div class="container pt-40 pb-40">
                     <div class="section-content">
@@ -1344,24 +1354,24 @@
                                         <!-- the loop -->
                                         <div class="item">
                                             <a target="_blank" href="#">
-                                                <img src='images/clients/1.png' alt='image' /></a>
+                                                <img src='images/clients/rwandamobility.jpg' alt='image' /></a>
                                         </div>
                                         <div class="item">
                                             <a target="_blank" href="#">
-                                                <img src='images/clients/2.png' alt='image' /></a>
+                                                <img src='images/clients/rwandamobility.jpg' alt='image' /></a>
                                         </div>
                                         <div class="item">
                                             <a target="_blank" href="#">
-                                                <img src='images/clients/3.png' alt='image' />
+                                                <img src='images/clients/rwandamobility.jpg' alt='image' />
                                             </a>
                                         </div>
                                         <div class="item">
                                             <a target="_blank" href="#">
-                                                <img src='images/clients/4.png' alt='image' /></a>
+                                                <img src='images/clients/rwandamobility.jpg' alt='image' /></a>
                                         </div>
                                         <div class="item">
                                             <a target="_blank" href="#">
-                                                <img src='images/clients/5.png' alt='image' />
+                                                <img src='images/clients/rwandamobility.jpg' alt='image' />
                                             </a>
                                         </div>
                                     </div>
@@ -1384,7 +1394,7 @@
                                 <div
                                     class="tm-widget tm-widget-contact-info contact-info contact-info-style1  contact-icon-theme-colored1">
                                     <div class="thumb">
-                                        <img alt="Logo" src="images/logo-wide-white.png">
+                                        <img alt="Logo" src="images/ngo.jpg">
                                     </div>
                                     <div class="description">(CRFPD) is a non-profit
                                         organization founded in 2017 and
