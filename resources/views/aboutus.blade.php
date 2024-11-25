@@ -636,14 +636,14 @@
                                 </div> --}}
                             </div>
                             <div class="col-lg-6 mb-md-30">
-                                <p class="wpb_wrapper">Lorem ipsum dolor sit amet, consectetur adipisi cing elit. Quos
-                                    dolo
-                                    rem consequ untur, natus laudantium commodie&nbsp;adipisi cing</p>
-                                <div class="wpb_wrapper">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum sunt ut dolorem
-                                        laboriosam culpa excepturi sed distinctio eius! Ut magnam numquam libero quia
-                                        vero blanditiis fugit corporis</p>
-                                </div>
+                                <p class="wpb_wrapper">In 2017, Mr. Cyrilo Simpunga the founder of Canadian Rwandese
+                                    Foundation of People with Disabilities (CRFPD) was realizing the impact of being
+                                    disabled for more than twenty years. Having lived with disability for all that long,
+                                    having witnessed the suffering being faced by persons with disabilities especially
+                                    in developing countries, he sat with the friends who also had empathy for the
+                                    persons with disabilities and came up with an idea of advocacy and assisting persons
+                                    with disability in Rwanda and elsewhere</p>
+
                             </div>
 
                         </div>
