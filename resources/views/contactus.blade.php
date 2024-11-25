@@ -341,19 +341,15 @@
                                     <div class="thumb">
                                         <img alt="Logo" src="../images/logo-wide-white.png">
                                     </div>
-                                    <div class="description">203, Envato Labs, Behind Alis Steet, Melbourne, Australia.
+                                    <div class="description">(CRFPD) is a non-profit
+                                        organization founded in 2017 and
+                                        incorporated in the Government of Alberta, Canada.
                                     </div>
-                                    <ul>
-                                        <li class="contact-email">
-                                            <div class="icon"><i class="icon-globe"></i></div>
-                                            <div class="text"><a
-                                                    href="mailto:www.yourdomain.com">www.yourdomain.com</a></div>
-                                        </li>
-                                    </ul>
+
                                 </div>
                             </div>
                             <div class=" split-nav-menu clearfix widget widget-social-list-custom clearfix">
-                                <h4 class="widget-title ">Social List</h4>
+                                <h4 class="widget-title ">Follow us on Social Mediat</h4>
                                 <ul
                                     class="tm-widget tm-widget-social-list tm-widget-social-list-custom styled-icons  icon-dark  icon-rounded icon-theme-colored1 ">
                                     <li><a class="social-link" href="#"><i class="fa fa-facebook"></i></a></li>
@@ -371,7 +367,7 @@
                                     <ul class="menu">
                                         <li id="menu-item-16307"
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16307">
-                                            <a href="#">About Us</a>
+                                            <a href="{{ route('about-us') }}">About Us</a>
                                         </li>
                                         <li id="menu-item-16308"
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16308">
