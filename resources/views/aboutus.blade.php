@@ -101,9 +101,9 @@
                                     <div class="row header-nav-col-row">
                                         <div class="col-sm-auto align-self-center">
                                             <a class="menuzord-brand site-brand" href="index-mp-layout1.html">
-                                                <img class="logo-default logo-1x" src="images/logo-wide.png"
+                                                <img class="logo-default logo-1x" src="images/rwandamobility.jpg"
                                                     alt="Logo">
-                                                <img class="logo-default logo-2x retina" src="images/logo-wide@2x.png"
+                                                <img class="logo-default logo-2x retina" src="images/rwandamobility.jpg"
                                                     alt="Logo">
                                             </a>
                                         </div>
@@ -620,8 +620,7 @@
                         </div>
                         <div class="row">
                             <div class="col-lg-6 mb-md-30">
-                                {{-- <h2 class="text-uppercase mt-0">Welcome To <span class="text-theme-colored1">World’s
-                                        Largest</span> NGO</h2> --}}
+
                                 <p class="wpb_wrapper">Canadian Rwandese Foundation of People with Disabilities in
                                     Alberta (CRFPD) is a non-profit organization founded in 2017 and incorporated in the
                                     Government of Alberta, Canada. It is in partnership with Rwanda-Canada Hope for
@@ -629,11 +628,15 @@
                                     love and care. This is seen right from founder members to our dedicated staff,
                                     donors and volunteers. We love and care about what we do, about the people we serve,
                                     about their family and community and about the society we live.</p>
-                                {{-- <div class="wpb_wrapper">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum sunt ut dolorem
-                                        laboriosam culpa excepturi sed distinctio eius! Ut magnam numquam libero quia
-                                        vero blanditiis fugit corporis</p>
-                                </div> --}}
+                                <br>
+                                <p class="wpb_wrapper">Their focus was especially on developing countries which have no
+                                    enough resources to cater for persons with disabilities or any special need. Rwanda
+                                    became number one because it was one of the countries they have a good knowledge,
+                                    however CRFPD has a long term goal of advocating for persons with disability in many
+                                    developing countries as much as possible. As a result, they came up with an idea of
+                                    forming and registering a Foundation under five people who were counting more than
+                                    five years working with individuals with disabilities in Edmonton, Alberta..</p>
+
                             </div>
                             <div class="col-lg-6 mb-md-30">
                                 <p class="wpb_wrapper">In 2017, Mr. Cyrilo Simpunga the founder of Canadian Rwandese
@@ -643,6 +646,16 @@
                                     in developing countries, he sat with the friends who also had empathy for the
                                     persons with disabilities and came up with an idea of advocacy and assisting persons
                                     with disability in Rwanda and elsewhere</p>
+                                <br> <br>
+                                <p class="wpb_wrapper">This foundation is based in Edmonton, Alberta and its major
+                                    objective is to make a difference to persons with disabilities in Rwanda and
+                                    elsewhere by giving them special love and care and to assist their full inclusion in
+                                    their community. The founders knew and accepted that there were disabled people in
+                                    Rwanda and elsewhere in under development countries who needed to be cared by
+                                    providing all possible assistance to meet their special needs, but they questioned
+                                    and challenged the existing means and capacity of how that care was provided in
+                                    their countries.</p>
+
 
                             </div>
 
@@ -651,318 +664,6 @@
                 </div>
         </div>
     </div>
-    </section>
-
-    <!-- Our Goal -->
-
-    <!-- Timeline -->
-    <section>
-        <div class="container pb-50">
-            <div class="section-title text-center">
-                <div class="row justify-content-md-center">
-                    <div class="col-md-6">
-                        <h2 class="title text-uppercase mt-0"><span class="">Company</span> <span
-                                class="text-theme-colored1">Timeline</span></h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem autem voluptatem
-                            obcaecati consectetur adipisicing</p>
-                    </div>
-                </div>
-            </div>
-            <div class="section-content">
-                <div class="row">
-                    <div class="col-md-6 offset-md-3">
-                        <div class="tm-timeline-responsive-vertical-cp">
-                            <div class="timeline__block">
-                                <div
-                                    class="timeline__midpoint false timeline__midpoint--withtext no-top-margin d-flex align-items-center">
-                                    <div class="timeline__year">
-                                        <p>2007</p>
-                                    </div>
-                                </div>
-                                <div class="timeline__content timeline__content--right">
-                                    <div class="timeline__year timeline__year--mobile">1989</div>
-                                    <div class="timeline__text--right">
-                                        <div class="timeline-content  "></div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="timeline__block">
-                                <div class="timeline__midpoint timeline__midpoint--highlight"></div>
-                                <div class="timeline__content timeline__content--left">
-                                    <div class="timeline__year">
-                                        <p>October, 2009</p>
-                                    </div>
-                                    <div class="timeline__text--left">
-                                        <div class="timeline-content  ">
-                                            <div class="wpb_text_column wpb_content_element ">
-                                                <div class="wpb_wrapper">
-                                                    <h3>It&#8217;s all started</h3>
-                                                    <p>Lorem ipsum dolor sitamet consectetur adipiscing elit
-                                                        Utelit tellus luctus nec ullamcorpe</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="timeline__block">
-                                <div class="timeline__midpoint false"></div>
-                                <div class="timeline__content timeline__content--right">
-                                    <div class="timeline__year">
-                                        <p>January, 2011</p>
-                                    </div>
-                                    <div class="timeline__text--right">
-                                        <div class="timeline-content  ">
-                                            <div class="wpb_text_column wpb_content_element ">
-                                                <div class="wpb_wrapper">
-                                                    <h3>Started NGO as a social enterprise</h3>
-                                                    <p>Lorem ipsum dolor sitamet consectetur adipiscing elit
-                                                        Utelit tellus luctus nec ullamcorpe</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="timeline__block">
-                                <div
-                                    class="timeline__midpoint false timeline__midpoint--withtext no-top-margin d-flex align-items-center">
-                                    <div class="timeline__year">
-                                        <p>2013</p>
-                                    </div>
-                                </div>
-                                <div class="timeline__content timeline__content--right">
-                                    <div class="timeline__year timeline__year--mobile">1989</div>
-                                    <div class="timeline__text--right">
-                                        <div class="timeline-content  "></div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="timeline__block">
-                                <div class="timeline__midpoint false"></div>
-                                <div class="timeline__content timeline__content--left">
-                                    <div class="timeline__year">
-                                        <p>March, 2018</p>
-                                    </div>
-                                    <div class="timeline__text--left">
-                                        <div class="timeline-content  ">
-                                            <h3 class="custom_heading">20th anniversary of helping children
-                                            </h3>
-                                            <div class="wpb_text_column wpb_content_element ">
-                                                <div class="wpb_wrapper">
-                                                    <p>Lorem ipsum dolor sitamet consectetur adipiscing elit
-                                                        Utelit tellus luctus nec ullamcorpe</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Call To Action -->
-    <section class="divider layer-overlay overlay-theme-colored1-8" data-tm-bg-img="images/bg/bg4.jpg">
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-12 text-center font-72">
-                    <h2 class="text-white font-weight-600">We Need Your Help For Rescue Child</h2>
-                    <p class="text-white font-size-18">Leverage agile frameworks to provide a robust synopsis
-                        for high level overviews. Iterative approaches to<br> corporate strategy foster
-                        collaborative thinking to further the overall value proposition.</p>
-                    <div class="tm-sc tm-sc-button text-center mt-20">
-                        <a href="#" target="_self" class="btn btn-light btn-round">
-                            Donate Us Now</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Our-Services-->
-    <section class="bg-no-repeat bg-img-right-bottom" data-tm-bg-img="images/causes/semi-circle.png">
-        <div class="container pb-60">
-            <div class="section-title text-center mb-40">
-                <div class="row justify-content-md-center">
-                    <div class="col-md-6">
-                        <h2 class="title text-uppercase mt-0"><span class="">Our</span> <span
-                                class="text-theme-colored1">Services</span></h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem autem voluptatem
-                            obcaecati consectetur adipisicing</p>
-                    </div>
-                </div>
-            </div>
-            <div class="section-content">
-                <div class="row">
-                    <div class="col-sm-12">
-                        <div
-                            class="tm-sc tm-sc-services tm-sc-services-grid services-style2-classic border-radius-around-box">
-                            <!-- Isotope Gallery Grid -->
-                            <div class="isotope-layout grid-4 clearfix">
-                                <!-- the loop -->
-                                <div class="isotope-item">
-                                    <div class="tm-service services type-services status-publish">
-                                        <div class="box-hover-effect">
-                                            <div class="effect-wrapper">
-                                                <div class="thumb">
-                                                    <img width="150" height="150" src="images/service/1.jpg"
-                                                        class="img-fullwidth wp-post-image" alt="" />
-                                                </div>
-                                            </div>
-                                            <div class="details">
-                                                <h4 class="title"><a href="#">Education</a></h4>
-                                                <div class="paragraph mb-15">
-                                                    Lorem ipsum dolor amet conse ctetur adipisi cing elit. Quos
-                                                    dolo rem consequ untur, natuslaud antium commodie
-                                                </div>
-                                                <div class="btn-view-details">
-                                                    <a href="#"
-                                                        class="btn btn-outline-theme-colored1 btn-outline btn-sm">
-                                                        View Details</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="isotope-item">
-                                    <div class="tm-service services type-services status-publish">
-                                        <div class="box-hover-effect">
-                                            <div class="effect-wrapper">
-                                                <div class="thumb">
-                                                    <img width="150" height="150" src="images/service/2.jpg"
-                                                        class="img-fullwidth wp-post-image" alt="" />
-                                                </div>
-                                            </div>
-                                            <div class="details">
-                                                <h4 class="title"><a href="#">Water and Sanitation</a>
-                                                </h4>
-                                                <div class="paragraph mb-15">
-                                                    Lorem ipsum dolor amet conse ctetur adipisi cing elit. Quos
-                                                    dolo rem consequ untur, natuslaud antium commodie
-                                                </div>
-                                                <div class="btn-view-details">
-                                                    <a href="#"
-                                                        class="btn btn-outline-theme-colored1 btn-outline btn-sm">
-                                                        View Details</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="isotope-item ">
-                                    <div class="tm-service services type-services status-publish">
-                                        <div class="box-hover-effect">
-                                            <div class="effect-wrapper">
-                                                <div class="thumb">
-                                                    <img width="150" height="150" src="images/service/3.jpg"
-                                                        class="img-fullwidth wp-post-image" alt="" />
-                                                </div>
-                                            </div>
-                                            <div class="details">
-                                                <h4 class="title"><a href="#">Health and Rights</a>
-                                                </h4>
-                                                <div class="paragraph mb-15">
-                                                    Lorem ipsum dolor amet conse ctetur adipisi cing elit. Quos
-                                                    dolo rem consequ untur, natuslaud antium commodie
-                                                </div>
-                                                <div class="btn-view-details">
-                                                    <a href="#"
-                                                        class="btn btn-outline-theme-colored1 btn-outline btn-sm">
-                                                        View Details</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="isotope-item">
-                                    <div class="tm-service services type-services status-publish">
-                                        <div class="box-hover-effect">
-                                            <div class="effect-wrapper">
-                                                <div class="thumb">
-                                                    <img width="150" height="150" src="images/service/4.jpg"
-                                                        class="img-fullwidth wp-post-image" alt="" />
-                                                </div>
-                                            </div>
-                                            <div class="details">
-                                                <h4 class="title"><a href="#">Social Development</a>
-                                                </h4>
-                                                <div class="paragraph mb-15">
-                                                    Lorem ipsum dolor amet conse ctetur adipisi cing elit. Quos
-                                                    dolo rem consequ untur, natuslaud antium commodie
-                                                </div>
-                                                <div class="btn-view-details">
-                                                    <a href="#"
-                                                        class="btn btn-outline-theme-colored1 btn-outline btn-sm">
-                                                        View Details</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- end of the loop -->
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Divider -->
-
-
-    <!-- Recent-Work -->
-
-    <!-- Our-Work -->
-
-    <!-- Our-Causes -->
-
-    <!-- Funfact -->
-    <section class="bg-theme-colored1">
-        <div class="container pt-70">
-            <div class="row">
-                <div class="col-md-6 col-lg-3 mb-sm-30">
-                    <div class="tm-sc tm-sc-funfact funfact text-center">
-                        <h2 class="counter ">
-                            <span class="animate-number text-white" data-value="1456"
-                                data-animation-duration="1500">0</span>
-                        </h2>
-                        <h4 class="title text-white">Expert Volunteer</h4>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-3 mb-sm-30">
-                    <div class="tm-sc tm-sc-funfact funfact text-center">
-                        <h2 class="counter ">
-                            <span class="text-white counter-prefix">$</span><span class="animate-number text-white"
-                                data-value="12341" data-animation-duration="1500">0</span>
-                        </h2>
-                        <h4 class="title text-white">Fund Collected</h4>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-3 mb-sm-30">
-                    <div class="tm-sc tm-sc-funfact funfact text-center">
-                        <h2 class="counter ">
-                            <span class="animate-number text-white" data-value="322"
-                                data-animation-duration="1500">0</span>
-                        </h2>
-                        <h4 class="title text-white">Projects Done</h4>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-3">
-                    <div class="tm-sc tm-sc-funfact funfact text-center">
-                        <h2 class="counter ">
-                            <span class="animate-number text-white" data-value="17"
-                                data-animation-duration="1500">0</span>
-                        </h2>
-                        <h4 class="title text-white">Award Winner</h4>
-                    </div>
-                </div>
-            </div>
-        </div>
     </section>
 
     <!-- Volunteers -->
@@ -1284,45 +985,192 @@
             </div>
         </div>
     </section>
-    <section data-tm-bg-color="#f2f3f5">
-        <div class="container pt-40 pb-40">
-            <div class="section-content">
+
+    <div class="section-title text-center mb-40">
+        <div class="row justify-content-md-center">
+            <div class="col-md-6">
+                <h2 class="title text-uppercase mt-0"><span class="">Our</span> <span
+                        class="text-theme-colored1">Achievement</span></h2>
+            </div>
+        </div>
+        <section class="bg-theme-colored1">
+            <div class="container pt-70">
                 <div class="row">
-                    <div class="col-sm-12">
-                        <div
-                            class="tm-sc tm-sc-clients tm-sc-clients-carousel owl-dots-light-skin  clients-animation-grayscale">
-                            <div class="owl-carousel owl-theme tm-owl-carousel-5col" data-autoplay="true"
-                                data-loop="true" data-duration="6000" data-margin="30">
-                                <!-- the loop -->
-                                <div class="item">
-                                    <a target="_blank" href="#">
-                                        <img src='images/clients/1.png' alt='image' /></a>
+                    <div class="col-md-6 col-lg-3 mb-sm-30">
+                        <div class="tm-sc tm-sc-funfact funfact text-center">
+                            <h2 class="counter ">
+                                <span class="animate-number text-white" data-value="1456"
+                                    data-animation-duration="1500">0</span>
+                            </h2>
+                            <h4 class="title text-white">Expert Volunteer</h4>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3 mb-sm-30">
+                        <div class="tm-sc tm-sc-funfact funfact text-center">
+                            <h2 class="counter ">
+                                <span class="text-white counter-prefix">$</span><span
+                                    class="animate-number text-white" data-value="12341"
+                                    data-animation-duration="1500">0</span>
+                            </h2>
+                            <h4 class="title text-white">Fund Collected</h4>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3 mb-sm-30">
+                        <div class="tm-sc tm-sc-funfact funfact text-center">
+                            <h2 class="counter ">
+                                <span class="animate-number text-white" data-value="322"
+                                    data-animation-duration="1500">0</span>
+                            </h2>
+                            <h4 class="title text-white">Projects Done</h4>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3">
+                        <div class="tm-sc tm-sc-funfact funfact text-center">
+                            <h2 class="counter ">
+                                <span class="animate-number text-white" data-value="17"
+                                    data-animation-duration="1500">0</span>
+                            </h2>
+                            <h4 class="title text-white">Award Winner</h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="contact">
+            <div class="container pb-sm-10">
+                <div class="row">
+                    <div class="col-md-5">
+                        <iframe
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d303585.20772158616!2d-113.77291377210706!3d53.526353091853565!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x53a0224580deff23%3A0x411fa00c4af6155d!2sEdmonton%2C%20AB%2C%20Canada!5e0!3m2!1sen!2srw!4v1684520009116!5m2!1sen!2srw"
+                            width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy"
+                            referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    </div>
+                    <div class="col-md-7">
+                        <h3 class="line-bottom mt-sm-30 mt-0 mb-30">Interested in discussing?</h3>
+                        <!-- Contact Form -->
+                        <form id="contact_form" name="contact_form" class="" action="includes/sendmail.php"
+                            method="post">
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    <div class="form-group">
+                                        <label>Name <small>*</small></label>
+                                        <input name="form_name" class="form-control" type="text"
+                                            placeholder="Enter Name" required="">
+                                    </div>
                                 </div>
-                                <div class="item">
-                                    <a target="_blank" href="#">
-                                        <img src='images/clients/2.png' alt='image' /></a>
+                                <div class="col-sm-6">
+                                    <div class="form-group">
+                                        <label>Email <small>*</small></label>
+                                        <input name="form_email" class="form-control required email" type="email"
+                                            placeholder="Enter Email">
+                                    </div>
                                 </div>
-                                <div class="item">
-                                    <a target="_blank" href="#">
-                                        <img src='images/clients/3.png' alt='image' />
-                                    </a>
+                            </div>
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    <div class="form-group">
+                                        <label>Subject <small>*</small></label>
+                                        <input name="form_subject" class="form-control required" type="text"
+                                            placeholder="Enter Subject">
+                                    </div>
                                 </div>
-                                <div class="item">
-                                    <a target="_blank" href="#">
-                                        <img src='images/clients/4.png' alt='image' /></a>
+                                <div class="col-sm-6">
+                                    <div class="form-group">
+                                        <label>Phone</label>
+                                        <input name="form_phone" class="form-control" type="text"
+                                            placeholder="Enter Phone">
+                                    </div>
                                 </div>
-                                <div class="item">
-                                    <a target="_blank" href="#">
-                                        <img src='images/clients/5.png' alt='image' />
-                                    </a>
+                            </div>
+                            <div class="form-group">
+                                <label>Message</label>
+                                <textarea name="form_message" class="form-control required" rows="5" placeholder="Enter Message"></textarea>
+                            </div>
+                            <div class="form-group">
+                                <input name="form_botcheck" class="form-control" type="hidden" value="" />
+                                <button type="submit" class="btn btn-dark btn-theme-colored1 btn-flat"
+                                    data-loading-text="Please wait...">Send your message</button>
+                            </div>
+                        </form>
+                        <!-- Contact Form Validation-->
+                        <script>
+                            (function($) {
+                                $("#contact_form").validate({
+                                    submitHandler: function(form) {
+                                        var form_btn = $(form).find('button[type="submit"]');
+                                        var form_result_div = '#form-result';
+                                        $(form_result_div).remove();
+                                        form_btn.before(
+                                            '<div id="form-result" class="alert alert-success" role="alert" style="display: none;"></div>'
+                                        );
+                                        var form_btn_old_msg = form_btn.html();
+                                        form_btn.html(form_btn.prop('disabled', true).data("loading-text"));
+                                        $(form).ajaxSubmit({
+                                            dataType: 'json',
+                                            success: function(data) {
+                                                if (data.status === 'true') {
+                                                    $(form).find('.form-control').val('');
+                                                }
+                                                form_btn.prop('disabled', false).html(form_btn_old_msg);
+                                                $(form_result_div).html(data.message).fadeIn('slow');
+                                                setTimeout(function() {
+                                                    $(form_result_div).fadeOut('slow')
+                                                }, 6000);
+                                            }
+                                        });
+                                    }
+                                });
+                            })(jQuery);
+                        </script>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <div class="section-title text-center mb-40">
+            <div class="row justify-content-md-center">
+                <div class="col-md-6">
+                    <h2 class="title text-uppercase mt-0"><span class="">Our</span> <span
+                            class="text-theme-colored1">Parteners</span></h2>
+
+                </div>
+            </div>
+        </div>
+
+        <section data-tm-bg-color="#f2f3f5">
+            <div class="container pt-40 pb-40">
+                <div class="section-content">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <div
+                                class="tm-sc tm-sc-clients tm-sc-clients-carousel owl-dots-light-skin  clients-animation-grayscale">
+                                <div class="owl-carousel owl-theme tm-owl-carousel-5col" data-autoplay="true"
+                                    data-loop="true" data-duration="6000" data-margin="30">
+                                    <!-- the loop -->
+                                    <div class="item">
+                                        <a target="_blank" href="#">
+                                            <img src='images/clients/rwandamobility.jpg' alt='image' /></a>
+                                    </div>
+
+
+                                    <div class="item">
+                                        <a target="_blank" href="#">
+                                            <img src='images/clients/rwandamobility.jpg' alt='image' /></a>
+                                    </div>
+                                    <div class="item">
+                                        <a target="_blank" href="#">
+                                            <img src='images/clients/rwandamobility.jpg' alt='image' />
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
+        </section>
     </div>
     <!-- end main-content -->
 
