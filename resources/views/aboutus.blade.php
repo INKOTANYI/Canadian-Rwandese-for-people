@@ -1186,19 +1186,12 @@
                                 <div class="thumb">
                                     <img alt="Logo" src="images/logo-wide-white.png">
                                 </div>
-                                <div class="description">203, Envato Labs, Behind Alis Steet, Melbourne,
-                                    Australia.</div>
-                                <ul>
-                                    <li class="contact-email">
-                                        <div class="icon"><i class="icon-globe"></i></div>
-                                        <div class="text"><a href="mailto:www.yourdomain.com">www.yourdomain.com</a>
-                                        </div>
-                                    </li>
-                                </ul>
+                                <div class="description">(CRFPD) is a non-profit organization founded in 2017 and
+                                    incorporated in the Government of Alberta, Canada..</div>
                             </div>
                         </div>
                         <div class=" split-nav-menu clearfix widget widget-social-list-custom clearfix">
-                            <h4 class="widget-title ">Social List</h4>
+                            <h4 class="widget-title ">Follow us on Social Media</h4>
                             <ul
                                 class="tm-widget tm-widget-social-list tm-widget-social-list-custom styled-icons  icon-dark  icon-rounded icon-theme-colored1 ">
                                 <li><a class="social-link" href="#"><i class="fa fa-facebook"></i></a>
@@ -1219,23 +1212,23 @@
                                 <ul class="menu">
                                     <li id="menu-item-16307"
                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16307">
-                                        <a href="{{ route('contact-us') }}">Contact Us</a>
+                                        <a href="{{ route('contact-us') }}">About Us</a>
                                     </li>
                                     <li id="menu-item-16308"
                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16308">
-                                        <a href="#">Online Video</a>
+                                        <a href="#">Causes</a>
                                     </li>
                                     <li id="menu-item-16309"
                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16309">
-                                        <a href="#">Contact with us</a>
+                                        <a href="#">Galery</a>
                                     </li>
                                     <li id="menu-item-16310"
                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16310">
-                                        <a href="#">News Portal</a>
+                                        <a href="#">Donate</a>
                                     </li>
                                     <li id="menu-item-16311"
                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16311">
-                                        <a href="{{ route('galery') }}">Donate</a>
+                                        <a href="{{ route('galery') }}">Contact Us</a>
                                     </li>
                                 </ul>
                             </div>
@@ -1315,7 +1308,7 @@
                     <div class="row pt-20 pb-20">
                         <div class="col-sm-6">
                             <div class="footer-paragraph">
-                                © 2019 ThemeMascot. All Rights Reserved.
+                                © 2024 CRFPD. All Rights Reserved.
                             </div>
                         </div>
 
