@@ -199,7 +199,7 @@
                                                 style="z-index: 7; white-space: nowrap;">Be part of the life Changing
                                             </div>
                                             <!-- LAYER NR. 2 -->
-                                            <div class="tp-caption tp-resizeme text-white text-uppercase font-montserrat rs-parallaxlevel-0"
+                                            {{-- <div class="tp-caption tp-resizeme text-white text-uppercase font-montserrat rs-parallaxlevel-0"
                                                 id="slide-1-layer-2" data-x="['left','left','left','left']"
                                                 data-hoffset="['50','50','50','30']"
                                                 data-y="['top','top','top','top']"
@@ -216,9 +216,9 @@
                                                 data-splitin="none" data-splitout="none" data-responsive_offset="on"
                                                 style="z-index: 6; min-width: 600px; max-width: 600px; white-space: normal;">
                                                 Be Compassionate
-                                            </div>
+                                            </div> --}}
                                             <!-- LAYER NR. 3 -->
-                                            <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0"
+                                            {{-- <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0"
                                                 id="slide-1-layer-3" data-x="['left','left','left','left']"
                                                 data-hoffset="['50','50','50','30']"
                                                 data-y="['top','top','top','top']"
@@ -236,7 +236,7 @@
                                                 style="z-index: 7; white-space: nowrap;">Be part of the life
                                                 emproving<br>Be Compassionate
 
-                                            </div>
+                                            </div> --}}
                                             <!-- LAYER NR. 4 -->
                                             <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0"
                                                 id="slide-1-layer-4" data-x="['left','left','left','left']"
@@ -771,17 +771,16 @@
                     </div>
                 </div>
 
-                <section>
+                <section class="section-content">
                     <div class="container pb-60">
                         <div class="section-title text-center mb-40">
                             <div class="row justify-content-md-center">
                                 <div class="col-md-6">
                                     <h2 class="title text-uppercase mt-0"><span class="">Welcome to</span><span
                                             class="text-theme-colored1"> Our Causes</span></h2>
-                                    <p>We’re excited to welcome you to Our Causes, a platform designed with inclusivity
-                                        and accessibility at its core. This space is dedicated to empowering individuals
-                                        of
-                                        all abilities to connect, advocate, and make a difference.
+                                    <p>At CRFPDISA, we are dedicated to creating a more inclusive and supportive world
+                                        for individuals with disabilities. Our causes focus on empowering lives,
+                                        breaking barriers, and building a community where everyone can thrive.
                                     </p>
                                 </div>
                             </div>
@@ -941,7 +940,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <!-- end of the loop -->
+
                                         </div>
                                     </div>
                                 </div>
