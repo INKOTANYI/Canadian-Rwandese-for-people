@@ -104,9 +104,9 @@
                                     <div class="row header-nav-col-row">
                                         <div class="col-xs-auto align-self-center">
                                             <a class="menuzord-brand site-brand" href="index-mp-layout1.html">
-                                                <img class="logo-default logo-1x" src="images/logo-wide.png"
+                                                <img class="logo-default logo-1x" src="images/rwandamobility.jpg"
                                                     alt="Logo">
-                                                <img class="logo-default logo-2x retina" src="images/logo-wide@2x.png"
+                                                <img class="logo-default logo-2x retina" src="images/rwandamobility.jpg"
                                                     alt="Logo">
                                             </a>
                                         </div>
@@ -462,7 +462,7 @@
                                 <div
                                     class="tm-widget tm-widget-contact-info contact-info contact-info-style1  contact-icon-theme-colored1">
                                     <div class="thumb">
-                                        <img alt="Logo" src="images/logo-wide-white.png">
+                                        <img alt="Logo" src="images/rwandamobility.jpg">
                                     </div>
                                     <div class="description">(CRFPD) is a non-profit
                                         organization founded in 2017 and
