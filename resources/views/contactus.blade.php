@@ -215,15 +215,6 @@
                                             <i class="icomoon-Mail"></i>
                                         </a>
                                     </div>
-                                    <div class="icon-text">
-                                        <h3 class="icon-box-title ">
-                                            Email Us
-                                        </h3>
-                                        <div class="content">
-                                            <p>you@yourdomain.com, me@yourdomain.com</p>
-                                        </div>
-                                    </div>
-                                    <div class="clearfix"></div>
                                 </div>
                             </div>
                         </div>
