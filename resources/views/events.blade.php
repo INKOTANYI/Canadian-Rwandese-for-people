@@ -300,7 +300,7 @@
             </section>
 
             <!-- Divider -->
-            <section data-tm-bg-img="images/bg/bg11.jpg">
+            {{-- <section data-tm-bg-img="images/bg/bg11.jpg">
                 <div class="container-fluid p-0">
                     <div class="section-content">
                         <div class="row">
@@ -348,10 +348,10 @@
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> --}}
 
             <!-- Our-Work -->
-            <section data-tm-bg-color="#f8f4f0">
+            {{-- <section data-tm-bg-color="#f8f4f0">
                 <div class="container pb-80">
                     <div class="section-title text-center mb-40">
                         <div class="row justify-content-md-center">
@@ -433,7 +433,7 @@
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> --}}
         </div>
         <!-- end main-content -->
 
@@ -447,7 +447,7 @@
                                 <div
                                     class="tm-widget tm-widget-contact-info contact-info contact-info-style1  contact-icon-theme-colored1">
                                     <div class="thumb">
-                                        <img alt="Logo" src="images/logo-wide-white.png">
+                                        <img alt="Logo" src="images/rwandamobility.jpg">
                                     </div>
                                     <div class="description">(CRFPD) is a non-profit
                                         organization founded in 2017 and
