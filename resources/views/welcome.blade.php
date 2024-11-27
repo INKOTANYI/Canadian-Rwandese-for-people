@@ -199,7 +199,7 @@
                                                 style="z-index: 7; white-space: nowrap;">Be part of the life Changing
                                             </div>
                                             <!-- LAYER NR. 2 -->
-                                            {{-- <div class="tp-caption tp-resizeme text-white text-uppercase font-montserrat rs-parallaxlevel-0"
+                                            <div class="tp-caption tp-resizeme text-white text-uppercase font-montserrat rs-parallaxlevel-0"
                                                 id="slide-1-layer-2" data-x="['left','left','left','left']"
                                                 data-hoffset="['50','50','50','30']"
                                                 data-y="['top','top','top','top']"
@@ -216,9 +216,9 @@
                                                 data-splitin="none" data-splitout="none" data-responsive_offset="on"
                                                 style="z-index: 6; min-width: 600px; max-width: 600px; white-space: normal;">
                                                 Be Compassionate
-                                            </div> --}}
+                                            </div>
                                             <!-- LAYER NR. 3 -->
-                                            {{-- <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0"
+                                            <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0"
                                                 id="slide-1-layer-3" data-x="['left','left','left','left']"
                                                 data-hoffset="['50','50','50','30']"
                                                 data-y="['top','top','top','top']"
@@ -236,7 +236,7 @@
                                                 style="z-index: 7; white-space: nowrap;">Be part of the life
                                                 emproving<br>Be Compassionate
 
-                                            </div> --}}
+                                            </div>
                                             <!-- LAYER NR. 4 -->
                                             <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0"
                                                 id="slide-1-layer-4" data-x="['left','left','left','left']"

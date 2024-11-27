@@ -104,10 +104,10 @@
                                     <div class="row header-nav-col-row">
                                         <div class="col-xs-auto align-self-center">
                                             <a class="menuzord-brand site-brand" href="index-mp-layout1.html">
-                                                <img class="logo-default logo-1x" src="../images/logo-wide.png"
+                                                <img class="logo-default logo-1x" src="../images/rwandamobility.jpg"
                                                     alt="Logo">
                                                 <img class="logo-default logo-2x retina"
-                                                    src="../images/logo-wide@2x.png" alt="Logo">
+                                                    src="../images/rwandamobility.jpg" alt="Logo">
                                             </a>
                                         </div>
                                         <div class="col-xs-auto ml-auto pr-0 align-self-center">
@@ -339,7 +339,7 @@
                                 <div
                                     class="tm-widget tm-widget-contact-info contact-info contact-info-style1  contact-icon-theme-colored1">
                                     <div class="thumb">
-                                        <img alt="Logo" src="../images/logo-wide-white.png">
+                                        <img alt="Logo" src="../images/rwandamobility.jpg">
                                     </div>
                                     <div class="description">(CRFPD) is a non-profit
                                         organization founded in 2017 and
@@ -347,17 +347,6 @@
                                     </div>
 
                                 </div>
-                            </div>
-                            <div class=" split-nav-menu clearfix widget widget-social-list-custom clearfix">
-                                <h4 class="widget-title ">Follow us on Social Mediat</h4>
-                                <ul
-                                    class="tm-widget tm-widget-social-list tm-widget-social-list-custom styled-icons  icon-dark  icon-rounded icon-theme-colored1 ">
-                                    <li><a class="social-link" href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a class="social-link" href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a class="social-link" href="#"><i class="fa fa-youtube"></i></a></li>
-                                    <li><a class="social-link" href="#"><i class="fa fa-instagram"></i></a>
-                                    </li>
-                                </ul>
                             </div>
                         </div>
                         <div class="col-sm-6 col-md-6 col-lg-3">

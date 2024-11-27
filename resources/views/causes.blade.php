@@ -117,21 +117,21 @@
                                                     <li class="active"><a href="{{ route('home') }}">Home</a>
 
                                                     </li>
-                                                    <li><a href="#">Pages</a>
+                                                    <li><a href="{{ route('about-us') }}">About Us</a>
 
                                                     </li>
-                                                    <li><a href="#home">Causes</a>
+                                                    <li><a href="{{ route('contact-us') }}">Contact Us</a>
 
                                                     </li>
-                                                    <li><a href="#">Blog</a>
+                                                    <li><a href="{{ route('events') }}">Events</a>
 
                                                     </li>
                                                     <li
                                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children">
-                                                        <a href="#">Shortcodes</a>
+                                                        <a href="#">Donate</a>
 
                                                     </li>
-                                                    <li><a href="page-contact.html">Contact</a></li>
+                                                    {{-- <li><a href="page-contact.html">Contact</a></li> --}}
                                                 </ul>
                                             </nav>
                                         </div>
