@@ -116,15 +116,12 @@
                                             <nav id="top-primary-nav" class="menuzord green" data-effect="fade"
                                                 data-animation="none" data-align="right">
                                                 <ul id="main-nav" class="menuzord-menu">
-                                                    <li class="active"><a href="#">Home</a>
+                                                    <li class="active"><a href="{{ route('home') }}">Home</a>
                                                     </li>
-                                                    <li><a href="#">About Us</a>
+                                                    <li><a href="{{ route('about-us') }}">About Us</a>
 
                                                     </li>
-                                                    <li><a href="#home">Contact Us</a>
-
-                                                    </li>
-                                                    <li><a href="#">Events</a>
+                                                    <li><a href="{{ route('contact-us') }}">Contact Us</a>
 
                                                     </li>
                                                     <li
@@ -132,7 +129,7 @@
                                                         <a href="#">Donate</a>
 
                                                     </li>
-                                                    <li><a href="page-contact.html">Gaery</a></li>
+                                                    <li><a href="{{ route('galery') }}">Gaery</a></li>
                                                 </ul>
                                             </nav>
                                         </div>
