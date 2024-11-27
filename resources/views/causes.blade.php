@@ -104,9 +104,9 @@
                                     <div class="row header-nav-col-row">
                                         <div class="col-sm-auto align-self-center">
                                             <a class="menuzord-brand site-brand" href="index-mp-layout1.html">
-                                                <img class="logo-default logo-1x" src="images/logo-wide.png"
+                                                <img class="logo-default logo-1x" src="images/rwandamobility.jpg"
                                                     alt="Logo">
-                                                <img class="logo-default logo-2x retina" src="images/logo-wide@2x.png"
+                                                <img class="logo-default logo-2x retina" src="images/rwandamobility.jpg"
                                                     alt="Logo">
                                             </a>
                                         </div>
@@ -503,7 +503,7 @@
             </section>
 
             <!-- Our-Work -->
-            <section data-tm-bg-color="#f8f4f0">
+            {{-- <section data-tm-bg-color="#f8f4f0">
                 <div class="container pb-80">
                     <div class="section-title text-center mb-40">
                         <div class="row justify-content-md-center">
@@ -585,7 +585,7 @@
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> --}}
         </div>
         <!-- end main-content -->
 
@@ -599,30 +599,16 @@
                                 <div
                                     class="tm-widget tm-widget-contact-info contact-info contact-info-style1  contact-icon-theme-colored1">
                                     <div class="thumb">
-                                        <img alt="Logo" src="images/logo-wide-white.png">
+                                        <img alt="Logo" src="images/rwandamobility.jpg">
                                     </div>
-                                    <div class="description">203, Envato Labs, Behind Alis Steet, Melbourne, Australia.
+                                    <div class="description">(CRFPD) is a non-profit
+                                        organization founded in 2017 and
+                                        incorporated in the Government of Alberta, Canada
                                     </div>
-                                    <ul>
-                                        <li class="contact-email">
-                                            <div class="icon"><i class="icon-globe"></i></div>
-                                            <div class="text"><a
-                                                    href="mailto:www.yourdomain.com">www.yourdomain.com</a></div>
-                                        </li>
-                                    </ul>
+
                                 </div>
                             </div>
-                            <div class=" split-nav-menu clearfix widget widget-social-list-custom clearfix">
-                                <h4 class="widget-title ">Social List</h4>
-                                <ul
-                                    class="tm-widget tm-widget-social-list tm-widget-social-list-custom styled-icons  icon-dark  icon-rounded icon-theme-colored1 ">
-                                    <li><a class="social-link" href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a class="social-link" href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a class="social-link" href="#"><i class="fa fa-youtube"></i></a></li>
-                                    <li><a class="social-link" href="#"><i class="fa fa-instagram"></i></a>
-                                    </li>
-                                </ul>
-                            </div>
+
                         </div>
                         <div class="col-sm-6 col-md-6 col-lg-3">
                             <div class="widget widget_nav_menu">
@@ -631,23 +617,23 @@
                                     <ul class="menu">
                                         <li id="menu-item-16307"
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16307">
-                                            <a href="#">About Us</a>
+                                            <a href="{{ route('about-us') }}">About Us</a>
                                         </li>
                                         <li id="menu-item-16308"
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16308">
-                                            <a href="#">Online Video</a>
+                                            <a href="#">Contact Us</a>
                                         </li>
                                         <li id="menu-item-16309"
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16309">
-                                            <a href="#">Contact with us</a>
+                                            <a href="#">Events</a>
                                         </li>
                                         <li id="menu-item-16310"
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16310">
-                                            <a href="#">News Portal</a>
+                                            <a href="#">Donate</a>
                                         </li>
                                         <li id="menu-item-16311"
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16311">
-                                            <a href="#">Press Release</a>
+                                            <a href="#">Galery</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -726,12 +712,7 @@
                         <div class="row pt-20 pb-20">
                             <div class="col-sm-6">
                                 <div class="footer-paragraph">
-                                    © 2019 ThemeMascot. All Rights Reserved.
-                                </div>
-                            </div>
-                            <div class="col-sm-6">
-                                <div class="footer-paragraph text-right">
-                                    Site Template
+                                    © 2024 CRFPD. All Rights Reserved.
                                 </div>
                             </div>
                         </div>
