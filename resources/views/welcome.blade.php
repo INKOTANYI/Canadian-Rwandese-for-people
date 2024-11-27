@@ -171,13 +171,14 @@
                                         <!-- SLIDE 1 -->
                                         <li data-index="rs-1" data-transition="slidingoverlayhorizontal"
                                             data-slotamount="default" data-easein="default" data-easeout="default"
-                                            data-masterspeed="default" data-thumb="images/bg/bg11.jpg"
+                                            data-masterspeed="default" data-thumb="images/bg/kigali.jpg"
                                             data-rotate="0" data-fstransition="fade" data-fsmasterspeed="1500"
                                             data-fsslotamount="7" data-saveperformance="off" data-title="Slide One">
                                             <!-- MAIN IMAGE -->
-                                            <img src="images/bg/bg11.jpg" alt="" data-bgposition="center 20%"
-                                                data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10"
-                                                class="rev-slidebg" data-no-retina>
+                                            <img src="images/bg/kigali.jpg" alt=""
+                                                data-bgposition="center 20%" data-bgfit="cover"
+                                                data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg"
+                                                data-no-retina>
                                             <!-- LAYERS -->
                                             <!-- LAYER NR. 1 -->
                                             <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0"
@@ -261,13 +262,14 @@
                                         <!-- SLIDE 2 -->
                                         <li data-index="rs-2" data-transition="slidingoverlayhorizontal"
                                             data-slotamount="default" data-easein="default" data-easeout="default"
-                                            data-masterspeed="default" data-thumb="images/bg/bg12.jpg"
+                                            data-masterspeed="default" data-thumb="images/bg/kigali.jpg"
                                             data-rotate="0" data-fstransition="fade" data-fsmasterspeed="1500"
                                             data-fsslotamount="7" data-saveperformance="off" data-title="Slide Two">
                                             <!-- MAIN IMAGE -->
-                                            <img src="images/bg/bg12.jpg" alt="" data-bgposition="center 20%"
-                                                data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10"
-                                                class="rev-slidebg" data-no-retina>
+                                            <img src="images/bg/kigali.jpg" alt=""
+                                                data-bgposition="center 20%" data-bgfit="cover"
+                                                data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg"
+                                                data-no-retina>
                                             <!-- LAYERS -->
                                             <!-- LAYER NR. 1 -->
                                             <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0"
@@ -352,14 +354,15 @@
                                         <!-- SLIDE 3 -->
                                         <li data-index="rs-3" data-transition="slidingoverlayhorizontal"
                                             data-slotamount="default" data-easein="default" data-easeout="default"
-                                            data-masterspeed="default" data-thumb="images/bg/bg13.jpg"
+                                            data-masterspeed="default" data-thumb="images/bg/kigali.jpg"
                                             data-rotate="0" data-fstransition="fade" data-fsmasterspeed="1500"
                                             data-fsslotamount="7" data-saveperformance="off"
                                             data-title="Slide Three">
                                             <!-- MAIN IMAGE -->
-                                            <img src="images/bg/bg13.jpg" alt="" data-bgposition="center 20%"
-                                                data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10"
-                                                class="rev-slidebg" data-no-retina>
+                                            <img src="images/bg/kigali.jpg" alt=""
+                                                data-bgposition="center 20%" data-bgfit="cover"
+                                                data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg"
+                                                data-no-retina>
                                             <!-- LAYERS -->
                                             <!-- LAYER NR. 1 -->
                                             <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0"
