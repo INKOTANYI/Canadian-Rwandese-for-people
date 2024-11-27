@@ -625,7 +625,7 @@
                                         </li>
                                         <li id="menu-item-16309"
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16309">
-                                            <a href="#">Events</a>
+                                            <a href="{{ route('events') }}">Events</a>
                                         </li>
                                         <li id="menu-item-16310"
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16310">
@@ -633,7 +633,7 @@
                                         </li>
                                         <li id="menu-item-16311"
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16311">
-                                            <a href="#">Galery</a>
+                                            <a href="{{ route('galery') }}">Galery</a>
                                         </li>
                                     </ul>
                                 </div>
