@@ -456,7 +456,7 @@
 
                                 </div>
                             </div>
-                            <div class=" split-nav-menu clearfix widget widget-social-list-custom clearfix">
+                            {{-- <div class=" split-nav-menu clearfix widget widget-social-list-custom clearfix">
                                 <h4 class="widget-title ">Follow us on Social Media</h4>
                                 <ul
                                     class="tm-widget tm-widget-social-list tm-widget-social-list-custom styled-icons  icon-dark  icon-rounded icon-theme-colored1 ">
@@ -466,7 +466,7 @@
                                     <li><a class="social-link" href="#"><i class="fa fa-instagram"></i></a>
                                     </li>
                                 </ul>
-                            </div>
+                            </div> --}}
                         </div>
                         <div class="col-sm-6 col-md-6 col-lg-3">
                             <div class="widget widget_nav_menu">
@@ -475,23 +475,23 @@
                                     <ul class="menu">
                                         <li id="menu-item-16307"
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16307">
-                                            <a href="#">About Us</a>
+                                            <a href="#">Home</a>
                                         </li>
                                         <li id="menu-item-16308"
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16308">
-                                            <a href="#">Online Video</a>
+                                            <a href="#">Contact Us</a>
                                         </li>
                                         <li id="menu-item-16309"
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16309">
-                                            <a href="#">Contact with us</a>
+                                            <a href="#">About Us</a>
                                         </li>
                                         <li id="menu-item-16310"
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16310">
-                                            <a href="#">News Portal</a>
+                                            <a href="#">Events</a>
                                         </li>
                                         <li id="menu-item-16311"
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16311">
-                                            <a href="#">Press Release</a>
+                                            <a href="#">Galery</a>
                                         </li>
                                     </ul>
                                 </div>

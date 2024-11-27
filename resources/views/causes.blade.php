@@ -621,12 +621,9 @@
                                         </li>
                                         <li id="menu-item-16308"
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16308">
-                                            <a href="#">Contact Us</a>
+                                            <a href="{{ route('contact-us') }}">Contact Us</a>
                                         </li>
-                                        <li id="menu-item-16309"
-                                            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16309">
-                                            <a href="{{ route('events') }}">Events</a>
-                                        </li>
+
                                         <li id="menu-item-16310"
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16310">
                                             <a href="#">Donate</a>
