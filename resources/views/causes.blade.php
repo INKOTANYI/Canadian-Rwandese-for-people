@@ -11,7 +11,7 @@
     <meta name="author" content="ThemeMascot" />
 
     <!-- Page Title -->
-    <title>Charitab - Helping & Charity HTML5 Template</title>
+    <title>Canadian Rwandese Foundation of People With Disabilities</title>
 
     <!-- Favicon and Touch Icons -->
     <link href="images/favicon.png" rel="shortcut icon" type="image/png">

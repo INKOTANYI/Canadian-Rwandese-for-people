@@ -171,14 +171,13 @@
                                         <!-- SLIDE 1 -->
                                         <li data-index="rs-1" data-transition="slidingoverlayhorizontal"
                                             data-slotamount="default" data-easein="default" data-easeout="default"
-                                            data-masterspeed="default" data-thumb="images/bg/rwanda.jpg"
+                                            data-masterspeed="default" data-thumb="images/bg/bg11.jpg"
                                             data-rotate="0" data-fstransition="fade" data-fsmasterspeed="1500"
                                             data-fsslotamount="7" data-saveperformance="off" data-title="Slide One">
                                             <!-- MAIN IMAGE -->
-                                            <img src="images/bg/kigali.jpg" alt=""
-                                                data-bgposition="center 20%" data-bgfit="cover"
-                                                data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg"
-                                                data-no-retina>
+                                            <img src="images/bg/bg11.jpg" alt="" data-bgposition="center 20%"
+                                                data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10"
+                                                class="rev-slidebg" data-no-retina>
                                             <!-- LAYERS -->
                                             <!-- LAYER NR. 1 -->
                                             <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0"
@@ -196,7 +195,7 @@
                                                 data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
                                                 data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000"
                                                 data-splitin="none" data-splitout="none" data-responsive_offset="on"
-                                                style="z-index: 7; white-space: nowrap;">Be part of the life Changing
+                                                style="z-index: 7; white-space: nowrap;">Making Best Future
                                             </div>
                                             <!-- LAYER NR. 2 -->
                                             <div class="tp-caption tp-resizeme text-white text-uppercase font-montserrat rs-parallaxlevel-0"
@@ -215,7 +214,7 @@
                                                 data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000"
                                                 data-splitin="none" data-splitout="none" data-responsive_offset="on"
                                                 style="z-index: 6; min-width: 600px; max-width: 600px; white-space: normal;">
-                                                Be Compassionate
+                                                Help Rescue Child
                                             </div>
                                             <!-- LAYER NR. 3 -->
                                             <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0"
@@ -233,9 +232,9 @@
                                                 data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
                                                 data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000"
                                                 data-splitin="none" data-splitout="none" data-responsive_offset="on"
-                                                style="z-index: 7; white-space: nowrap;">Be part of the life
-                                                emproving<br>Be Compassionate
-
+                                                style="z-index: 7; white-space: nowrap;">We provides always our best
+                                                services for our students and always<br> try to achieve making a bright
+                                                successful future.
                                             </div>
                                             <!-- LAYER NR. 4 -->
                                             <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0"
@@ -255,19 +254,20 @@
                                                 data-splitin="none" data-splitout="none" data-responsive_offset="on"
                                                 style="z-index: 7; white-space: nowrap;"><a href="#"
                                                     class="btn btn-dark btn-circled btn-round btn-theme-colored1 mr-10 pr-30 pl-30">Donate
-                                                    Now</a> <a href="#" </div>
+                                                    Now</a> <a href="#"
+                                                    class="btn btn-light btn-round pr-30 pl-30">Read More</a>
+                                            </div>
                                         </li>
                                         <!-- SLIDE 2 -->
                                         <li data-index="rs-2" data-transition="slidingoverlayhorizontal"
                                             data-slotamount="default" data-easein="default" data-easeout="default"
-                                            data-masterspeed="default" data-thumb="images/bg/rwanda1.jpg"
+                                            data-masterspeed="default" data-thumb="images/bg/bg12.jpg"
                                             data-rotate="0" data-fstransition="fade" data-fsmasterspeed="1500"
                                             data-fsslotamount="7" data-saveperformance="off" data-title="Slide Two">
                                             <!-- MAIN IMAGE -->
-                                            <img src="images/bg/kigali.jpg" alt=""
-                                                data-bgposition="center 20%" data-bgfit="cover"
-                                                data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg"
-                                                data-no-retina>
+                                            <img src="images/bg/bg12.jpg" alt="" data-bgposition="center 20%"
+                                                data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10"
+                                                class="rev-slidebg" data-no-retina>
                                             <!-- LAYERS -->
                                             <!-- LAYER NR. 1 -->
                                             <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0"
@@ -352,15 +352,14 @@
                                         <!-- SLIDE 3 -->
                                         <li data-index="rs-3" data-transition="slidingoverlayhorizontal"
                                             data-slotamount="default" data-easein="default" data-easeout="default"
-                                            data-masterspeed="default" data-thumb="images/bg/rwanda1.jpg"
+                                            data-masterspeed="default" data-thumb="images/bg/bg13.jpg"
                                             data-rotate="0" data-fstransition="fade" data-fsmasterspeed="1500"
                                             data-fsslotamount="7" data-saveperformance="off"
                                             data-title="Slide Three">
                                             <!-- MAIN IMAGE -->
-                                            <img src="images/bg/kigali.jpg" alt=""
-                                                data-bgposition="center 20%" data-bgfit="cover"
-                                                data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg"
-                                                data-no-retina>
+                                            <img src="images/bg/bg13.jpg" alt="" data-bgposition="center 20%"
+                                                data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10"
+                                                class="rev-slidebg" data-no-retina>
                                             <!-- LAYERS -->
                                             <!-- LAYER NR. 1 -->
                                             <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0"
@@ -546,9 +545,7 @@
                         </div>
                     </div>
                 </div>
-            </section>
-
-            <!-- About-->
+            </section <!-- About-->
             <section class="bg-theme-colored1">
                 <div class="container pt-50">
                     <div class="section-content">
