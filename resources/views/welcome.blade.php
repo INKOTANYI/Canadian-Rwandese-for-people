@@ -103,7 +103,8 @@
                                     <div class="row header-nav-col-row">
                                         <div class="col-sm-auto align-self-center">
                                             <a class="menuzord-brand site-brand" href="index-mp-layout1.html">
-                                                <img class="logo-default logo-1x" src="images/rwandamobility.jpg" alt="Logo">
+                                                <img class="logo-default logo-1x" src="images/rwandamobility.jpg"
+                                                    alt="Logo">
                                                 <img class="logo-default logo-2x retina" src="images/rwandamobility.jpg"
                                                     alt="Logo">
                                             </a>
@@ -113,16 +114,13 @@
                                                 data-animation="none" data-align="right">
                                                 <ul id="main-nav" class="menuzord-menu">
 
-                                                    <li><a href="{{ route('home') }}">Home</a>
-
-
                                                     <li><a href="{{ route('about-us') }}">AboutUs</a>
 
                                                     </li>
-                                                    <li><a href="{{ route('causes') }}">Causes</a>
+                                                    <li><a href="#Services">Services</a>
 
                                                     </li>
-                                                    <li><a href="{{ route('events') }}">Events</a>
+                                                    <li><a href="">Causes</a>
 
                                                     </li>
                                                     <li
@@ -130,7 +128,13 @@
                                                         <a href="{{ route('contact-us') }}">Contact-Us</a>
 
                                                     </li>
-                                                    <li><a href="{{ route('galery') }}">Galery</a></li>
+                                                    <li
+                                                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children">
+                                                        <a href="">Parteners</a>
+
+                                                    </li>
+
+                                                    <li><a href="{{ route('galery') }}">Login</a></li>
                                                 </ul>
                                             </nav>
                                         </div>
@@ -196,7 +200,8 @@
                                                 data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
                                                 data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000"
                                                 data-splitin="none" data-splitout="none" data-responsive_offset="on"
-                                                style="z-index: 7; white-space: nowrap;">Making Best Future
+                                                style="z-index: 7; white-space: nowrap;">Making a Difference to Persons
+                                                with Disabilities
                                             </div>
                                             <!-- LAYER NR. 2 -->
                                             <div class="tp-caption tp-resizeme text-white text-uppercase font-montserrat rs-parallaxlevel-0"
@@ -215,7 +220,8 @@
                                                 data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000"
                                                 data-splitin="none" data-splitout="none" data-responsive_offset="on"
                                                 style="z-index: 6; min-width: 600px; max-width: 600px; white-space: normal;">
-                                                Help Rescue Child
+                                                We are commited to support the Disabled ones
+                                                Please be part of us and let lets join our effort togather!
                                             </div>
                                             <!-- LAYER NR. 3 -->
                                             <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0"
@@ -233,9 +239,9 @@
                                                 data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
                                                 data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000"
                                                 data-splitin="none" data-splitout="none" data-responsive_offset="on"
-                                                style="z-index: 7; white-space: nowrap;">We provides always our best
-                                                services for our students and always<br> try to achieve making a bright
-                                                successful future.
+                                                style="z-index: 7; white-space: nowrap;">When You assist one in need,
+                                                you are saving a Soul<br> try to achieve making a bright
+                                                A loving with compassion provides for others in need
                                             </div>
                                             <!-- LAYER NR. 4 -->
                                             <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0"
@@ -254,9 +260,9 @@
                                                 data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000"
                                                 data-splitin="none" data-splitout="none" data-responsive_offset="on"
                                                 style="z-index: 7; white-space: nowrap;"><a href="#"
-                                                    class="btn btn-dark btn-circled btn-round btn-theme-colored1 mr-10 pr-30 pl-30">Donate
-                                                    Now</a> <a href="#"
-                                                    class="btn btn-light btn-round pr-30 pl-30">Read More</a>
+                                                    class="btn btn-dark btn-circled btn-round btn-theme-colored1 mr-10 pr-30 pl-30">Be
+                                                    part of the life emproving</a> <a href="#"
+                                                    class="btn btn-light btn-round pr-30 pl-30">Be Compassionate</a>
                                             </div>
                                         </li>
                                         <!-- SLIDE 2 -->
@@ -628,332 +634,379 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="container pb-60">
-                            <div class="section-title text-center mb-40">
-                                <div class="row justify-content-md-center">
-                                    <div class="col-md-6">
-                                        <h2 class="title text-uppercase mt-0"><span class="">Our</span> <span
-                                                class="text-theme-colored1">Services</span></h2>
+                        <section class="section-content" id ="">
+                            <div class="container pb-60" id ="#Services">
+                                <div class="section-title text-center mb-40">
+                                    <div class="row justify-content-md-center">
+                                        <div class="col-md-6">
+                                            <h2 class="title text-uppercase mt-0"><span class="">Our</span>
+                                                <span class="text-theme-colored1">Services</span>
+                                            </h2>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="section-content">
-                                <div class="row">
-                                    <div class="col-sm-12">
-                                        <div
-                                            class="tm-sc tm-sc-services tm-sc-services-grid services-style2-classic border-radius-around-box">
-                                            <!-- Isotope Gallery Grid -->
-                                            <div class="isotope-layout grid-4 clearfix">
-                                                <!-- the loop -->
-                                                <div class="isotope-item">
-                                                    <div class="tm-service services type-services status-publish">
-                                                        <div class="box-hover-effect">
-                                                            <div class="effect-wrapper">
-                                                                <div class="thumb">
-                                                                    <img width="150" height="150"
-                                                                        src="images/service/1.jpg"
-                                                                        class="img-fullwidth wp-post-image"
-                                                                        alt="" />
+                                <div class="section-content">
+                                    <div class="row">
+                                        <div class="col-sm-12">
+                                            <div
+                                                class="tm-sc tm-sc-services tm-sc-services-grid services-style2-classic border-radius-around-box">
+                                                <!-- Isotope Gallery Grid -->
+                                                <div class="isotope-layout grid-4 clearfix">
+                                                    <!-- the loop -->
+                                                    <div class="isotope-item">
+                                                        <div class="tm-service services type-services status-publish">
+                                                            <div class="box-hover-effect">
+                                                                <div class="effect-wrapper">
+                                                                    <div class="thumb">
+                                                                        <img width="150" height="150"
+                                                                            src="images/service/1.jpg"
+                                                                            class="img-fullwidth wp-post-image"
+                                                                            alt="" />
+                                                                    </div>
                                                                 </div>
-                                                            </div>
-                                                            <div class="details">
-                                                                <h4 class="title"><a href="#">The Mobility
-                                                                        Matters</a>
-                                                                </h4>
-                                                                <div class="paragraph mb-15">
-                                                                    Our primary focus is on the acquisition of
-                                                                    prosthetic components,
-                                                                    upplies and related support
-                                                                </div>
-                                                                <div class="btn-view-details">
-                                                                    <a href="#"
-                                                                        class="btn btn-outline-theme-colored1 btn-outline btn-sm">
-                                                                        View Details</a>
+                                                                <div class="details">
+                                                                    <h4 class="title"><a href="#">The Mobility
+                                                                            Matters</a>
+                                                                    </h4>
+                                                                    <div class="paragraph mb-15">
+                                                                        Our primary focus is on the acquisition of
+                                                                        prosthetic components,
+                                                                        upplies and related support
+                                                                    </div>
+
                                                                 </div>
                                                             </div>
                                                         </div>
                                                     </div>
-                                                </div>
-                                                <div class="isotope-item">
-                                                    <div class="tm-service services type-services status-publish">
-                                                        <div class="box-hover-effect">
-                                                            <div class="effect-wrapper">
-                                                                <div class="thumb">
-                                                                    <img width="150" height="150"
-                                                                        src="images/service/2.jpg"
-                                                                        class="img-fullwidth wp-post-image"
-                                                                        alt="" />
+                                                    <div class="isotope-item">
+                                                        <div class="tm-service services type-services status-publish">
+                                                            <div class="box-hover-effect">
+                                                                <div class="effect-wrapper">
+                                                                    <div class="thumb">
+                                                                        <img width="150" height="150"
+                                                                            src="images/service/2.jpg"
+                                                                            class="img-fullwidth wp-post-image"
+                                                                            alt="" />
+                                                                    </div>
                                                                 </div>
-                                                            </div>
-                                                            <div class="details">
-                                                                <h4 class="title"><a href="#">Social
-                                                                        Inclusion</a>
-                                                                </h4>
-                                                                <div class="paragraph mb-15">
-                                                                    Introducing day programs to encourage and enable
-                                                                    social
-                                                                    inclusion for persons with disabilities
-                                                                </div>
-                                                                <div class="btn-view-details">
-                                                                    <a href="#"
-                                                                        class="btn btn-outline-theme-colored1 btn-outline btn-sm">
-                                                                        View Details</a>
+                                                                <div class="details">
+                                                                    <h4 class="title"><a href="#">Social
+                                                                            Inclusion</a>
+                                                                    </h4>
+                                                                    <div class="paragraph mb-15">
+                                                                        Introducing day programs to encourage and enable
+                                                                        social
+                                                                        inclusion for persons with disabilities
+                                                                    </div>
+
                                                                 </div>
                                                             </div>
                                                         </div>
                                                     </div>
-                                                </div>
-                                                <div class="isotope-item ">
-                                                    <div class="tm-service services type-services status-publish">
-                                                        <div class="box-hover-effect">
-                                                            <div class="effect-wrapper">
-                                                                <div class="thumb">
-                                                                    <img width="150" height="150"
-                                                                        src="images/service/3.jpg"
-                                                                        class="img-fullwidth wp-post-image"
-                                                                        alt="" />
+                                                    <div class="isotope-item ">
+                                                        <div class="tm-service services type-services status-publish">
+                                                            <div class="box-hover-effect">
+                                                                <div class="effect-wrapper">
+                                                                    <div class="thumb">
+                                                                        <img width="150" height="150"
+                                                                            src="images/service/3.jpg"
+                                                                            class="img-fullwidth wp-post-image"
+                                                                            alt="" />
+                                                                    </div>
                                                                 </div>
-                                                            </div>
-                                                            <div class="details">
-                                                                <h4 class="title"><a href="#">Donation
-                                                                    </a>
-                                                                </h4>
-                                                                <div class="paragraph mb-15">
-                                                                    Collection of in cash or in kind donation for the
-                                                                    persons with disabilities and special need from
-                                                                    donors and well-wishers.
-                                                                </div>
-                                                                <div class="btn-view-details">
-                                                                    <a href="#"
-                                                                        class="btn btn-outline-theme-colored1 btn-outline btn-sm">
-                                                                        View Details</a>
+                                                                <div class="details">
+                                                                    <h4 class="title"><a href="#">Donation
+                                                                        </a>
+                                                                    </h4>
+                                                                    <div class="paragraph mb-15">
+                                                                        Collection of in cash or in kind donation for
+                                                                        the
+                                                                        persons with disabilities and special need from
+                                                                        donors and well-wishers.
+                                                                    </div>
+
                                                                 </div>
                                                             </div>
                                                         </div>
                                                     </div>
-                                                </div>
-                                                <div class="isotope-item">
-                                                    <div class="tm-service services type-services status-publish">
-                                                        <div class="box-hover-effect">
-                                                            <div class="effect-wrapper">
-                                                                <div class="thumb">
-                                                                    <img width="150" height="150"
-                                                                        src="images/service/4.jpg"
-                                                                        class="img-fullwidth wp-post-image"
-                                                                        alt="" />
+                                                    <div class="isotope-item">
+                                                        <div class="tm-service services type-services status-publish">
+                                                            <div class="box-hover-effect">
+                                                                <div class="effect-wrapper">
+                                                                    <div class="thumb">
+                                                                        <img width="150" height="150"
+                                                                            src="images/service/4.jpg"
+                                                                            class="img-fullwidth wp-post-image"
+                                                                            alt="" />
+                                                                    </div>
                                                                 </div>
-                                                            </div>
-                                                            <div class="details">
-                                                                <h4 class="title"><a href="#">Encouraging
-                                                                        Sel-reliance
-                                                                    </a>
-                                                                </h4>
-                                                                <div class="paragraph mb-15">
-                                                                    Assisting and encouraging persons with disabilities
-                                                                    to be independent in their day to day living.
-                                                                </div>
-                                                                <div class="btn-view-details">
-                                                                    <a href="#"
-                                                                        class="btn btn-outline-theme-colored1 btn-outline btn-sm">
-                                                                        View Details</a>
+                                                                <div class="details">
+                                                                    <h4 class="title"><a href="#">Encouraging
+                                                                            Sel-reliance
+                                                                        </a>
+                                                                    </h4>
+                                                                    <div class="paragraph mb-15">
+                                                                        Assisting and encouraging persons with
+                                                                        disabilities
+                                                                        to be independent in their day to day living.
+                                                                    </div>
+
                                                                 </div>
                                                             </div>
                                                         </div>
                                                     </div>
+                                                    <!-- end of the loop -->
                                                 </div>
-                                                <!-- end of the loop -->
+                        </section>
+                        <section class="section-content" id ="">
+                            <div class="container pb-60">
+                                <div class="section-title text-center mb-40">
+                                    <div class="row justify-content-md-center">
+                                        <div class="col-md-6">
+                                            <h2 class="title text-uppercase mt-0"><span class="">Welcome
+                                                    to</span><span class="text-theme-colored1"> Our
+                                                    Causes</span></h2>
+                                            <p>At CRFPDISA, we are dedicated to creating a more
+                                                inclusive
+                                                and
+                                                supportive
+                                                world
+                                                for individuals with disabilities. Our causes focus
+                                                on
+                                                empowering lives,
+                                                breaking barriers, and building a community where
+                                                everyone
+                                                can
+                                                thrive.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="section-content">
+                                    <div class="row">
+                                        <div class="col-sm-12">
+                                            <div
+                                                class="tm-sc tm-sc-charitable-campaigns tm-sc-charitable-campaigns-grid">
+                                                <!-- Isotope Gallery Grid -->
+                                                <div class="isotope-layout grid-3 clearfix">
+                                                    <!-- the loop -->
+                                                    <div class="isotope-item food water">
+                                                        <div
+                                                            class="charitable-campaign campaign type-campaign campaign_category-food">
+                                                            <div class="campaign-inner">
+                                                                <div class="campaign-thumbnail"><a href="#"><img
+                                                                            width="672" height="448"
+                                                                            src="images/causes/1.jpg"
+                                                                            class="img-fullwidth wp-post-image"
+                                                                            alt="" /></a>
+                                                                </div>
+                                                                <div class="campaign-content">
+                                                                    <h4 class="campaign-title"><a
+                                                                            href="#">Sponsor
+                                                                            a
+                                                                            Child</a></h4>
+                                                                    <div class="campaign-meta">
+                                                                    </div>
+                                                                    <div class="campaign-description">
+                                                                        Lorem
+                                                                        ipsum
+                                                                        dolor sit
+                                                                        amet,
+                                                                        consect adipisicing elit.
+                                                                        Praesent
+                                                                        quos
+                                                                        sit.Lorem ipsum
+                                                                        dolor sit amet, consect
+                                                                        adipisicing
+                                                                        elit.
+                                                                        Praesent quos
+                                                                        sit.
+                                                                    </div>
+                                                                    <div class="tm-sc tm-sc-progress-bar progress-bar-default charitable-progress-bar"
+                                                                        data-percent="80" data-unit-left="$"
+                                                                        data-unit-right="" data-bar-height=""
+                                                                        data-barcolor="bg-theme-colored1">
+                                                                        <div class="progress-holder">
+                                                                            <div class="progress-content">
+                                                                                <span class="symbol-left">$</span><span
+                                                                                    class="value">80</span><span
+                                                                                    class="symbol-right"></span>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="campaign-donation-stats">
+                                                                        <div class="donation-raised">
+                                                                            <span
+                                                                                class="progress-title">Raised:</span><span
+                                                                                class="amount">&#036;4,000.00</span>
+                                                                        </div>
+                                                                        <div class="donation-goal">
+                                                                            <span
+                                                                                class="progress-title">Goal:</span><span
+                                                                                class="amount goal-amount">&#036;7,500.00</span>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="campaigns-btn"><a href="#"
+                                                                            class="btn btn-theme-colored1 btn-xs">View
+                                                                            Details</a><a href="#"
+                                                                            class="btn btn-dark btn-xs">Donate
+                                                                            Now</a>
+                                                                        <div class="clearfix">
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="isotope-item food water">
+                                                        <div
+                                                            class="charitable-campaign campaign type-campaign campaign_category-food">
+                                                            <div class="campaign-inner">
+                                                                <div class="campaign-thumbnail"><a href="#"><img
+                                                                            width="672" height="448"
+                                                                            src="images/causes/7.jpg"
+                                                                            class="img-fullwidth wp-post-image"
+                                                                            alt="" /></a>
+                                                                </div>
+                                                                <div class="campaign-content">
+                                                                    <h4 class="campaign-title"><a href="#"> Help
+                                                                            Senior
+                                                                            Citizens</a></h4>
+                                                                    <div class="campaign-meta">
+                                                                    </div>
+                                                                    <div class="campaign-description">
+                                                                        Lorem
+                                                                        ipsum
+                                                                        dolor sit
+                                                                        amet,
+                                                                        consect adipisicing elit.
+                                                                        Praesent
+                                                                        quos
+                                                                        sit.Lorem ipsum
+                                                                        dolor sit amet, consect
+                                                                        adipisicing
+                                                                        elit.
+                                                                        Praesent quos
+                                                                        sit.
+                                                                    </div>
+                                                                    <div class="tm-sc tm-sc-progress-bar progress-bar-default charitable-progress-bar"
+                                                                        data-percent="70" data-unit-left="$"
+                                                                        data-unit-right="" data-bar-height=""
+                                                                        data-barcolor="bg-theme-colored1">
+                                                                        <div class="progress-holder">
+                                                                            <div class="progress-content">
+                                                                                <span class="symbol-left">$</span><span
+                                                                                    class="value">70</span><span
+                                                                                    class="symbol-right"></span>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="campaign-donation-stats">
+                                                                        <div class="donation-raised">
+                                                                            <span
+                                                                                class="progress-title">Raised:</span><span
+                                                                                class="amount">&#036;2,000.00</span>
+                                                                        </div>
+                                                                        <div class="donation-goal">
+                                                                            <span
+                                                                                class="progress-title">Goal:</span><span
+                                                                                class="amount goal-amount">&#036;8,600.00</span>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="campaigns-btn"><a href="#"
+                                                                            class="btn btn-theme-colored1 btn-xs">
+                                                                            View
+                                                                            Details</a><a href="#"
+                                                                            class="btn btn-dark btn-xs">
+                                                                            Donate
+                                                                            Now</a>
+                                                                        <div class="clearfix">
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="isotope-item environment water">
+                                                        <div
+                                                            class="charitable-campaign campaign type-campaign campaign_category-environment">
+                                                            <div class="campaign-inner">
+                                                                <div class="campaign-thumbnail"> <a
+                                                                        href="#"><img width="672"
+                                                                            height="448" src="images/causes/3.jpg"
+                                                                            class="img-fullwidth wp-post-image"
+                                                                            alt="" /></a>
+                                                                </div>
+                                                                <div class="campaign-content">
+                                                                    <h4 class="campaign-title"> <a href="#">
+                                                                            Help
+                                                                            rebuild
+                                                                            Nepal </a> </h4>
+                                                                    <div class="campaign-meta">
+                                                                    </div>
+                                                                    <div class="campaign-description">
+                                                                        Lorem
+                                                                        ipsum
+                                                                        dolor sit
+                                                                        amet,
+                                                                        consect adipisicing elit.
+                                                                        Praesent
+                                                                        quos
+                                                                        sit.Lorem ipsum
+                                                                        dolor sit amet, consect
+                                                                        adipisicing
+                                                                        elit.
+                                                                        Praesent quos
+                                                                        sit.
+                                                                    </div>
+                                                                    <div class="tm-sc tm-sc-progress-bar progress-bar-default charitable-progress-bar"
+                                                                        data-percent="90" data-unit-left="$"
+                                                                        data-unit-right="" data-bar-height=""
+                                                                        data-barcolor="bg-theme-colored1">
+                                                                        <div class="progress-holder">
+                                                                            <div class="progress-content">
+                                                                                <span class="symbol-left">$</span><span
+                                                                                    class="value">90</span><span
+                                                                                    class="symbol-right"></span>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="campaign-donation-stats">
+                                                                        <div class="donation-raised">
+                                                                            <span class="progress-title">Raised:</span>
+                                                                            <span class="amount">&#036;5,000.00</span>
+                                                                        </div>
+                                                                        <div class="donation-goal">
+                                                                            <span class="progress-title">Goal:</span>
+                                                                            <span
+                                                                                class="amount goal-amount">&#036;5,600.00</span>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="campaigns-btn"> <a href="#"
+                                                                            class="btn btn-theme-colored1 btn-xs">
+                                                                            View
+                                                                            Details</a><a href="#"
+                                                                            class="btn btn-dark btn-xs">
+                                                                            Donate
+                                                                            Now
+                                                                        </a>
+                                                                        <div class="clearfix">
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                    </div>
-                </div>
-
-                <section class="section-content">
-                    <div class="container pb-60">
-                        <div class="section-title text-center mb-40">
-                            <div class="row justify-content-md-center">
-                                <div class="col-md-6">
-                                    <h2 class="title text-uppercase mt-0"><span class="">Welcome to</span><span
-                                            class="text-theme-colored1"> Our Causes</span></h2>
-                                    <p>At CRFPDISA, we are dedicated to creating a more inclusive and supportive world
-                                        for individuals with disabilities. Our causes focus on empowering lives,
-                                        breaking barriers, and building a community where everyone can thrive.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="section-content">
-                            <div class="row">
-                                <div class="col-sm-12">
-                                    <div class="tm-sc tm-sc-charitable-campaigns tm-sc-charitable-campaigns-grid">
-                                        <!-- Isotope Gallery Grid -->
-                                        <div class="isotope-layout grid-3 clearfix">
-                                            <!-- the loop -->
-                                            <div class="isotope-item food water">
-                                                <div
-                                                    class="charitable-campaign campaign type-campaign campaign_category-food">
-                                                    <div class="campaign-inner">
-                                                        <div class="campaign-thumbnail"><a href="#"><img
-                                                                    width="672" height="448"
-                                                                    src="images/causes/1.jpg"
-                                                                    class="img-fullwidth wp-post-image"
-                                                                    alt="" /></a></div>
-                                                        <div class="campaign-content">
-                                                            <h4 class="campaign-title"><a href="#">Sponsor a
-                                                                    Child</a></h4>
-                                                            <div class="campaign-meta"></div>
-                                                            <div class="campaign-description"> Lorem ipsum dolor sit
-                                                                amet,
-                                                                consect adipisicing elit. Praesent quos sit.Lorem ipsum
-                                                                dolor sit amet, consect adipisicing elit. Praesent quos
-                                                                sit.
-                                                            </div>
-                                                            <div class="tm-sc tm-sc-progress-bar progress-bar-default charitable-progress-bar"
-                                                                data-percent="80" data-unit-left="$"
-                                                                data-unit-right="" data-bar-height=""
-                                                                data-barcolor="bg-theme-colored1">
-                                                                <div class="progress-holder">
-                                                                    <div class="progress-content"><span
-                                                                            class="symbol-left">$</span><span
-                                                                            class="value">80</span><span
-                                                                            class="symbol-right"></span></div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="campaign-donation-stats">
-                                                                <div class="donation-raised"><span
-                                                                        class="progress-title">Raised:</span><span
-                                                                        class="amount">&#036;4,000.00</span></div>
-                                                                <div class="donation-goal"><span
-                                                                        class="progress-title">Goal:</span><span
-                                                                        class="amount goal-amount">&#036;7,500.00</span>
-                                                                </div>
-                                                            </div>
-                                                            <div class="campaigns-btn"><a href="#"
-                                                                    class="btn btn-theme-colored1 btn-xs">View
-                                                                    Details</a><a href="#"
-                                                                    class="btn btn-dark btn-xs">Donate Now</a>
-                                                                <div class="clearfix"></div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="isotope-item food water">
-                                                <div
-                                                    class="charitable-campaign campaign type-campaign campaign_category-food">
-                                                    <div class="campaign-inner">
-                                                        <div class="campaign-thumbnail"><a href="#"><img
-                                                                    width="672" height="448"
-                                                                    src="images/causes/7.jpg"
-                                                                    class="img-fullwidth wp-post-image"
-                                                                    alt="" /></a> </div>
-                                                        <div class="campaign-content">
-                                                            <h4 class="campaign-title"><a href="#"> Help Senior
-                                                                    Citizens</a></h4>
-                                                            <div class="campaign-meta"></div>
-                                                            <div class="campaign-description"> Lorem ipsum dolor sit
-                                                                amet,
-                                                                consect adipisicing elit. Praesent quos sit.Lorem ipsum
-                                                                dolor sit amet, consect adipisicing elit. Praesent quos
-                                                                sit.
-                                                            </div>
-                                                            <div class="tm-sc tm-sc-progress-bar progress-bar-default charitable-progress-bar"
-                                                                data-percent="70" data-unit-left="$"
-                                                                data-unit-right="" data-bar-height=""
-                                                                data-barcolor="bg-theme-colored1">
-                                                                <div class="progress-holder">
-                                                                    <div class="progress-content"><span
-                                                                            class="symbol-left">$</span><span
-                                                                            class="value">70</span><span
-                                                                            class="symbol-right"></span></div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="campaign-donation-stats">
-                                                                <div class="donation-raised"><span
-                                                                        class="progress-title">Raised:</span><span
-                                                                        class="amount">&#036;2,000.00</span></div>
-                                                                <div class="donation-goal"><span
-                                                                        class="progress-title">Goal:</span><span
-                                                                        class="amount goal-amount">&#036;8,600.00</span>
-                                                                </div>
-                                                            </div>
-                                                            <div class="campaigns-btn"><a href="#"
-                                                                    class="btn btn-theme-colored1 btn-xs"> View
-                                                                    Details</a><a href="#"
-                                                                    class="btn btn-dark btn-xs"> Donate Now</a>
-                                                                <div class="clearfix"></div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="isotope-item environment water">
-                                                <div
-                                                    class="charitable-campaign campaign type-campaign campaign_category-environment">
-                                                    <div class="campaign-inner">
-                                                        <div class="campaign-thumbnail"> <a href="#"><img
-                                                                    width="672" height="448"
-                                                                    src="images/causes/3.jpg"
-                                                                    class="img-fullwidth wp-post-image"
-                                                                    alt="" /></a> </div>
-                                                        <div class="campaign-content">
-                                                            <h4 class="campaign-title"> <a href="#"> Help
-                                                                    rebuild
-                                                                    Nepal </a> </h4>
-                                                            <div class="campaign-meta"> </div>
-                                                            <div class="campaign-description"> Lorem ipsum dolor sit
-                                                                amet,
-                                                                consect adipisicing elit. Praesent quos sit.Lorem ipsum
-                                                                dolor sit amet, consect adipisicing elit. Praesent quos
-                                                                sit.
-                                                            </div>
-                                                            <div class="tm-sc tm-sc-progress-bar progress-bar-default charitable-progress-bar"
-                                                                data-percent="90" data-unit-left="$"
-                                                                data-unit-right="" data-bar-height=""
-                                                                data-barcolor="bg-theme-colored1">
-                                                                <div class="progress-holder">
-                                                                    <div class="progress-content"><span
-                                                                            class="symbol-left">$</span><span
-                                                                            class="value">90</span><span
-                                                                            class="symbol-right"></span></div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="campaign-donation-stats">
-                                                                <div class="donation-raised"><span
-                                                                        class="progress-title">Raised:</span> <span
-                                                                        class="amount">&#036;5,000.00</span></div>
-                                                                <div class="donation-goal"><span
-                                                                        class="progress-title">Goal:</span> <span
-                                                                        class="amount goal-amount">&#036;5,600.00</span>
-                                                                </div>
-                                                            </div>
-                                                            <div class="campaigns-btn"> <a href="#"
-                                                                    class="btn btn-theme-colored1 btn-xs"> View
-                                                                    Details</a><a href="#"
-                                                                    class="btn btn-dark btn-xs"> Donate Now </a>
-                                                                <div class="clearfix"></div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </section>
-
+                        </section>
             </section>
 
-            <!-- Our-Causes -->
-
-            <!-- Funfact -->
             <section class="bg-theme-colored1">
                 <div class="container pt-70">
                     <div class="row">
