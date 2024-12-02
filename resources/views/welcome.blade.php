@@ -1002,55 +1002,10 @@
                                             </div>
                                         </div>
                                     </div>
-                                </div>
-                            </div>
+                                  {{-- </div> --}}
+                            {{-- </div> --}}
                         </section>
             </section>
-
-            <section class="bg-theme-colored1">
-                <div class="container pt-70">
-                    <div class="row">
-                        <div class="col-md-6 col-lg-3 mb-sm-30">
-                            <div class="tm-sc tm-sc-funfact funfact text-center">
-                                <h2 class="counter ">
-                                    <span class="animate-number text-white" data-value="1456"
-                                        data-animation-duration="1500">0</span>
-                                </h2>
-                                <h4 class="title text-white">Expert Volunteer</h4>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-lg-3 mb-sm-30">
-                            <div class="tm-sc tm-sc-funfact funfact text-center">
-                                <h2 class="counter ">
-                                    <span class="text-white counter-prefix">$</span><span
-                                        class="animate-number text-white" data-value="12341"
-                                        data-animation-duration="1500">0</span>
-                                </h2>
-                                <h4 class="title text-white">Fund Collected</h4>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-lg-3 mb-sm-30">
-                            <div class="tm-sc tm-sc-funfact funfact text-center">
-                                <h2 class="counter ">
-                                    <span class="animate-number text-white" data-value="322"
-                                        data-animation-duration="1500">0</span>
-                                </h2>
-                                <h4 class="title text-white">Projects Done</h4>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-lg-3">
-                            <div class="tm-sc tm-sc-funfact funfact text-center">
-                                <h2 class="counter ">
-                                    <span class="animate-number text-white" data-value="17"
-                                        data-animation-duration="1500">0</span>
-                                </h2>
-                                <h4 class="title text-white">Award Winner</h4>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
             <!-- Volunteers -->
             <section>
                 <div class="container pb-80">
