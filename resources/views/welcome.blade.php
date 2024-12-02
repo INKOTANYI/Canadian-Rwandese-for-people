@@ -758,7 +758,7 @@
                                                     <!-- end of the loop -->
                                                 </div>
                         </section>
-                        <section class="section-content" id ="">
+                        <section class="section-content" id ="Causes">
                             <div class="container pb-60">
                                 <div class="section-title text-center mb-40">
                                     <div class="row justify-content-md-center">
@@ -1002,12 +1002,12 @@
                                             </div>
                                         </div>
                                     </div>
-                                  {{-- </div> --}}
-                            {{-- </div> --}}
+                                    {{-- </div> --}}
+                                    {{-- </div> --}}
                         </section>
             </section>
             <!-- Volunteers -->
-            <section>
+            {{-- <section>
                 <div class="container pb-80">
                     <div class="section-title text-center mb-40">
                         <div class="row justify-content-md-center">
@@ -1336,18 +1336,331 @@
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> --}}
+
+
+
+            {{-- Our Galery --}}
+
+            <div class="main-content">
+                <!-- Section: home -->
+                <section class="page-title divider layer-overlay overlay-dark-8 section-typo-light"
+                    data-tm-bg-img="images/bg/bg11.jpg">
+                    <div class="container pt-90 pb-90">
+                        <!-- Section Content -->
+                        <div class="section-content">
+                            <div class="row">
+                                <div class="col-md-12 text-center">
+                                    <h2 class="title text-white">Photo Gallery</h2>
+                                    <nav role="navigation" class="breadcrumb-trail breadcrumbs">
+                                        <div class="breadcrumbs">
+                                            <span class="trail-item trail-begin">
+                                                <a href="#"><span>Home</span></a>
+                                            </span>
+                                            <span><i class="fa fa-angle-right"></i></span>
+                                            <span class="trail-item"><a href="#"><span>Pages</span></a></span>
+                                            <span><i class="fa fa-angle-right"></i></span>
+                                            <span itemscope itemtype="http://schema.org/ListItem"
+                                                class="trail-item trail-end active"><span>About</span></span>
+                                        </div>
+                                    </nav>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Our Gallery -->
+                <section class="layer-overlay overlay-white-5" data-tm-bg-img="images/bg/bg.png"
+                    data-tm-bg-color="#f7f6f5">
+                    <div class="container pb-70">
+                        <div class="section-content">
+                            <div class="row">
+                                <div class="col-sm-12">
+
+                                    <div
+                                        class="tm-sc tm-sc-gallery tm-sc-gallery-masonry gallery-style1-current-theme">
+
+                                        <!-- End Isotope Filter -->
+                                        <!-- Isotope Gallery Grid -->
+                                        <div id="gallery-holder-1"
+                                            class="isotope-layout masonry grid-3 gutter-15 clearfix lightgallery-lightbox">
+                                            <div class="isotope-layout-inner">
+                                                <div class="isotope-item isotope-item-sizer"></div>
+
+                                                <!-- Isotope Item Start -->
+                                                <div class="isotope-item  festival picnic">
+                                                    <div class="isotope-item-inner tm-gallery">
+                                                        <div class="tm-gallery-inner">
+                                                            <div class="thumb ">
+                                                                <img src="images/clients/item123.jpg"
+                                                                    alt=""></a>
+                                                            </div>
+                                                            <div class="tm-gallery-content-wrapper">
+                                                                <div class="tm-gallery-content">
+                                                                    <div class="tm-gallery-content-inner">
+                                                                        <div class="icons-holder-inner">
+                                                                            <div
+                                                                                class="styled-icons icon-dark icon-circled icon-theme-colored1">
+                                                                                <a class="lightgallery-trigger styled-icons-item"
+                                                                                    data-exthumbimage="images/clients/item123.jpg"
+                                                                                    data-src="images/clients/item123.jpg"
+                                                                                    title="Cyrilo Simpunga Founder
+                                                                                     Canadadian Rwandese Foundation for Disability."
+                                                                                    href="images/clients/item123.jpg"><i
+                                                                                        class="fa fa-plus"></i></a> <a
+                                                                                    class="styled-icons-item"
+                                                                                    title="Canadian Rwandese Foundation of People with Disability"
+                                                                                    href="#"><i
+                                                                                        class="fa fa-link"></i></a>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="title-holder">
+                                                                            <h9 class="title">
+                                                                                Mr. Cyrilo Simpunga Founder
+                                                                                Canadian Rwandese Foundation of
+                                                                                People with Disabilities, Located in
+                                                                                Edmonton,Alberta.
+
+                                                                            </h9>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Isotope Item End -->
+
+                                                <!-- Isotope Item Start -->
+                                                <div class="isotope-item festival picnic">
+                                                    <div class="isotope-item-inner tm-gallery">
+                                                        <div class="tm-gallery-inner">
+                                                            <div class="thumb ">
+                                                                <a href="#"><img
+                                                                        src="images/clients/alberta.jpg"
+                                                                        alt=""></a>
+                                                            </div>
+                                                            <div class="tm-gallery-content-wrapper">
+                                                                <div class="tm-gallery-content">
+                                                                    <div class="tm-gallery-content-inner">
+                                                                        <div class="icons-holder-inner">
+                                                                            <div
+                                                                                class="styled-icons icon-dark icon-circled icon-theme-colored1">
+                                                                                <a class="lightgallery-trigger styled-icons-item"
+                                                                                    data-exthumbimage="images/clients/alberta.jpg"
+                                                                                    data-src="images/clients/alberta.jpg"
+                                                                                    title="Canadian Rwandese Foundation of People with Disability."
+                                                                                    href="images/clients/alberta.jpg"><i
+                                                                                        class="fa fa-plus"></i></a> <a
+                                                                                    class="styled-icons-item"
+                                                                                    title="Canadian Rwandese Foundation of People with Disability."
+                                                                                    href="#"><i
+                                                                                        class="fa fa-link"></i></a>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="title-holder">
+                                                                            <h9 class="title">
+                                                                                Alberta
+                                                                                Canadian Rwandese Foundation of People
+                                                                                with Disability, Located in Edmonton.
+                                                                            </h9>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Isotope Item End -->
+
+                                                <!-- Isotope Item Start -->
+                                                <div class="isotope-item  meeting picnic">
+                                                    <div class="isotope-item-inner tm-gallery">
+                                                        <div class="tm-gallery-inner">
+                                                            <div class="thumb ">
+                                                                <a href="#"><img
+                                                                        src="images/clients/desabilities.jpg"
+                                                                        alt=""></a>
+                                                            </div>
+                                                            <div class="tm-gallery-content-wrapper">
+                                                                <div class="tm-gallery-content">
+                                                                    <div class="tm-gallery-content-inner">
+                                                                        <div class="icons-holder-inner">
+                                                                            <div
+                                                                                class="styled-icons icon-dark icon-circled icon-theme-colored1">
+                                                                                <a class="lightgallery-trigger styled-icons-item"
+                                                                                    data-exthumbimage="images/clients/desabilities.jpg"
+                                                                                    data-src="images/clients/desabilities.jpg"
+                                                                                    title="Project Title Here"
+                                                                                    href="images/clients/desabilities.jpg"><i
+                                                                                        class="fa fa-plus"></i></a> <a
+                                                                                    class="styled-icons-item"
+                                                                                    title="Project Title Here"
+                                                                                    href="#"><i
+                                                                                        class="fa fa-link"></i></a>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="title-holder">
+                                                                            <h9 class="title">
+                                                                                Give a hand to those ones in need
+                                                                                We are looking forward to working with
+                                                                                you.</h9>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Isotope Item End -->
+
+                                                <!-- Isotope Item Start -->
+                                                <div class="isotope-item  festival picnic">
+                                                    <div class="isotope-item-inner tm-gallery">
+                                                        <div class="tm-gallery-inner">
+                                                            <div class="thumb ">
+                                                                <a href="#"><img src="images/clients/item4.jpg"
+                                                                        alt=""></a>
+                                                            </div>
+                                                            <div class="tm-gallery-content-wrapper">
+                                                                <div class="tm-gallery-content">
+                                                                    <div class="tm-gallery-content-inner">
+                                                                        <div class="icons-holder-inner">
+                                                                            <div
+                                                                                class="styled-icons icon-dark icon-circled icon-theme-colored1">
+                                                                                <a class="lightgallery-trigger styled-icons-item"
+                                                                                    data-exthumbimage="images/clients/item4.jpg"
+                                                                                    data-src="images/clients/item4.jpg"
+                                                                                    title="Project Title Here"
+                                                                                    href="images/clients/item4.jpg"><i
+                                                                                        class="fa fa-plus"></i></a> <a
+                                                                                    class="styled-icons-item"
+                                                                                    title="Project Title Here"
+                                                                                    href="#"><i
+                                                                                        class="fa fa-link"></i></a>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="title-holder">
+                                                                            <h5 class="title"><a
+                                                                                    href="#">Project
+                                                                                    Title Here</a></h5>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Isotope Item End -->
+
+                                                <!-- Isotope Item Start -->
+                                                <div class="isotope-item  festival">
+                                                    <div class="isotope-item-inner tm-gallery">
+                                                        <div class="tm-gallery-inner">
+                                                            <div class="thumb ">
+                                                                <a href="#"><img src="images/gallery/1.jpg"
+                                                                        alt=""></a>
+                                                            </div>
+                                                            <div class="tm-gallery-content-wrapper">
+                                                                <div class="tm-gallery-content">
+                                                                    <div class="tm-gallery-content-inner">
+                                                                        <div class="icons-holder-inner">
+                                                                            <div
+                                                                                class="styled-icons icon-dark icon-circled icon-theme-colored1">
+                                                                                <a class="lightgallery-trigger styled-icons-item"
+                                                                                    data-exthumbimage="images/gallery/1.jpg"
+                                                                                    data-src="images/gallery/1.jpg"
+                                                                                    title="Project Title Here"
+                                                                                    href="images/gallery/1.jpg"><i
+                                                                                        class="fa fa-plus"></i></a> <a
+                                                                                    class="styled-icons-item"
+                                                                                    title="Project Title Here"
+                                                                                    href="#"><i
+                                                                                        class="fa fa-link"></i></a>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="title-holder">
+                                                                            <h5 class="title"><a
+                                                                                    href="#">Project
+                                                                                    Title Here</a></h5>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Isotope Item End -->
+
+                                                <!-- Isotope Item Start -->
+                                                <div class="isotope-item meeting">
+                                                    <div class="isotope-item-inner tm-gallery">
+                                                        <div class="tm-gallery-inner">
+                                                            <div class="thumb ">
+                                                                <a href="#"><img src="images/gallery/2.jpg"
+                                                                        alt=""></a>
+                                                            </div>
+                                                            <div class="tm-gallery-content-wrapper">
+                                                                <div class="tm-gallery-content">
+                                                                    <div class="tm-gallery-content-inner">
+                                                                        <div class="icons-holder-inner">
+                                                                            <div
+                                                                                class="styled-icons icon-dark icon-circled icon-theme-colored1">
+                                                                                <a class="lightgallery-trigger styled-icons-item"
+                                                                                    data-exthumbimage="'images/clients/rwandamobility.jpg' alt='image'"
+                                                                                    data-src="'images/clients/rwandamobility.jpg' alt='image'"
+                                                                                    title="Project Title Here"
+                                                                                    href="images/gallery/1.jpg"><i
+                                                                                        class="fa fa-plus"></i></a> <a
+                                                                                    class="styled-icons-item"
+                                                                                    title="Project Title Here"
+                                                                                    href="#"><i
+                                                                                        class="fa fa-link"></i></a>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="title-holder">
+                                                                            <h5 class="title"><a
+                                                                                    href="#">Project
+                                                                                    Title Here</a></h5>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Isotope Item End -->
+                                            </div>
+                                        </div>
+                                        <!-- End Isotope Gallery Grid -->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+
             <!-- Client -->
 
             <div class="section-title text-center mb-40">
                 <div class="row justify-content-md-center">
                     <div class="col-md-6">
-                        <h2 class="title text-uppercase mt-0"><span class="">Our</span> <span
-                                class="text-theme-colored1">Parteners</span></h2>
+                        <h2 class="title text-uppercase mt-0"><span class="">
+                            </span><span class="text-theme-colored1"> Our
+                                Parteners</span></h2>
+                        <p>This is an Rwandan based organisation that is working in helping people with Disabilities
+                            locally.We sensitize and train
+                            vulnerable youth and adolescents included those disabled to acquire the culture of loving to
+                            work, study vocational skills and create jobs, good governance, fighting ignorance.
 
+                        </p>
                     </div>
                 </div>
             </div>
+
+
 
             <section data-tm-bg-color="#f2f3f5">
                 <div class="container pt-40 pb-40">
@@ -1390,6 +1703,100 @@
             </section>
         </div>
         <!-- end main-content -->
+
+        <section id="contact">
+            <div class="container pb-sm-10">
+                <div class="row">
+                    <div class="col-md-5">
+                        <iframe
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7496.556775569473!2d144.95479118909844!3d-37.81548660764023!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d4c2b349649%3A0xb6899234e561db11!2sEnvato!5e0!3m2!1sen!2sbd!4v1562002563953!5m2!1sen!2sbd"
+                            width="600" height="650" allowfullscreen></iframe>
+                    </div>
+                    <div class="col-md-7">
+                        <h3 class="line-bottom mt-sm-30 mt-0 mb-30">Interested in discussing?</h3>
+                        <p class="lead">Canadian Rwandese Foundation for People with Disability Inc.</p>
+
+                        <!-- Contact Form -->
+                        <form id="contact_form" name="contact_form" class="" action="includes/sendmail.php"
+                            method="post">
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    <div class="form-group">
+                                        <label>Name <small>*</small></label>
+                                        <input name="form_name" class="form-control" type="text"
+                                            placeholder="Enter Name" required="">
+                                    </div>
+                                </div>
+                                <div class="col-sm-6">
+                                    <div class="form-group">
+                                        <label>Email <small>*</small></label>
+                                        <input name="form_email" class="form-control required email" type="email"
+                                            placeholder="Enter Email">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    <div class="form-group">
+                                        <label>Subject <small>*</small></label>
+                                        <input name="form_subject" class="form-control required" type="text"
+                                            placeholder="Enter Subject">
+                                    </div>
+                                </div>
+                                <div class="col-sm-6">
+                                    <div class="form-group">
+                                        <label>Phone</label>
+                                        <input name="form_phone" class="form-control" type="text"
+                                            placeholder="Enter Phone">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label>Message</label>
+                                <textarea name="form_message" class="form-control required" rows="5" placeholder="Enter Message"></textarea>
+                            </div>
+                            <div class="form-group">
+                                <input name="form_botcheck" class="form-control" type="hidden" value="" />
+                                <button type="submit" class="btn btn-dark btn-theme-colored1 btn-flat"
+                                    data-loading-text="Please wait...">Send your message</button>
+                            </div>
+                        </form>
+                        <!-- Contact Form Validation-->
+                        <script>
+                            (function($) {
+                                $("#contact_form").validate({
+                                    submitHandler: function(form) {
+                                        var form_btn = $(form).find('button[type="submit"]');
+                                        var form_result_div = '#form-result';
+                                        $(form_result_div).remove();
+                                        form_btn.before(
+                                            '<div id="form-result" class="alert alert-success" role="alert" style="display: none;"></div>'
+                                        );
+                                        var form_btn_old_msg = form_btn.html();
+                                        form_btn.html(form_btn.prop('disabled', true).data("loading-text"));
+                                        $(form).ajaxSubmit({
+                                            dataType: 'json',
+                                            success: function(data) {
+                                                if (data.status === 'true') {
+                                                    $(form).find('.form-control').val('');
+                                                }
+                                                form_btn.prop('disabled', false).html(form_btn_old_msg);
+                                                $(form_result_div).html(data.message).fadeIn('slow');
+                                                setTimeout(function() {
+                                                    $(form_result_div).fadeOut('slow')
+                                                }, 6000);
+                                            }
+                                        });
+                                    }
+                                });
+                            })(jQuery);
+                        </script>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+
 
         <!-- Footer -->
         <footer id="footer" class="footer">
@@ -1492,7 +1899,8 @@
                                             </h5>
                                             <span class="post-date">
                                                 <time class="entry-date"
-                                                    datetime="2019-09-15T06:10:26+00:00">November 15, 2019</time>
+                                                    datetime="2019-09-15T06:10:26+00:00">November
+                                                    15, 2019</time>
                                             </span>
                                         </div>
                                     </article>
