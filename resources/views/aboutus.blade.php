@@ -698,6 +698,233 @@
     </div>
     </section>
 
+    <section class="section-content" id ="Causes">
+        <div class="container pb-60">
+            <div class="section-title text-center mb-40">
+                <div class="row justify-content-md-center">
+                    <div class="col-md-6">
+                        <h2 class="title text-uppercase mt-0"><span class="">Welcome
+                                to</span><span class="text-theme-colored1"> Our
+                                Causes</span></h2>
+                        <p>At CRFPDISA, we are dedicated to creating a more
+                            inclusive
+                            and
+                            supportive
+                            world
+                            for individuals with disabilities. Our causes focus
+                            on
+                            empowering lives,
+                            breaking barriers, and building a community where
+                            everyone
+                            can
+                            thrive.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="section-content">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="tm-sc tm-sc-charitable-campaigns tm-sc-charitable-campaigns-grid">
+                            <!-- Isotope Gallery Grid -->
+                            <div class="isotope-layout grid-3 clearfix">
+                                <!-- the loop -->
+                                <div class="isotope-item food water">
+                                    <div class="charitable-campaign campaign type-campaign campaign_category-food">
+                                        <div class="campaign-inner">
+                                            <div class="campaign-thumbnail"><a href="#"><img width="672"
+                                                        height="448" src="images/clients/rwandamobility.jpg"
+                                                        class="img-fullwidth wp-post-image" alt="" /></a>
+                                            </div>
+                                            <div class="campaign-content">
+                                                <h4 class="campaign-title"><a href="#">Sponsor
+                                                        a
+                                                        Child</a></h4>
+                                                <div class="campaign-meta">
+                                                </div>
+                                                <div class="campaign-description">
+                                                    Lorem
+                                                    ipsum
+                                                    dolor sit
+                                                    amet,
+                                                    consect adipisicing elit.
+                                                    Praesent
+                                                    quos
+                                                    sit.Lorem ipsum
+                                                    dolor sit amet, consect
+                                                    adipisicing
+                                                    elit.
+                                                    Praesent quos
+                                                    sit.
+                                                </div>
+                                                <div class="tm-sc tm-sc-progress-bar progress-bar-default charitable-progress-bar"
+                                                    data-percent="80" data-unit-left="$" data-unit-right=""
+                                                    data-bar-height="" data-barcolor="bg-theme-colored1">
+                                                    <div class="progress-holder">
+                                                        <div class="progress-content">
+                                                            <span class="symbol-left">$</span><span
+                                                                class="value">80</span><span
+                                                                class="symbol-right"></span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="campaign-donation-stats">
+                                                    <div class="donation-raised">
+                                                        <span class="progress-title">Raised:</span><span
+                                                            class="amount">&#036;4,000.00</span>
+                                                    </div>
+                                                    <div class="donation-goal">
+                                                        <span class="progress-title">Goal:</span><span
+                                                            class="amount goal-amount">&#036;7,500.00</span>
+                                                    </div>
+                                                </div>
+                                                <div class="campaigns-btn"><a href="#"
+                                                        class="btn btn-theme-colored1 btn-xs">View
+                                                        Details</a><a href="#"
+                                                        class="btn btn-dark btn-xs">Donate
+                                                        Now</a>
+                                                    <div class="clearfix">
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="isotope-item food water">
+                                    <div class="charitable-campaign campaign type-campaign campaign_category-food">
+                                        <div class="campaign-inner">
+                                            <div class="campaign-thumbnail"><a href="#"><img width="672"
+                                                        height="448" src="images/clients/rwandamobility.jpg"
+                                                        class="img-fullwidth wp-post-image" alt="" /></a>
+                                            </div>
+                                            <div class="campaign-content">
+                                                <h4 class="campaign-title"><a href="#"> Help
+                                                        Senior
+                                                        Citizens</a></h4>
+                                                <div class="campaign-meta">
+                                                </div>
+                                                <div class="campaign-description">
+                                                    Lorem
+                                                    ipsum
+                                                    dolor sit
+                                                    amet,
+                                                    consect adipisicing elit.
+                                                    Praesent
+                                                    quos
+                                                    sit.Lorem ipsum
+                                                    dolor sit amet, consect
+                                                    adipisicing
+                                                    elit.
+                                                    Praesent quos
+                                                    sit.
+                                                </div>
+                                                <div class="tm-sc tm-sc-progress-bar progress-bar-default charitable-progress-bar"
+                                                    data-percent="70" data-unit-left="$" data-unit-right=""
+                                                    data-bar-height="" data-barcolor="bg-theme-colored1">
+                                                    <div class="progress-holder">
+                                                        <div class="progress-content">
+                                                            <span class="symbol-left">$</span><span
+                                                                class="value">70</span><span
+                                                                class="symbol-right"></span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="campaign-donation-stats">
+                                                    <div class="donation-raised">
+                                                        <span class="progress-title">Raised:</span><span
+                                                            class="amount">&#036;2,000.00</span>
+                                                    </div>
+                                                    <div class="donation-goal">
+                                                        <span class="progress-title">Goal:</span><span
+                                                            class="amount goal-amount">&#036;8,600.00</span>
+                                                    </div>
+                                                </div>
+                                                <div class="campaigns-btn"><a href="#"
+                                                        class="btn btn-theme-colored1 btn-xs">
+                                                        View
+                                                        Details</a><a href="#" class="btn btn-dark btn-xs">
+                                                        Donate
+                                                        Now</a>
+                                                    <div class="clearfix">
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="isotope-item environment water">
+                                    <div
+                                        class="charitable-campaign campaign type-campaign campaign_category-environment">
+                                        <div class="campaign-inner">
+                                            <div class="campaign-thumbnail"> <a href="#"><img width="672"
+                                                        height="448" src="images/clients/rwandamobility.jpg"
+                                                        class="img-fullwidth wp-post-image" alt="" /></a>
+                                            </div>
+                                            <div class="campaign-content">
+                                                <h4 class="campaign-title"> <a href="#">
+                                                        Help
+                                                        rebuild
+                                                        Nepal </a> </h4>
+                                                <div class="campaign-meta">
+                                                </div>
+                                                <div class="campaign-description">
+                                                    Lorem
+                                                    ipsum
+                                                    dolor sit
+                                                    amet,
+                                                    consect adipisicing elit.
+                                                    Praesent
+                                                    quos
+                                                    sit.Lorem ipsum
+                                                    dolor sit amet, consect
+                                                    adipisicing
+                                                    elit.
+                                                    Praesent quos
+                                                    sit.
+                                                </div>
+                                                <div class="tm-sc tm-sc-progress-bar progress-bar-default charitable-progress-bar"
+                                                    data-percent="90" data-unit-left="$" data-unit-right=""
+                                                    data-bar-height="" data-barcolor="bg-theme-colored1">
+                                                    <div class="progress-holder">
+                                                        <div class="progress-content">
+                                                            <span class="symbol-left">$</span><span
+                                                                class="value">90</span><span
+                                                                class="symbol-right"></span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="campaign-donation-stats">
+                                                    <div class="donation-raised">
+                                                        <span class="progress-title">Raised:</span>
+                                                        <span class="amount">&#036;5,000.00</span>
+                                                    </div>
+                                                    <div class="donation-goal">
+                                                        <span class="progress-title">Goal:</span>
+                                                        <span class="amount goal-amount">&#036;5,600.00</span>
+                                                    </div>
+                                                </div>
+                                                <div class="campaigns-btn"> <a href="#"
+                                                        class="btn btn-theme-colored1 btn-xs">
+                                                        View
+                                                        Details</a><a href="#" class="btn btn-dark btn-xs">
+                                                        Donate
+                                                        Now
+                                                    </a>
+                                                    <div class="clearfix">
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+    </section>
+
     <div class="section-title text-center mb-40">
 
         <section id="contact">

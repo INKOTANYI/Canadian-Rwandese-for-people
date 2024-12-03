@@ -175,23 +175,23 @@
                                                 data-no-retina>
                                             <!-- LAYERS -->
                                             <!-- LAYER NR. 1 -->
-                                            <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0"
-                                                id="slide-1-layer-1" data-x="['left','left','left','left']"
+                                            <div class="tp-caption tp-resizeme text-white text-uppercase font-montserrat rs-parallaxlevel-0"
+                                                id="slide-2-layer-2" data-x="['left','left','left','left']"
                                                 data-hoffset="['50','50','50','30']"
                                                 data-y="['top','top','top','top']"
-                                                data-voffset="['215','130','110','120']"
-                                                data-fontsize="['20','18','16','13']"
-                                                data-lineheight="['30','30','28','25']"
-                                                data-fontweight="['700','700','700','700']"
+                                                data-voffset="['250','160','140','150']"
+                                                data-fontsize="['52','46','40','28']"
+                                                data-lineheight="['68','60','54','42']"
+                                                data-fontweight="['800','800','800','800']"
                                                 data-width="['700','650','600','420']" data-height="none"
-                                                data-whitespace="nowrap" data-transform_idle="o:1;"
+                                                data-whitespace="normal" data-transform_idle="o:1;"
                                                 data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1000;e:Power3.easeInOut;"
                                                 data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;"
                                                 data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
                                                 data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000"
                                                 data-splitin="none" data-splitout="none" data-responsive_offset="on"
-                                                style="z-index: 7; white-space: nowrap;">Canadian Rwandese Foundation
-                                                of People With Disabilities in Alberta
+                                                style="z-index: 6; min-width: 600px; max-width: 600px; white-space: normal;">
+                                                Canadian Rwandese Foundation of People With Disabilities
                                             </div>
                                             <!-- LAYER NR. 2 -->
                                             <div class="tp-caption tp-resizeme text-white text-uppercase font-montserrat rs-parallaxlevel-0"
@@ -262,22 +262,113 @@
                                                 data-no-retina>
                                             <!-- LAYERS -->
                                             <!-- LAYER NR. 1 -->
-                                            <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0"
-                                                id="slide-2-layer-1" data-x="['left','left','left','left']"
+                                            <div class="tp-caption tp-resizeme text-white text-uppercase font-montserrat rs-parallaxlevel-0"
+                                                id="slide-2-layer-2" data-x="['left','left','left','left']"
                                                 data-hoffset="['50','50','50','30']"
                                                 data-y="['top','top','top','top']"
-                                                data-voffset="['215','130','110','120']"
-                                                data-fontsize="['20','18','16','13']"
-                                                data-lineheight="['30','30','28','25']"
-                                                data-fontweight="['700','700','700','700']"
+                                                data-voffset="['250','160','140','150']"
+                                                data-fontsize="['52','46','40','28']"
+                                                data-lineheight="['68','60','54','42']"
+                                                data-fontweight="['800','800','800','800']"
                                                 data-width="['700','650','600','420']" data-height="none"
-                                                data-whitespace="nowrap" data-transform_idle="o:1;"
+                                                data-whitespace="normal" data-transform_idle="o:1;"
                                                 data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1000;e:Power3.easeInOut;"
                                                 data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;"
                                                 data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
                                                 data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000"
                                                 data-splitin="none" data-splitout="none" data-responsive_offset="on"
-                                                style="z-index: 7; white-space: nowrap;">
+                                                style="z-index: 6; min-width: 600px; max-width: 600px; white-space: normal;">
+                                                We are commited to support the Disabled ones
+                                            </div>
+                                            <!-- LAYER NR. 2 -->
+                                            <div class="tp-caption tp-resizeme text-white text-uppercase font-montserrat rs-parallaxlevel-0"
+                                                id="slide-2-layer-2" data-x="['left','left','left','left']"
+                                                data-hoffset="['50','50','50','30']"
+                                                data-y="['top','top','top','top']"
+                                                data-voffset="['250','160','140','150']"
+                                                data-fontsize="['52','46','40','28']"
+                                                data-lineheight="['68','60','54','42']"
+                                                data-fontweight="['800','800','800','800']"
+                                                data-width="['700','650','600','420']" data-height="none"
+                                                data-whitespace="normal" data-transform_idle="o:1;"
+                                                data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1000;e:Power3.easeInOut;"
+                                                data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;"
+                                                data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
+                                                data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000"
+                                                data-splitin="none" data-splitout="none" data-responsive_offset="on"
+                                                style="z-index: 6; min-width: 600px; max-width: 600px; white-space: normal;">
+
+                                            </div>
+                                            <!-- LAYER NR. 3 -->
+                                            <div class="tp-caption tp-resizeme text-white text-uppercase font-montserrat rs-parallaxlevel-0"
+                                                id="slide-2-layer-2" data-x="['left','left','left','left']"
+                                                data-hoffset="['50','50','50','30']"
+                                                data-y="['top','top','top','top']"
+                                                data-voffset="['250','160','140','150']"
+                                                data-fontsize="['52','46','40','28']"
+                                                data-lineheight="['68','60','54','42']"
+                                                data-fontweight="['800','800','800','800']"
+                                                data-width="['700','650','600','420']" data-height="none"
+                                                data-whitespace="normal" data-transform_idle="o:1;"
+                                                data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1000;e:Power3.easeInOut;"
+                                                data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;"
+                                                data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
+                                                data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000"
+                                                data-splitin="none" data-splitout="none" data-responsive_offset="on"
+                                                style="z-index: 6; min-width: 600px; max-width: 600px; white-space: normal;">
+
+                                            </div>
+                                            <!-- LAYER NR. 4 -->
+                                            <div class="tp-caption tp-resizeme text-white text-uppercase font-montserrat rs-parallaxlevel-0"
+                                                id="slide-2-layer-2" data-x="['left','left','left','left']"
+                                                data-hoffset="['50','50','50','30']"
+                                                data-y="['top','top','top','top']"
+                                                data-voffset="['250','160','140','150']"
+                                                data-fontsize="['52','46','40','28']"
+                                                data-lineheight="['68','60','54','42']"
+                                                data-fontweight="['800','800','800','800']"
+                                                data-width="['700','650','600','420']" data-height="none"
+                                                data-whitespace="normal" data-transform_idle="o:1;"
+                                                data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1000;e:Power3.easeInOut;"
+                                                data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;"
+                                                data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
+                                                data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000"
+                                                data-splitin="none" data-splitout="none" data-responsive_offset="on"
+                                                style="z-index: 6; min-width: 600px; max-width: 600px; white-space: normal;">
+                                                We are commited to support the Disabled ones
+                                            </div>
+                                        </li>
+                                        <!-- SLIDE 3 -->
+                                        <li data-index="rs-3" data-transition="slidingoverlayhorizontal"
+                                            data-slotamount="default" data-easein="default" data-easeout="default"
+                                            data-masterspeed="default" data-thumb="images/bg/rwanda.jpg"
+                                            data-rotate="0" data-fstransition="fade" data-fsmasterspeed="1500"
+                                            data-fsslotamount="7" data-saveperformance="off"
+                                            data-title="Slide Three">
+                                            <!-- MAIN IMAGE -->
+                                            <img src="images/bg/rwanda.jpg" alt=""
+                                                data-bgposition="center 20%" data-bgfit="cover"
+                                                data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg"
+                                                data-no-retina>
+                                            <!-- LAYERS -->
+                                            <!-- LAYER NR. 1 -->
+                                            <div class="tp-caption tp-resizeme text-white text-uppercase font-montserrat rs-parallaxlevel-0"
+                                                id="slide-2-layer-2" data-x="['left','left','left','left']"
+                                                data-hoffset="['50','50','50','30']"
+                                                data-y="['top','top','top','top']"
+                                                data-voffset="['250','160','140','150']"
+                                                data-fontsize="['52','46','40','28']"
+                                                data-lineheight="['68','60','54','42']"
+                                                data-fontweight="['800','800','800','800']"
+                                                data-width="['700','650','600','420']" data-height="none"
+                                                data-whitespace="normal" data-transform_idle="o:1;"
+                                                data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1000;e:Power3.easeInOut;"
+                                                data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;"
+                                                data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
+                                                data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000"
+                                                data-splitin="none" data-splitout="none" data-responsive_offset="on"
+                                                style="z-index: 6; min-width: 600px; max-width: 600px; white-space: normal;">
+                                                We are commited to support the Disabled ones
                                             </div>
                                             <!-- LAYER NR. 2 -->
                                             <div class="tp-caption tp-resizeme text-white text-uppercase font-montserrat rs-parallaxlevel-0"
@@ -299,79 +390,8 @@
                                                 We are commited to support the Disabled ones
                                             </div>
                                             <!-- LAYER NR. 3 -->
-                                            <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0"
-                                                id="slide-2-layer-3" data-x="['left','left','left','left']"
-                                                data-hoffset="['50','50','50','30']"
-                                                data-y="['top','top','top','top']"
-                                                data-voffset="['325','220','195','195']"
-                                                data-fontsize="['16','16','14','13']"
-                                                data-lineheight="['30','26','24','20']"
-                                                data-fontweight="['400','400','400','400']"
-                                                data-width="['700','650','600','420']" data-height="none"
-                                                data-whitespace="nowrap" data-transform_idle="o:1;"
-                                                data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1000;e:Power3.easeInOut;"
-                                                data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;"
-                                                data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
-                                                data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000"
-                                                data-splitin="none" data-splitout="none" data-responsive_offset="on"
-                                                style="z-index: 7; white-space: nowrap;">
-                                                <br>
-
-                                            </div>
-                                            <!-- LAYER NR. 4 -->
-                                            <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0"
-                                                id="slide-2-layer-4" data-x="['left','left','left','left']"
-                                                data-hoffset="['53','53','53','30']"
-                                                data-y="['top','top','top','top']"
-                                                data-voffset="['410','290','260','250']"
-                                                data-fontsize="['18','18','16','16']"
-                                                data-lineheight="['30','30','30','30']"
-                                                data-fontweight="['600','600','600','600']"
-                                                data-width="['700','650','600','420']" data-height="none"
-                                                data-whitespace="nowrap" data-transform_idle="o:1;"
-                                                data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1000;e:Power3.easeInOut;"
-                                                data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;"
-                                                data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
-                                                data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000"
-                                                data-splitin="none" data-splitout="none" data-responsive_offset="on"
-                                                style="z-index: 7; white-space: nowrap;">
-
-                                            </div>
-                                        </li>
-                                        <!-- SLIDE 3 -->
-                                        <li data-index="rs-3" data-transition="slidingoverlayhorizontal"
-                                            data-slotamount="default" data-easein="default" data-easeout="default"
-                                            data-masterspeed="default" data-thumb="images/bg/rwanda.jpg"
-                                            data-rotate="0" data-fstransition="fade" data-fsmasterspeed="1500"
-                                            data-fsslotamount="7" data-saveperformance="off"
-                                            data-title="Slide Three">
-                                            <!-- MAIN IMAGE -->
-                                            <img src="images/bg/rwanda.jpg" alt=""
-                                                data-bgposition="center 20%" data-bgfit="cover"
-                                                data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg"
-                                                data-no-retina>
-                                            <!-- LAYERS -->
-                                            <!-- LAYER NR. 1 -->
-                                            <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0"
-                                                id="slide-3-layer-1" data-x="['left','left','left','left']"
-                                                data-hoffset="['50','50','50','30']"
-                                                data-y="['top','top','top','top']"
-                                                data-voffset="['215','130','110','120']"
-                                                data-fontsize="['20','18','16','13']"
-                                                data-lineheight="['30','30','28','25']"
-                                                data-fontweight="['700','700','700','700']"
-                                                data-width="['700','650','600','420']" data-height="none"
-                                                data-whitespace="nowrap" data-transform_idle="o:1;"
-                                                data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1000;e:Power3.easeInOut;"
-                                                data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;"
-                                                data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
-                                                data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000"
-                                                data-splitin="none" data-splitout="none" data-responsive_offset="on"
-                                                style="z-index: 7; white-space: nowrap;">
-                                            </div>
-                                            <!-- LAYER NR. 2 -->
                                             <div class="tp-caption tp-resizeme text-white text-uppercase font-montserrat rs-parallaxlevel-0"
-                                                id="slide-3-layer-2" data-x="['left','left','left','left']"
+                                                id="slide-2-layer-2" data-x="['left','left','left','left']"
                                                 data-hoffset="['50','50','50','30']"
                                                 data-y="['top','top','top','top']"
                                                 data-voffset="['250','160','140','150']"
@@ -386,26 +406,7 @@
                                                 data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000"
                                                 data-splitin="none" data-splitout="none" data-responsive_offset="on"
                                                 style="z-index: 6; min-width: 600px; max-width: 600px; white-space: normal;">
-
-                                            </div>
-                                            <!-- LAYER NR. 3 -->
-                                            <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0"
-                                                id="slide-3-layer-3" data-x="['left','left','left','left']"
-                                                data-hoffset="['50','50','50','30']"
-                                                data-y="['top','top','top','top']"
-                                                data-voffset="['325','220','195','195']"
-                                                data-fontsize="['16','16','14','13']"
-                                                data-lineheight="['30','26','24','20']"
-                                                data-fontweight="['400','400','400','400']"
-                                                data-width="['700','650','600','420']" data-height="none"
-                                                data-whitespace="nowrap" data-transform_idle="o:1;"
-                                                data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1000;e:Power3.easeInOut;"
-                                                data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;"
-                                                data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
-                                                data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000"
-                                                data-splitin="none" data-splitout="none" data-responsive_offset="on"
-                                                style="z-index: 7; white-space: nowrap;">
-
+                                                We are commited to support the Disabled ones
                                             </div>
                                             <!-- LAYER NR. 4 -->
                                             <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0"
