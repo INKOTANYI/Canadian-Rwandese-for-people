@@ -165,11 +165,11 @@
                                         <!-- SLIDE 1 -->
                                         <li data-index="rs-1" data-transition="slidingoverlayhorizontal"
                                             data-slotamount="default" data-easein="default" data-easeout="default"
-                                            data-masterspeed="default" data-thumb="images/bg/kigali.jpg"
+                                            data-masterspeed="default" data-thumb="images/bg/banner1.jpg"
                                             data-rotate="0" data-fstransition="fade" data-fsmasterspeed="1500"
                                             data-fsslotamount="7" data-saveperformance="off" data-title="Slide One">
                                             <!-- MAIN IMAGE -->
-                                            <img src="images/bg/kigali.jpg" alt=""
+                                            <img src="images/bg/banner1.jpg" alt=""
                                                 data-bgposition="center 20%" data-bgfit="cover"
                                                 data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg"
                                                 data-no-retina>
@@ -190,8 +190,8 @@
                                                 data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
                                                 data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000"
                                                 data-splitin="none" data-splitout="none" data-responsive_offset="on"
-                                                style="z-index: 7; white-space: nowrap;">Making a Difference to Persons
-                                                with Disabilities
+                                                style="z-index: 7; white-space: nowrap;">Canadian Rwandese Foundation
+                                                of People With Disabilities in Alberta
                                             </div>
                                             <!-- LAYER NR. 2 -->
                                             <div class="tp-caption tp-resizeme text-white text-uppercase font-montserrat rs-parallaxlevel-0"
@@ -210,8 +210,7 @@
                                                 data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000"
                                                 data-splitin="none" data-splitout="none" data-responsive_offset="on"
                                                 style="z-index: 6; min-width: 600px; max-width: 600px; white-space: normal;">
-                                                We are commited to support the Disabled ones
-                                                Please be part of us and let lets join our effort togather!
+
                                             </div>
                                             <!-- LAYER NR. 3 -->
                                             <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0"
@@ -229,9 +228,7 @@
                                                 data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
                                                 data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000"
                                                 data-splitin="none" data-splitout="none" data-responsive_offset="on"
-                                                style="z-index: 7; white-space: nowrap;">When You assist one in need,
-                                                you are saving a Soul<br> try to achieve making a bright
-                                                A loving with compassion provides for others in need
+                                                style="z-index: 7; white-space: nowrap;">
                                             </div>
                                             <!-- LAYER NR. 4 -->
                                             <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0"
@@ -249,10 +246,7 @@
                                                 data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
                                                 data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000"
                                                 data-splitin="none" data-splitout="none" data-responsive_offset="on"
-                                                style="z-index: 7; white-space: nowrap;"><a href="#"
-                                                    class="btn btn-dark btn-circled btn-round btn-theme-colored1 mr-10 pr-30 pl-30">Be
-                                                    part of the life emproving</a> <a href="#"
-                                                    class="btn btn-light btn-round pr-30 pl-30">Be Compassionate</a>
+                                                style="z-index: 7; white-space: nowrap;">
                                             </div>
                                         </li>
                                         <!-- SLIDE 2 -->
@@ -283,7 +277,7 @@
                                                 data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
                                                 data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000"
                                                 data-splitin="none" data-splitout="none" data-responsive_offset="on"
-                                                style="z-index: 7; white-space: nowrap;">Start Learning For
+                                                style="z-index: 7; white-space: nowrap;">
                                             </div>
                                             <!-- LAYER NR. 2 -->
                                             <div class="tp-caption tp-resizeme text-white text-uppercase font-montserrat rs-parallaxlevel-0"
@@ -302,7 +296,7 @@
                                                 data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000"
                                                 data-splitin="none" data-splitout="none" data-responsive_offset="on"
                                                 style="z-index: 6; min-width: 600px; max-width: 600px; white-space: normal;">
-                                                Successful Future
+                                                We are commited to support the Disabled ones
                                             </div>
                                             <!-- LAYER NR. 3 -->
                                             <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0"
@@ -320,9 +314,9 @@
                                                 data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
                                                 data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000"
                                                 data-splitin="none" data-splitout="none" data-responsive_offset="on"
-                                                style="z-index: 7; white-space: nowrap;">We provides always our best
-                                                services for our students and always<br> try to achieve making a bright
-                                                successful future.
+                                                style="z-index: 7; white-space: nowrap;">
+                                                <br>
+
                                             </div>
                                             <!-- LAYER NR. 4 -->
                                             <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0"
@@ -340,22 +334,19 @@
                                                 data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
                                                 data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000"
                                                 data-splitin="none" data-splitout="none" data-responsive_offset="on"
-                                                style="z-index: 7; white-space: nowrap;"><a href="#"
-                                                    class="btn btn-light btn-circled btn-xl mr-10 pr-30 pl-30">Donate
-                                                    Now</a> <a href="#"
-                                                    class="btn btn-theme-colored1 btn-border btn-circled btn-xl pr-30 pl-30">Register
-                                                    Now</a>
+                                                style="z-index: 7; white-space: nowrap;">
+
                                             </div>
                                         </li>
                                         <!-- SLIDE 3 -->
                                         <li data-index="rs-3" data-transition="slidingoverlayhorizontal"
                                             data-slotamount="default" data-easein="default" data-easeout="default"
-                                            data-masterspeed="default" data-thumb="images/bg/kigali.jpg"
+                                            data-masterspeed="default" data-thumb="images/bg/rwanda.jpg"
                                             data-rotate="0" data-fstransition="fade" data-fsmasterspeed="1500"
                                             data-fsslotamount="7" data-saveperformance="off"
                                             data-title="Slide Three">
                                             <!-- MAIN IMAGE -->
-                                            <img src="images/bg/kigali.jpg" alt=""
+                                            <img src="images/bg/rwanda.jpg" alt=""
                                                 data-bgposition="center 20%" data-bgfit="cover"
                                                 data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg"
                                                 data-no-retina>
@@ -376,7 +367,7 @@
                                                 data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
                                                 data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000"
                                                 data-splitin="none" data-splitout="none" data-responsive_offset="on"
-                                                style="z-index: 7; white-space: nowrap;">Join Today for Start
+                                                style="z-index: 7; white-space: nowrap;">
                                             </div>
                                             <!-- LAYER NR. 2 -->
                                             <div class="tp-caption tp-resizeme text-white text-uppercase font-montserrat rs-parallaxlevel-0"
@@ -395,7 +386,7 @@
                                                 data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000"
                                                 data-splitin="none" data-splitout="none" data-responsive_offset="on"
                                                 style="z-index: 6; min-width: 600px; max-width: 600px; white-space: normal;">
-                                                Help Poor People
+
                                             </div>
                                             <!-- LAYER NR. 3 -->
                                             <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0"
@@ -413,9 +404,8 @@
                                                 data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
                                                 data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000"
                                                 data-splitin="none" data-splitout="none" data-responsive_offset="on"
-                                                style="z-index: 7; white-space: nowrap;">We provides always our best
-                                                services for our students and always<br> try to achieve making a bright
-                                                successful future.
+                                                style="z-index: 7; white-space: nowrap;">
+
                                             </div>
                                             <!-- LAYER NR. 4 -->
                                             <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0"
@@ -433,11 +423,7 @@
                                                 data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
                                                 data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000"
                                                 data-splitin="none" data-splitout="none" data-responsive_offset="on"
-                                                style="z-index: 7; white-space: nowrap;"><a href="#"
-                                                    class="btn btn-dark btn-circled btn-theme-colored1 btn-xl mr-10 pr-30 pl-30">Start
-                                                    Now</a> <a href="#"
-                                                    class="btn btn-light btn-border btn-circled btn-xl pr-30 pl-30">Donate
-                                                    Now</a>
+                                                style="z-index: 7; white-space: nowrap;">
                                             </div>
                                         </li>
                                     </ul>
@@ -656,8 +642,8 @@
                                                                     </div>
                                                                 </div>
                                                                 <div class="details">
-                                                                    <h4 class="title"><a href="#">The Mobility
-                                                                            Matters</a>
+                                                                    <h4 class="title">The Mobility
+                                                                        Matters
                                                                     </h4>
                                                                     <div class="paragraph mb-15">
                                                                         Our primary focus is on the acquisition of
@@ -681,8 +667,8 @@
                                                                     </div>
                                                                 </div>
                                                                 <div class="details">
-                                                                    <h4 class="title"><a href="#">Social
-                                                                            Inclusion</a>
+                                                                    <h4 class="title">Social
+                                                                        Inclusion
                                                                     </h4>
                                                                     <div class="paragraph mb-15">
                                                                         Introducing day programs to encourage and enable
@@ -706,8 +692,8 @@
                                                                     </div>
                                                                 </div>
                                                                 <div class="details">
-                                                                    <h4 class="title"><a href="#">Donation
-                                                                        </a>
+                                                                    <h4 class="title">Donation
+
                                                                     </h4>
                                                                     <div class="paragraph mb-15">
                                                                         Collection of in cash or in kind donation for
@@ -732,9 +718,9 @@
                                                                     </div>
                                                                 </div>
                                                                 <div class="details">
-                                                                    <h4 class="title"><a href="#">Encouraging
-                                                                            Sel-reliance
-                                                                        </a>
+                                                                    <h4 class="title">Encouraging
+                                                                        Sel-reliance
+
                                                                     </h4>
                                                                     <div class="paragraph mb-15">
                                                                         Assisting and encouraging persons with
