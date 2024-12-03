@@ -932,8 +932,7 @@
                     <div class="col-md-7">
                         <h3 class="line-bottom mt-sm-30 mt-0 mb-30">Interested in discussing?</h3>
                         <!-- Contact Form -->
-                        <form id="contact_form" name="contact_form" class="" action="includes/sendmail.php"
-                            method="post">
+                        <form id="contact_form" name="contact_form" class="" action="#" method="post">
                             <div class="row">
                                 <div class="col-sm-6">
                                     <div class="form-group">

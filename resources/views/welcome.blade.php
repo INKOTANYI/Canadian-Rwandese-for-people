@@ -1361,7 +1361,7 @@
                         <p class="lead">Canadian Rwandese Foundation for People with Disability Inc.</p>
 
                         <!-- Contact Form -->
-                        <form id="contact_form" name="contact_form" class="" action="includes/sendmail.php"
+                        <form id="contact_form" name="contact_form" class="" action="#"
                             method="post">
                             <div class="row">
                                 <div class="col-sm-6">
