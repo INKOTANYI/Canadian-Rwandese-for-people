@@ -59,7 +59,7 @@
     <script src="assets/dist/js/revolution-slider/js/jquery.themepunch.tools.min.js"></script>
     <script src="assets/dist/js/revolution-slider/js/jquery.themepunch.revolution.min.js"></script>
 
-    
+
 </head>
 
 <body class="tm-enable-navbar-scrolltofixed tm-enable-navbar-always-visible-on-scroll">
