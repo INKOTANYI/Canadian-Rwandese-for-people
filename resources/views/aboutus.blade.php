@@ -618,9 +618,9 @@
                                 </div>
                             </div>
                         </div>
+
                         <div class="row">
                             <div class="col-lg-6 mb-md-30">
-
                                 <p class="wpb_wrapper">Canadian Rwandese Foundation of People with Disabilities in
                                     Alberta (CRFPD) is a non-profit organization founded in 2017 and incorporated in the
                                     Government of Alberta, Canada. It is in partnership with Rwanda-Canada Hope for
@@ -655,9 +655,39 @@
                                     providing all possible assistance to meet their special needs, but they questioned
                                     and challenged the existing means and capacity of how that care was provided in
                                     their countries.</p>
+                                <br>
+                            </div>
 
+                        </div>
 
+                        <div class="row">
+                            <div class="col-lg-6 mb-md-30">
 
+                                <p class="wpb_wrapper">Not only did they believe that things should be different, they
+                                    believed that things could be different with increased means and capacity acquired
+                                    in all possible ways. And so, with Canadian Government, Rwandan Government and all
+                                    well-wishers, they totally believe and willing to make them different.
+
+                                    There are many disabled people in Rwanda and elsewhere who were born disabled or
+                                    lost part of their libs and sensory organs (legs, arms, back, eyes, hearing, etc)
+                                    and can’t afford easily the artificial ones. The aim of CRFPD is to support the
+                                    individuals with special needs by all possible means in order to facilitate their
+                                    inclusion in the society they belong.</p>
+                                <br>
+
+                            </div>
+                            <div class="col-lg-6 mb-md-30">
+                                <p class="wpb_wrapper">In short term, we shall start by delivering to them the
+                                    medically tested artificial limbs, clutches, wheel chairs, walkers, walking sticks,
+                                    hearing aids, special transportation means, etc acquired from the well-wishers and
+                                    donors. In the medium and long term, CRFPD will introduce some schools or training
+                                    facilities, group homes for persons with special need, care and social inclusion.
+                                    This assistance by CRFPD to individuals with special needs in Rwanda and elsewhere
+                                    is for the purpose of giving equal opportunity to these individuals, not to become
+                                    equal, but to become different – to realize whatever unique potential of body, mind
+                                    and spirit they possessed.
+
+                                </p>
 
                             </div>
 
