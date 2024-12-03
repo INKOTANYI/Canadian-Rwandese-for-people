@@ -1520,7 +1520,7 @@
                                                     <div class="isotope-item-inner tm-gallery">
                                                         <div class="tm-gallery-inner">
                                                             <div class="thumb ">
-                                                                <a href="#"><img src="images/clients/item4.jpg"
+                                                                <a href="#"><img src="images/clients/item4.jpeg"
                                                                         alt=""></a>
                                                             </div>
                                                             <div class="tm-gallery-content-wrapper">
@@ -1530,10 +1530,10 @@
                                                                             <div
                                                                                 class="styled-icons icon-dark icon-circled icon-theme-colored1">
                                                                                 <a class="lightgallery-trigger styled-icons-item"
-                                                                                    data-exthumbimage="images/clients/item4.jpg"
-                                                                                    data-src="images/clients/item4.jpg"
-                                                                                    title="Project Title Here"
-                                                                                    href="images/clients/item4.jpg"><i
+                                                                                    data-exthumbimage="images/clients/item4.jpeg"
+                                                                                    data-src="images/clients/item4.jpeg"
+                                                                                    title="Canadian Rwandese Foundation of People with Disability."
+                                                                                    href="images/clients/item4.jpeg"><i
                                                                                         class="fa fa-plus"></i></a> <a
                                                                                     class="styled-icons-item"
                                                                                     title="Project Title Here"
@@ -1542,9 +1542,10 @@
                                                                             </div>
                                                                         </div>
                                                                         <div class="title-holder">
-                                                                            <h5 class="title"><a
-                                                                                    href="#">Project
-                                                                                    Title Here</a></h5>
+                                                                            <h9 class="title">
+                                                                                Support CRFPD
+                                                                                Assist us to built our Vision
+                                                                            </h9>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -1559,7 +1560,7 @@
                                                     <div class="isotope-item-inner tm-gallery">
                                                         <div class="tm-gallery-inner">
                                                             <div class="thumb ">
-                                                                <a href="#"><img src="images/gallery/1.jpg"
+                                                                <a href="#"><img src="images/clients/item5.jpg"
                                                                         alt=""></a>
                                                             </div>
                                                             <div class="tm-gallery-content-wrapper">
@@ -1569,21 +1570,22 @@
                                                                             <div
                                                                                 class="styled-icons icon-dark icon-circled icon-theme-colored1">
                                                                                 <a class="lightgallery-trigger styled-icons-item"
-                                                                                    data-exthumbimage="images/gallery/1.jpg"
-                                                                                    data-src="images/gallery/1.jpg"
+                                                                                    data-exthumbimage="images/clients/item5.jpg"
+                                                                                    data-src="images/clients/item5.jpg"
                                                                                     title="Project Title Here"
-                                                                                    href="images/gallery/1.jpg"><i
+                                                                                    href="images/clients/item5.jpg"><i
                                                                                         class="fa fa-plus"></i></a> <a
                                                                                     class="styled-icons-item"
-                                                                                    title="Project Title Here"
+                                                                                    title="Canadian Rwandese Foundation of People with Disability."
                                                                                     href="#"><i
                                                                                         class="fa fa-link"></i></a>
                                                                             </div>
                                                                         </div>
                                                                         <div class="title-holder">
-                                                                            <h5 class="title"><a
-                                                                                    href="#">Project
-                                                                                    Title Here</a></h5>
+                                                                            <h9 class="title">
+                                                                                Mr Cyrilo
+                                                                                CRFPD at work
+                                                                            </h9>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -1598,7 +1600,7 @@
                                                     <div class="isotope-item-inner tm-gallery">
                                                         <div class="tm-gallery-inner">
                                                             <div class="thumb ">
-                                                                <a href="#"><img src="images/gallery/2.jpg"
+                                                                <a href="#"><img src="images/clients/item6.jpg"
                                                                         alt=""></a>
                                                             </div>
                                                             <div class="tm-gallery-content-wrapper">
@@ -1608,10 +1610,10 @@
                                                                             <div
                                                                                 class="styled-icons icon-dark icon-circled icon-theme-colored1">
                                                                                 <a class="lightgallery-trigger styled-icons-item"
-                                                                                    data-exthumbimage="'images/clients/rwandamobility.jpg' alt='image'"
-                                                                                    data-src="'images/clients/rwandamobility.jpg' alt='image'"
+                                                                                    data-exthumbimage="'images/clients/item6.jpg' alt='image'"
+                                                                                    data-src="'images/clients/item6.jpg' alt='image'"
                                                                                     title="Project Title Here"
-                                                                                    href="images/gallery/1.jpg"><i
+                                                                                    href="images/clients/item6.jpg"><i
                                                                                         class="fa fa-plus"></i></a> <a
                                                                                     class="styled-icons-item"
                                                                                     title="Project Title Here"
@@ -1620,9 +1622,9 @@
                                                                             </div>
                                                                         </div>
                                                                         <div class="title-holder">
-                                                                            <h5 class="title"><a
-                                                                                    href="#">Project
-                                                                                    Title Here</a></h5>
+                                                                            <h9 class="title">
+                                                                                We are located in city of Edmonton
+                                                                            </h9>
                                                                         </div>
                                                                     </div>
                                                                 </div>
