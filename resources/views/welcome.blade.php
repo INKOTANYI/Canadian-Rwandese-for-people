@@ -134,7 +134,7 @@
 
                                                     </li>
 
-                                                    <li><a href="{{ route('galery') }}">Login</a></li>
+                                                    {{-- <li><a href="{{ route('galery') }}">Login</a></li> --}}
                                                 </ul>
                                             </nav>
                                         </div>
