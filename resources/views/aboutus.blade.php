@@ -59,6 +59,19 @@
     <script src="assets/dist/js/revolution-slider/js/jquery.themepunch.tools.min.js"></script>
     <script src="assets/dist/js/revolution-slider/js/jquery.themepunch.revolution.min.js"></script>
 
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/jquery.fancybox.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/owl.carousel.css">
+    <link rel="stylesheet" href="css/slit-slider.css">
+    <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/superslides.css">
+    <link rel="stylesheet" href="css/lightview.css">
+    <script src="js/modernizr-2.6.2.min.js"></script>
+
+
 </head>
 
 <body class="tm-enable-navbar-scrolltofixed tm-enable-navbar-always-visible-on-scroll">
@@ -94,8 +107,8 @@
                                             <a class="menuzord-brand site-brand" href="index-mp-layout1.html">
                                                 <img class="logo-default logo-1x" src="images/rwandamobility.jpg"
                                                     alt="Logo">
-                                                <img class="logo-default logo-2x retina" src="images/rwandamobility.jpg"
-                                                    alt="Logo">
+                                                <img class="logo-default logo-2x retina"
+                                                    src="images/rwandamobility.jpg" alt="Logo">
                                             </a>
                                         </div>
                                         <div class="col-sm-auto ml-auto pr-0 align-self-center">
@@ -108,7 +121,7 @@
 
                                                     <li><a href="#Causes">Causes</a>
                                                     </li>
-                                                    <li><a href="#contact">Contact-Us</a>
+                                                    <li><a href="#ContactUs">Contact-Us</a>
                                                     </li>
 
                                                     <li><a href="#Parteners">Parteners</a>
@@ -584,8 +597,9 @@
                                             Vision
                                         </h3>
                                         <div class="content">
-                                            <p>To bring hope to person with Disabiities through their physical,spiritual
-                                                or moral rehabilitation</p>
+                                            <p>Ensure that students with disabilities have equal access to quality
+                                                education. Inclusive classrooms benefit all students
+                                            </p>
                                         </div>
                                     </div>
                                     <div class="clearfix"></div>
@@ -730,46 +744,38 @@
                                                         class="img-fullwidth wp-post-image" alt="" /></a>
                                             </div>
                                             <div class="campaign-content">
-                                                <h4 class="campaign-title"><a href="#">Sponsor
-                                                        a
-                                                        Child</a></h4>
+                                                <h4 class="campaign-title"><a href="#">Inclusive Educations </a>
+                                                </h4>
                                                 <div class="campaign-meta">
                                                 </div>
                                                 <div class="campaign-description">
-                                                    Lorem
-                                                    ipsum
-                                                    dolor sit
-                                                    amet,
-                                                    consect adipisicing elit.
-                                                    Praesent
-                                                    quos
-                                                    sit.Lorem ipsum
-                                                    dolor sit amet, consect
-                                                    adipisicing
-                                                    elit.
-                                                    Praesent quos
-                                                    sit.
+                                                    Ensure that students with disabilities have
+                                                    equal access to quality education. Inclusive
+                                                    classrooms benefit all students by promoting
+                                                    understanding
                                                 </div>
                                                 <div class="tm-sc tm-sc-progress-bar progress-bar-default charitable-progress-bar"
                                                     data-percent="80" data-unit-left="$" data-unit-right=""
                                                     data-bar-height="" data-barcolor="bg-theme-colored1">
-                                                    <div class="progress-holder">
+                                                    {{-- <div class="progress-holder">
                                                         <div class="progress-content">
                                                             <span class="symbol-left">$</span><span
                                                                 class="value">80</span><span
                                                                 class="symbol-right"></span>
                                                         </div>
-                                                    </div>
+                                                    </div> --}}
                                                 </div>
                                                 <div class="campaign-donation-stats">
-                                                    <div class="donation-raised">
-                                                        <span class="progress-title">Raised:</span><span
+                                                    {{-- <div class="donation-raised">
+                                                        <span
+                                                            class="progress-title">Raised:</span><span
                                                             class="amount">&#036;4,000.00</span>
-                                                    </div>
-                                                    <div class="donation-goal">
-                                                        <span class="progress-title">Goal:</span><span
+                                                    </div> --}}
+                                                    {{-- <div class="donation-goal">
+                                                        <span
+                                                            class="progress-title">Goal:</span><span
                                                             class="amount goal-amount">&#036;7,500.00</span>
-                                                    </div>
+                                                    </div> --}}
                                                 </div>
                                                 <div class="campaigns-btn"><a href="#"
                                                         class="btn btn-theme-colored1 btn-xs">View
@@ -791,47 +797,39 @@
                                                         class="img-fullwidth wp-post-image" alt="" /></a>
                                             </div>
                                             <div class="campaign-content">
-                                                <h4 class="campaign-title"><a href="#"> Help
-                                                        Senior
-                                                        Citizens</a></h4>
+                                                <h4 class="campaign-title"><a href="#">
+                                                        Collaboration
+                                                    </a></h4>
                                                 <div class="campaign-meta">
                                                 </div>
                                                 <div class="campaign-description">
-                                                    Lorem
-                                                    ipsum
-                                                    dolor sit
-                                                    amet,
-                                                    consect adipisicing elit.
-                                                    Praesent
-                                                    quos
-                                                    sit.Lorem ipsum
-                                                    dolor sit amet, consect
-                                                    adipisicing
-                                                    elit.
-                                                    Praesent quos
-                                                    sit.
+                                                    Work closely with professionals, families, and
+                                                    caregivers. Understand the existing support
+                                                    systems and goals for each individual
                                                 </div>
                                                 <div class="tm-sc tm-sc-progress-bar progress-bar-default charitable-progress-bar"
                                                     data-percent="70" data-unit-left="$" data-unit-right=""
                                                     data-bar-height="" data-barcolor="bg-theme-colored1">
-                                                    <div class="progress-holder">
+                                                    {{-- <div class="progress-holder">
                                                         <div class="progress-content">
                                                             <span class="symbol-left">$</span><span
                                                                 class="value">70</span><span
                                                                 class="symbol-right"></span>
                                                         </div>
-                                                    </div>
+                                                    </div> --}}
                                                 </div>
-                                                <div class="campaign-donation-stats">
+                                                {{-- <div class="campaign-donation-stats">
                                                     <div class="donation-raised">
-                                                        <span class="progress-title">Raised:</span><span
+                                                        <span
+                                                            class="progress-title">Raised:</span><span
                                                             class="amount">&#036;2,000.00</span>
                                                     </div>
                                                     <div class="donation-goal">
-                                                        <span class="progress-title">Goal:</span><span
+                                                        <span
+                                                            class="progress-title">Goal:</span><span
                                                             class="amount goal-amount">&#036;8,600.00</span>
                                                     </div>
-                                                </div>
+                                                </div> --}}
                                                 <div class="campaigns-btn"><a href="#"
                                                         class="btn btn-theme-colored1 btn-xs">
                                                         View
@@ -854,48 +852,29 @@
                                                         class="img-fullwidth wp-post-image" alt="" /></a>
                                             </div>
                                             <div class="campaign-content">
-                                                <h4 class="campaign-title"> <a href="#">
-                                                        Help
-                                                        rebuild
-                                                        Nepal </a> </h4>
+                                                <h4 class="campaign-title">
+
+                                                    Community Engagement:
+                                                </h4>
                                                 <div class="campaign-meta">
                                                 </div>
                                                 <div class="campaign-description">
-                                                    Lorem
-                                                    ipsum
-                                                    dolor sit
-                                                    amet,
-                                                    consect adipisicing elit.
-                                                    Praesent
-                                                    quos
-                                                    sit.Lorem ipsum
-                                                    dolor sit amet, consect
-                                                    adipisicing
-                                                    elit.
-                                                    Praesent quos
-                                                    sit.
+                                                    Encourage participation in community activities,
+                                                    events, and social gatherings. When individuals
+                                                    with disabilities
                                                 </div>
                                                 <div class="tm-sc tm-sc-progress-bar progress-bar-default charitable-progress-bar"
                                                     data-percent="90" data-unit-left="$" data-unit-right=""
                                                     data-bar-height="" data-barcolor="bg-theme-colored1">
-                                                    <div class="progress-holder">
+                                                    {{-- <div class="progress-holder">
                                                         <div class="progress-content">
                                                             <span class="symbol-left">$</span><span
                                                                 class="value">90</span><span
                                                                 class="symbol-right"></span>
                                                         </div>
-                                                    </div>
+                                                    </div> --}}
                                                 </div>
-                                                <div class="campaign-donation-stats">
-                                                    <div class="donation-raised">
-                                                        <span class="progress-title">Raised:</span>
-                                                        <span class="amount">&#036;5,000.00</span>
-                                                    </div>
-                                                    <div class="donation-goal">
-                                                        <span class="progress-title">Goal:</span>
-                                                        <span class="amount goal-amount">&#036;5,600.00</span>
-                                                    </div>
-                                                </div>
+
                                                 <div class="campaigns-btn"> <a href="#"
                                                         class="btn btn-theme-colored1 btn-xs">
                                                         View
@@ -918,142 +897,165 @@
 
     </section>
 
-    <div class="section-title text-center mb-40">
+    <div class="section-title text-center mb-40" id="Parteners">
+        <div class="row justify-content-md-center">
+            <div class="col-md-6">
+                <h2 class="title text-uppercase mt-0"><span class="">
+                    </span><span class="text-theme-colored1"> Our
+                        Parteners</span></h2>
+                <p>This is an Rwandan based organisation that is working in helping people with Disabilities
+                    locally.We sensitize and train
+                    vulnerable youth and adolescents included those disabled to acquire the culture of loving to
+                    work, study vocational skills and create jobs, good governance, fighting ignorance.
 
-        <section id="contact">
-            <div class="container pb-sm-10">
-                <div class="row">
-                    <div class="col-md-5">
-                        <iframe
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d303585.20772158616!2d-113.77291377210706!3d53.526353091853565!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x53a0224580deff23%3A0x411fa00c4af6155d!2sEdmonton%2C%20AB%2C%20Canada!5e0!3m2!1sen!2srw!4v1684520009116!5m2!1sen!2srw"
-                            width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy"
-                            referrerpolicy="no-referrer-when-downgrade"></iframe>
-                    </div>
-                    <div class="col-md-7">
-                        <h3 class="line-bottom mt-sm-30 mt-0 mb-30">Interested in discussing?</h3>
-                        <!-- Contact Form -->
-                        <form id="contact_form" name="contact_form" class="" action="#" method="post">
-                            <div class="row">
-                                <div class="col-sm-6">
-                                    <div class="form-group">
-                                        <label>Name <small>*</small></label>
-                                        <input name="form_name" class="form-control" type="text"
-                                            placeholder="Enter Name" required="">
-                                    </div>
-                                </div>
-                                <div class="col-sm-6">
-                                    <div class="form-group">
-                                        <label>Email <small>*</small></label>
-                                        <input name="form_email" class="form-control required email" type="email"
-                                            placeholder="Enter Email">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-sm-6">
-                                    <div class="form-group">
-                                        <label>Subject <small>*</small></label>
-                                        <input name="form_subject" class="form-control required" type="text"
-                                            placeholder="Enter Subject">
-                                    </div>
-                                </div>
-                                <div class="col-sm-6">
-                                    <div class="form-group">
-                                        <label>Phone</label>
-                                        <input name="form_phone" class="form-control" type="text"
-                                            placeholder="Enter Phone">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="form-group">
-                                <label>Message</label>
-                                <textarea name="form_message" class="form-control required" rows="5" placeholder="Enter Message"></textarea>
-                            </div>
-                            <div class="form-group">
-                                <input name="form_botcheck" class="form-control" type="hidden" value="" />
-                                <button type="submit" class="btn btn-dark btn-theme-colored1 btn-flat"
-                                    data-loading-text="Please wait...">Send your message</button>
-                            </div>
-                        </form>
-                        <!-- Contact Form Validation-->
-                        <script>
-                            (function($) {
-                                $("#contact_form").validate({
-                                    submitHandler: function(form) {
-                                        var form_btn = $(form).find('button[type="submit"]');
-                                        var form_result_div = '#form-result';
-                                        $(form_result_div).remove();
-                                        form_btn.before(
-                                            '<div id="form-result" class="alert alert-success" role="alert" style="display: none;"></div>'
-                                        );
-                                        var form_btn_old_msg = form_btn.html();
-                                        form_btn.html(form_btn.prop('disabled', true).data("loading-text"));
-                                        $(form).ajaxSubmit({
-                                            dataType: 'json',
-                                            success: function(data) {
-                                                if (data.status === 'true') {
-                                                    $(form).find('.form-control').val('');
-                                                }
-                                                form_btn.prop('disabled', false).html(form_btn_old_msg);
-                                                $(form_result_div).html(data.message).fadeIn('slow');
-                                                setTimeout(function() {
-                                                    $(form_result_div).fadeOut('slow')
-                                                }, 6000);
-                                            }
-                                        });
-                                    }
-                                });
-                            })(jQuery);
-                        </script>
-
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <div class="section-title text-center mb-40" id="Parteners">
-            <div class="row justify-content-md-center">
-                <div class="col-md-6">
-                    <h2 class="title text-uppercase mt-0"><span class="">Our</span> <span
-                            class="text-theme-colored1">Parteners</span></h2>
-
-                </div>
+                </p>
             </div>
         </div>
-
-        <section data-tm-bg-color="#f2f3f5">
-            <div class="container pt-40 pb-40">
-                <div class="section-content">
-                    <div class="row">
-                        <div class="col-sm-12">
-                            <div
-                                class="tm-sc tm-sc-clients tm-sc-clients-carousel owl-dots-light-skin  clients-animation-grayscale">
-                                <div class="owl-carousel owl-theme tm-owl-carousel-5col" data-autoplay="true"
-                                    data-loop="true" data-duration="6000" data-margin="30">
-                                    <!-- the loop -->
-                                    <div class="item">
-                                        <a target="_blank" href="#">
-                                            <img src='images/clients/rwandamobility.jpg' alt='image' /></a>
-                                    </div>
-
-
-                                    <div class="item">
-                                        <a target="_blank" href="#">
-                                            <img src='images/clients/rwandamobility.jpg' alt='image' /></a>
-                                    </div>
-                                    <div class="item">
-                                        <a target="_blank" href="#">
-                                            <img src='images/clients/rwandamobility.jpg' alt='image' />
-                                        </a>
-                                    </div>
+    </div>
+    <section data-tm-bg-color="#f2f3f5">
+        <div class="container pt-40 pb-40">
+            <div class="section-content">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div
+                            class="tm-sc tm-sc-clients tm-sc-clients-carousel owl-dots-light-skin  clients-animation-grayscale">
+                            <div class="owl-carousel owl-theme tm-owl-carousel-5col" data-autoplay="true"
+                                data-loop="true" data-duration="6000" data-margin="30">
+                                <!-- the loop -->
+                                <div class="item">
+                                    <a target="_blank" href="#">
+                                        <img src='images/clients/rwandamobility.jpg' alt='image' /></a>
+                                </div>
+                                <div class="item">
+                                    <a target="_blank" href="#">
+                                        <img src='images/clients/rwandamobility.jpg' alt='image' /></a>
+                                </div>
+                                <div class="item">
+                                    <a target="_blank" href="#">
+                                        <img src='images/clients/rwandamobility.jpg' alt='image' />
+                                    </a>
+                                </div>
+                                <div class="item">
+                                    <a target="_blank" href="#">
+                                        <img src='images/clients/rwandamobility.jpg' alt='image' /></a>
+                                </div>
+                                <div class="item">
+                                    <a target="_blank" href="#">
+                                        <img src='images/clients/rwandamobility.jpg' alt='image' />
+                                    </a>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </section>
-    </div>
+        </div>
+    </section>
+    <section id="ContactUs">
+
+        <div class="container pb-sm-10">
+            <div class="sec-title text-center wow animated fadeInDown">
+                <h2>Contact Us</h2>
+                <p>You can reach us </p>
+            </div>
+            <div class="row">
+                <div class="col-md-5">
+                    <iframe
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d303585.20772158616!2d-113.77291377210706!3d53.526353091853565!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x53a0224580deff23%3A0x411fa00c4af6155d!2sEdmonton%2C%20AB%2C%20Canada!5e0!3m2!1sen!2srw!4v1684520009116!5m2!1sen!2srw"
+                        width="600" height="650" allowfullscreen></iframe>
+                </div>
+                <div class="col-md-7">
+                    <address class="contact-details">
+                        <p><i class="fa fa-pencil"></i>Canadian Rwandese Foundation for People with Disability
+                            Inc.<span>119 - 5510 Schonsee Drive NW Edmonton AB, Canada T5Z 0N9</span>
+                            <span>Alberta,
+                                Edmonton </span><span>Canada</span>
+                        </p><br>
+                        <p><i class="fa fa-phone"></i>Phone: +1(780) 999-4052 <b>OR</b></p>
+                        <p><i class="fa fa-phone"></i>Phone: +(250) 788611859 </p>
+                        <p><i class="fa fa-envelope"></i>crfdisability@gmail.com</p>
+                    </address>
+
+                    <!-- Contact Form -->
+                    <form id="contact_form" name="contact_form" class="" action="#" method="post">
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <div class="form-group">
+                                    <label>Name <small>*</small></label>
+                                    <input name="form_name" class="form-control" type="text"
+                                        placeholder="Enter Name" required="">
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="form-group">
+                                    <label>Email <small>*</small></label>
+                                    <input name="form_email" class="form-control required email" type="email"
+                                        placeholder="Enter Email">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <div class="form-group">
+                                    <label>Subject <small>*</small></label>
+                                    <input name="form_subject" class="form-control required" type="text"
+                                        placeholder="Enter Subject">
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="form-group">
+                                    <label>Phone</label>
+                                    <input name="form_phone" class="form-control" type="text"
+                                        placeholder="Enter Phone">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label>Message</label>
+                            <textarea name="form_message" class="form-control required" rows="5" placeholder="Enter Message"></textarea>
+                        </div>
+                        <div class="form-group">
+                            <input name="form_botcheck" class="form-control" type="hidden" value="" />
+                            <button type="submit" class="btn btn-dark btn-theme-colored1 btn-flat"
+                                data-loading-text="Please wait...">Send your message</button>
+                        </div>
+                    </form>
+                    <!-- Contact Form Validation-->
+                    <script>
+                        (function($) {
+                            $("#contact_form").validate({
+                                submitHandler: function(form) {
+                                    var form_btn = $(form).find('button[type="submit"]');
+                                    var form_result_div = '#form-result';
+                                    $(form_result_div).remove();
+                                    form_btn.before(
+                                        '<div id="form-result" class="alert alert-success" role="alert" style="display: none;"></div>'
+                                    );
+                                    var form_btn_old_msg = form_btn.html();
+                                    form_btn.html(form_btn.prop('disabled', true).data("loading-text"));
+                                    $(form).ajaxSubmit({
+                                        dataType: 'json',
+                                        success: function(data) {
+                                            if (data.status === 'true') {
+                                                $(form).find('.form-control').val('');
+                                            }
+                                            form_btn.prop('disabled', false).html(form_btn_old_msg);
+                                            $(form_result_div).html(data.message).fadeIn('slow');
+                                            setTimeout(function() {
+                                                $(form_result_div).fadeOut('slow')
+                                            }, 6000);
+                                        }
+                                    });
+                                }
+                            });
+                        })(jQuery);
+                    </script>
+
+                </div>
+            </div>
+        </div>
+    </section>
+
     <!-- end main-content -->
 
     <!-- Footer -->
@@ -1066,26 +1068,17 @@
                             <div
                                 class="tm-widget tm-widget-contact-info contact-info contact-info-style1  contact-icon-theme-colored1">
                                 <div class="thumb">
-                                    <img alt="Logo" src="images/logo-wide-white.png">
+                                    <img alt="Logo" src="images/rwandamobility.jpg">
                                 </div>
-                                <div class="description">(CRFPD) is a non-profit organization founded in 2017 and
-                                    incorporated in the Government of Alberta, Canada..</div>
+                                <div class="description">(CRFPD) is a non-profit
+                                    organization founded in 2017 and
+                                    incorporated in the Government of Alberta, Canada.</div>
+                                <ul>
+
+                                </ul>
                             </div>
                         </div>
-                        <div class=" split-nav-menu clearfix widget widget-social-list-custom clearfix">
-                            <h4 class="widget-title ">Follow us on Social Media</h4>
-                            <ul
-                                class="tm-widget tm-widget-social-list tm-widget-social-list-custom styled-icons  icon-dark  icon-rounded icon-theme-colored1 ">
-                                <li><a class="social-link" href="#"><i class="fa fa-facebook"></i></a>
-                                </li>
-                                <li><a class="social-link" href="#"><i class="fa fa-twitter"></i></a>
-                                </li>
-                                <li><a class="social-link" href="#"><i class="fa fa-youtube"></i></a>
-                                </li>
-                                <li><a class="social-link" href="#"><i class="fa fa-instagram"></i></a>
-                                </li>
-                            </ul>
-                        </div>
+
                     </div>
                     <div class="col-sm-6 col-md-6 col-lg-3">
                         <div class="widget widget_nav_menu">
@@ -1094,23 +1087,21 @@
                                 <ul class="menu">
                                     <li id="menu-item-16307"
                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16307">
-                                        <a href="{{ route('contact-us') }}">About Us</a>
-                                    </li>
-                                    <li id="menu-item-16308"
-                                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16308">
-                                        <a href="#">Causes</a>
+                                        <a href="{{ route('about-us') }}">About Us</a>
                                     </li>
                                     <li id="menu-item-16309"
                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16309">
-                                        <a href="#">Galery</a>
+                                        <a href="#Causes">Causes</a>
                                     </li>
                                     <li id="menu-item-16310"
                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16310">
-                                        <a href="#">Donate</a>
+                                        <a href="#Galery">Galery</a>
                                     </li>
+
+
                                     <li id="menu-item-16311"
                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16311">
-                                        <a href="{{ route('galery') }}">Contact Us</a>
+                                        <a href="#ContactUs">Contact Us</a>
                                     </li>
                                 </ul>
                             </div>
@@ -1118,45 +1109,27 @@
                     </div>
                     <div class="col-sm-6 col-md-6 col-lg-3">
                         <div class=" split-nav-menu clearfix widget widget-blog-list clearfix">
-                            <h4 class="widget-title ">Latest News</h4>
+                            <h4 class="widget-title ">Donation</h4>
                             <div class="tm-widget tm-widget-blog-list ">
                                 <!-- the loop -->
-                                <article class="post media-post clearfix"> <a class="post-thumb" href="#"><img
-                                            width="100" height="70" src="images/blog/3.jpg" class=""
-                                            alt="" /></a>
+                                <article class="post media-post clearfix"> <a class="post-thumb" href="#Causes"><img
+                                            width="100" height="70" src="images/rwandamobility.jpg"
+                                            class="" alt="" /></a>
                                     <div class="post-right">
-                                        <h5 class="post-title"> <a href="#"> Water for poor children </a>
+                                        <h5 class="post-title"> <a href="#Causes"> Inclusive Educations </a>
                                         </h5>
-                                        <span class="post-date">
-                                            <time class="entry-date" datetime="2019-05-15T06:10:26+00:00">April
-                                                15, 2019</time>
-                                        </span>
+
                                     </div>
                                 </article>
-                                <article class="post media-post clearfix"> <a class="post-thumb" href="#"><img
-                                            width="100" height="70" src="images/blog/4.jpg" class=""
-                                            alt="" /></a>
+                                <article class="post media-post clearfix"> <a class="post-thumb" href="#Causes"><img
+                                            width="100" height="70" src="images/rwandamobility.jpg"
+                                            class="" alt="" /></a>
                                     <div class="post-right">
-                                        <h5 class="post-title"> <a href="#"> School For Poor </a> </h5>
-                                        <span class="post-date">
-                                            <time class="entry-date" datetime="2019-07-15T06:10:26+00:00">June
-                                                15, 2019</time>
-                                        </span>
+                                        <h5 class="post-title"> <a href="#Causes"> Collaboration </a> </h5>
+
                                     </div>
                                 </article>
-                                <article class="post media-post clearfix"> <a class="post-thumb" href="#"><img
-                                            width="100" height="70" src="images/blog/5.jpg" class=""
-                                            alt="" /></a>
-                                    <div class="post-right">
-                                        <h5 class="post-title"> <a href="#"> Shelter For Homeless </a>
-                                        </h5>
-                                        <span class="post-date">
-                                            <time class="entry-date" datetime="2019-09-15T06:10:26+00:00">November
-                                                15, 2019</time>
-                                        </span>
-                                    </div>
-                                </article>
-                                <!-- end of the loop -->
+
                             </div>
                         </div>
                     </div>
@@ -1193,11 +1166,9 @@
                                 © 2024 CRFPD. All Rights Reserved.
                             </div>
                         </div>
-
                     </div>
                 </div>
             </div>
-        </div>
         </div>
     </footer>
     <a class="scrollToTop" href="#"><i class="fa fa-angle-up"></i></a>
@@ -1207,6 +1178,18 @@
     <!-- Footer Scripts -->
     <!-- JS | Custom script for all pages -->
     <script src="assets/dist/js/custom.js"></script>
+
+    <script src="js/jquery-1.11.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.singlePageNav.min.js"></script>
+    <script src="js/jquery.fancybox.pack.js"></script>
+    <script src="http://maps.google.com/maps/api/js?sensor=false"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/jquery.easing.min.js"></script>
+    <script src="js/jquery.slitslider.js"></script>
+    <script src="js/jquery.ba-cond.min.js"></script>
+    <script src="js/wow.min.js"></script>
+    <script src="js/main.js"></script>
 
     <!-- SLIDER REVOLUTION 5.0 EXTENSIONS
   (Load Extensions only on Local File Systems !
