@@ -349,17 +349,14 @@
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16307">
                                             <a href="{{ route('about-us') }}">About Us</a>
                                         </li>
-                                        <li id="menu-item-16308"
-                                            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16308">
-                                            <a href="#">Online Video</a>
-                                        </li>
+                                        
                                         <li id="menu-item-16309"
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16309">
-                                            <a href="#">Contact with us</a>
+                                            <a href="#ContactUs">Contact with us</a>
                                         </li>
                                         <li id="menu-item-16310"
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16310">
-                                            <a href="#">News Portal</a>
+                                            <a href="#">Donate</a>
                                         </li>
                                         <li id="menu-item-16311"
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16311">

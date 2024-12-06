@@ -21,6 +21,18 @@
     <link href="images/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114">
     <link href="images/apple-touch-icon-144x144.png" rel="apple-touch-icon" sizes="144x144">
 
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/jquery.fancybox.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/owl.carousel.css">
+    <link rel="stylesheet" href="css/slit-slider.css">
+    <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/superslides.css">
+    <link rel="stylesheet" href="css/lightview.css">
+    <script src="js/modernizr-2.6.2.min.js"></script>
+
     <!-- Stylesheet -->
     <link href="assets/dist/css/bootstrap.min.css" rel="stylesheet" type="text/css">
     <link href="assets/dist/css/animate.min.css" rel="stylesheet" type="text/css">
@@ -95,8 +107,8 @@
                                             <a class="menuzord-brand site-brand" href="index-mp-layout1.html">
                                                 <img class="logo-default logo-1x" src="images/rwandamobility.jpg"
                                                     alt="Logo">
-                                                <img class="logo-default logo-2x retina" src="images/rwandamobility.jpg"
-                                                    alt="Logo">
+                                                <img class="logo-default logo-2x retina"
+                                                    src="images/rwandamobility.jpg" alt="Logo">
                                             </a>
                                         </div>
                                         <div class="col-sm-auto ml-auto pr-0 align-self-center">
@@ -603,8 +615,9 @@
                                             Value
                                         </h3>
                                         <div class="content">
-                                            <p>Leverage agile frameworks to provide a robust synopsis for high level
-                                                overviews. Iterative approaches corporate</p>
+                                            <p>Ensure that students with disabilities have equal access to quality
+                                                education. Inclusive classrooms benefit all students
+                                            </p>
                                         </div>
                                     </div>
                                     <div class="clearfix"></div>
@@ -780,49 +793,39 @@
                                                                 </div>
                                                                 <div class="campaign-content">
                                                                     <h4 class="campaign-title"><a
-                                                                            href="#">Sponsor
-                                                                            a
-                                                                            Child</a></h4>
+                                                                            href="#">Inclusive Educations </a>
+                                                                    </h4>
                                                                     <div class="campaign-meta">
                                                                     </div>
                                                                     <div class="campaign-description">
-                                                                        Lorem
-                                                                        ipsum
-                                                                        dolor sit
-                                                                        amet,
-                                                                        consect adipisicing elit.
-                                                                        Praesent
-                                                                        quos
-                                                                        sit.Lorem ipsum
-                                                                        dolor sit amet, consect
-                                                                        adipisicing
-                                                                        elit.
-                                                                        Praesent quos
-                                                                        sit.
+                                                                        Ensure that students with disabilities have
+                                                                        equal access to quality education. Inclusive
+                                                                        classrooms benefit all students by promoting
+                                                                        understanding
                                                                     </div>
                                                                     <div class="tm-sc tm-sc-progress-bar progress-bar-default charitable-progress-bar"
                                                                         data-percent="80" data-unit-left="$"
                                                                         data-unit-right="" data-bar-height=""
                                                                         data-barcolor="bg-theme-colored1">
-                                                                        <div class="progress-holder">
+                                                                        {{-- <div class="progress-holder">
                                                                             <div class="progress-content">
                                                                                 <span class="symbol-left">$</span><span
                                                                                     class="value">80</span><span
                                                                                     class="symbol-right"></span>
                                                                             </div>
-                                                                        </div>
+                                                                        </div> --}}
                                                                     </div>
                                                                     <div class="campaign-donation-stats">
-                                                                        <div class="donation-raised">
+                                                                        {{-- <div class="donation-raised">
                                                                             <span
                                                                                 class="progress-title">Raised:</span><span
                                                                                 class="amount">&#036;4,000.00</span>
-                                                                        </div>
-                                                                        <div class="donation-goal">
+                                                                        </div> --}}
+                                                                        {{-- <div class="donation-goal">
                                                                             <span
                                                                                 class="progress-title">Goal:</span><span
                                                                                 class="amount goal-amount">&#036;7,500.00</span>
-                                                                        </div>
+                                                                        </div> --}}
                                                                     </div>
                                                                     <div class="campaigns-btn"><a href="#"
                                                                             class="btn btn-theme-colored1 btn-xs">View
@@ -847,39 +850,29 @@
                                                                             alt="" /></a>
                                                                 </div>
                                                                 <div class="campaign-content">
-                                                                    <h4 class="campaign-title"><a href="#"> Help
-                                                                            Senior
-                                                                            Citizens</a></h4>
+                                                                    <h4 class="campaign-title"><a href="#">
+                                                                            Collaboration
+                                                                        </a></h4>
                                                                     <div class="campaign-meta">
                                                                     </div>
                                                                     <div class="campaign-description">
-                                                                        Lorem
-                                                                        ipsum
-                                                                        dolor sit
-                                                                        amet,
-                                                                        consect adipisicing elit.
-                                                                        Praesent
-                                                                        quos
-                                                                        sit.Lorem ipsum
-                                                                        dolor sit amet, consect
-                                                                        adipisicing
-                                                                        elit.
-                                                                        Praesent quos
-                                                                        sit.
+                                                                        Work closely with professionals, families, and
+                                                                        caregivers. Understand the existing support
+                                                                        systems and goals for each individual
                                                                     </div>
                                                                     <div class="tm-sc tm-sc-progress-bar progress-bar-default charitable-progress-bar"
                                                                         data-percent="70" data-unit-left="$"
                                                                         data-unit-right="" data-bar-height=""
                                                                         data-barcolor="bg-theme-colored1">
-                                                                        <div class="progress-holder">
+                                                                        {{-- <div class="progress-holder">
                                                                             <div class="progress-content">
                                                                                 <span class="symbol-left">$</span><span
                                                                                     class="value">70</span><span
                                                                                     class="symbol-right"></span>
                                                                             </div>
-                                                                        </div>
+                                                                        </div> --}}
                                                                     </div>
-                                                                    <div class="campaign-donation-stats">
+                                                                    {{-- <div class="campaign-donation-stats">
                                                                         <div class="donation-raised">
                                                                             <span
                                                                                 class="progress-title">Raised:</span><span
@@ -890,7 +883,7 @@
                                                                                 class="progress-title">Goal:</span><span
                                                                                 class="amount goal-amount">&#036;8,600.00</span>
                                                                         </div>
-                                                                    </div>
+                                                                    </div> --}}
                                                                     <div class="campaigns-btn"><a href="#"
                                                                             class="btn btn-theme-colored1 btn-xs">
                                                                             View
@@ -917,50 +910,30 @@
                                                                             alt="" /></a>
                                                                 </div>
                                                                 <div class="campaign-content">
-                                                                    <h4 class="campaign-title"> <a href="#">
-                                                                            Help
-                                                                            rebuild
-                                                                            Nepal </a> </h4>
+                                                                    <h4 class="campaign-title">
+
+                                                                        Community Engagement:
+                                                                    </h4>
                                                                     <div class="campaign-meta">
                                                                     </div>
                                                                     <div class="campaign-description">
-                                                                        Lorem
-                                                                        ipsum
-                                                                        dolor sit
-                                                                        amet,
-                                                                        consect adipisicing elit.
-                                                                        Praesent
-                                                                        quos
-                                                                        sit.Lorem ipsum
-                                                                        dolor sit amet, consect
-                                                                        adipisicing
-                                                                        elit.
-                                                                        Praesent quos
-                                                                        sit.
+                                                                        Encourage participation in community activities,
+                                                                        events, and social gatherings. When individuals
+                                                                        with disabilities
                                                                     </div>
                                                                     <div class="tm-sc tm-sc-progress-bar progress-bar-default charitable-progress-bar"
                                                                         data-percent="90" data-unit-left="$"
                                                                         data-unit-right="" data-bar-height=""
                                                                         data-barcolor="bg-theme-colored1">
-                                                                        <div class="progress-holder">
+                                                                        {{-- <div class="progress-holder">
                                                                             <div class="progress-content">
                                                                                 <span class="symbol-left">$</span><span
                                                                                     class="value">90</span><span
                                                                                     class="symbol-right"></span>
                                                                             </div>
-                                                                        </div>
+                                                                        </div> --}}
                                                                     </div>
-                                                                    <div class="campaign-donation-stats">
-                                                                        <div class="donation-raised">
-                                                                            <span class="progress-title">Raised:</span>
-                                                                            <span class="amount">&#036;5,000.00</span>
-                                                                        </div>
-                                                                        <div class="donation-goal">
-                                                                            <span class="progress-title">Goal:</span>
-                                                                            <span
-                                                                                class="amount goal-amount">&#036;5,600.00</span>
-                                                                        </div>
-                                                                    </div>
+
                                                                     <div class="campaigns-btn"> <a href="#"
                                                                             class="btn btn-theme-colored1 btn-xs">
                                                                             View
@@ -989,7 +962,7 @@
             <div class="main-content">
                 <!-- Section: home -->
                 <section class="page-title divider layer-overlay overlay-dark-8 section-typo-light"
-                    data-tm-bg-img="images/bg/bg11.jpg">
+                    data-tm-bg-img="images/bg/rwanda.jpg">
                     <div class="container pt-90 pb-90">
                         <!-- Section Content -->
                         <div class="section-content">
@@ -997,16 +970,7 @@
                                 <div class="col-md-12 text-center">
                                     <h2 class="title text-white">Photo Gallery</h2>
                                     <nav role="navigation" class="breadcrumb-trail breadcrumbs">
-                                        <div class="breadcrumbs">
-                                            <span class="trail-item trail-begin">
-                                                <a href="#"><span>Home</span></a>
-                                            </span>
-                                            <span><i class="fa fa-angle-right"></i></span>
-                                            <span class="trail-item"><a href="#"><span>Pages</span></a></span>
-                                            <span><i class="fa fa-angle-right"></i></span>
-                                            <span itemscope itemtype="http://schema.org/ListItem"
-                                                class="trail-item trail-end active"><span>About</span></span>
-                                        </div>
+
                                     </nav>
                                 </div>
                             </div>
@@ -1346,10 +1310,16 @@
                 </div>
             </section>
         </div>
-        <!-- end main-content -->
+
+
 
         <section id="ContactUs">
+
             <div class="container pb-sm-10">
+                <div class="sec-title text-center wow animated fadeInDown">
+                    <h2>Contact Us</h2>
+                    <p>You can reach us </p>
+                </div>
                 <div class="row">
                     <div class="col-md-5">
                         <iframe
@@ -1357,12 +1327,19 @@
                             width="600" height="650" allowfullscreen></iframe>
                     </div>
                     <div class="col-md-7">
-                        <h3 class="line-bottom mt-sm-30 mt-0 mb-30">Interested in discussing?</h3>
-                        <p class="lead">Canadian Rwandese Foundation for People with Disability Inc.</p>
+                        <address class="contact-details">
+                            <p><i class="fa fa-pencil"></i>Canadian Rwandese Foundation for People with Disability
+                                Inc.<span>119 - 5510 Schonsee Drive NW Edmonton AB, Canada T5Z 0N9</span>
+                                <span>Alberta,
+                                    Edmonton </span><span>Canada</span>
+                            </p><br>
+                            <p><i class="fa fa-phone"></i>Phone: +1(780) 999-4052 <b>OR</b></p>
+                            <p><i class="fa fa-phone"></i>Phone: +(250) 788611859 </p>
+                            <p><i class="fa fa-envelope"></i>crfdisability@gmail.com</p>
+                        </address>
 
                         <!-- Contact Form -->
-                        <form id="contact_form" name="contact_form" class="" action="#"
-                            method="post">
+                        <form id="contact_form" name="contact_form" class="" action="#" method="post">
                             <div class="row">
                                 <div class="col-sm-6">
                                     <div class="form-group">
@@ -1462,20 +1439,7 @@
                                     </ul>
                                 </div>
                             </div>
-                            <div class=" split-nav-menu clearfix widget widget-social-list-custom clearfix">
-                                <h4 class="widget-title ">Follow us on Social Media</h4>
-                                <ul
-                                    class="tm-widget tm-widget-social-list tm-widget-social-list-custom styled-icons  icon-dark  icon-rounded icon-theme-colored1 ">
-                                    <li><a class="social-link" href="#"><i class="fa fa-facebook"></i></a>
-                                    </li>
-                                    <li><a class="social-link" href="#"><i class="fa fa-twitter"></i></a>
-                                    </li>
-                                    <li><a class="social-link" href="#"><i class="fa fa-youtube"></i></a>
-                                    </li>
-                                    <li><a class="social-link" href="#"><i class="fa fa-instagram"></i></a>
-                                    </li>
-                                </ul>
-                            </div>
+
                         </div>
                         <div class="col-sm-6 col-md-6 col-lg-3">
                             <div class="widget widget_nav_menu">
@@ -1488,20 +1452,17 @@
                                         </li>
                                         <li id="menu-item-16309"
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16309">
-                                            <a href="{{ route('causes') }}">Causes</a>
+                                            <a href="#Causes">Causes</a>
                                         </li>
                                         <li id="menu-item-16310"
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16310">
-                                            <a href="{{ route('galery') }}">Galery</a>
+                                            <a href="#Galery">Galery</a>
                                         </li>
-                                        <li id="menu-item-16310"
-                                            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16310">
-                                            <a href="{{ route('galery') }}">Donate</a>
-                                        </li>
+
 
                                         <li id="menu-item-16311"
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16311">
-                                            <a href="{{ route('contact-us') }}">Contact Us</a>
+                                            <a href="#ContactUs">Contact Us</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -1509,46 +1470,27 @@
                         </div>
                         <div class="col-sm-6 col-md-6 col-lg-3">
                             <div class=" split-nav-menu clearfix widget widget-blog-list clearfix">
-                                <h4 class="widget-title ">Latest News</h4>
+                                <h4 class="widget-title ">Donation</h4>
                                 <div class="tm-widget tm-widget-blog-list ">
                                     <!-- the loop -->
                                     <article class="post media-post clearfix"> <a class="post-thumb"
-                                            href="#"><img width="100" height="70"
-                                                src="images/blog/3.jpg" class="" alt="" /></a>
+                                            href="#Causes"><img width="100" height="70"
+                                                src="images/rwandamobility.jpg" class="" alt="" /></a>
                                         <div class="post-right">
-                                            <h5 class="post-title"> <a href="#"> Water for poor children </a>
+                                            <h5 class="post-title"> <a href="#Causes"> Inclusive Educations </a>
                                             </h5>
-                                            <span class="post-date">
-                                                <time class="entry-date" datetime="2019-05-15T06:10:26+00:00">April
-                                                    15, 2019</time>
-                                            </span>
+
                                         </div>
                                     </article>
                                     <article class="post media-post clearfix"> <a class="post-thumb"
-                                            href="#"><img width="100" height="70"
-                                                src="images/blog/4.jpg" class="" alt="" /></a>
+                                            href="#Causes"><img width="100" height="70"
+                                                src="images/rwandamobility.jpg" class="" alt="" /></a>
                                         <div class="post-right">
-                                            <h5 class="post-title"> <a href="#"> School For Poor </a> </h5>
-                                            <span class="post-date">
-                                                <time class="entry-date" datetime="2019-07-15T06:10:26+00:00">June
-                                                    15, 2019</time>
-                                            </span>
+                                            <h5 class="post-title"> <a href="#Causes"> Collaboration </a> </h5>
+
                                         </div>
                                     </article>
-                                    <article class="post media-post clearfix"> <a class="post-thumb"
-                                            href="#"><img width="100" height="70"
-                                                src="images/blog/5.jpg" class="" alt="" /></a>
-                                        <div class="post-right">
-                                            <h5 class="post-title"> <a href="#"> Shelter For Homeless </a>
-                                            </h5>
-                                            <span class="post-date">
-                                                <time class="entry-date"
-                                                    datetime="2019-09-15T06:10:26+00:00">November
-                                                    15, 2019</time>
-                                            </span>
-                                        </div>
-                                    </article>
-                                    <!-- end of the loop -->
+
                                 </div>
                             </div>
                         </div>
@@ -1610,6 +1552,18 @@
     <script src="assets/dist/js/revolution-slider/js/extensions/revolution.extension.parallax.min.js"></script>
     <script src="assets/dist/js/revolution-slider/js/extensions/revolution.extension.slideanims.min.js"></script>
     <script src="assets/dist/js/revolution-slider/js/extensions/revolution.extension.video.min.js"></script>
+
+    <script src="js/jquery-1.11.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.singlePageNav.min.js"></script>
+    <script src="js/jquery.fancybox.pack.js"></script>
+    <script src="http://maps.google.com/maps/api/js?sensor=false"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/jquery.easing.min.js"></script>
+    <script src="js/jquery.slitslider.js"></script>
+    <script src="js/jquery.ba-cond.min.js"></script>
+    <script src="js/wow.min.js"></script>
+    <script src="js/main.js"></script>
 
 </body>
 
