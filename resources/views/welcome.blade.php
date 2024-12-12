@@ -137,6 +137,10 @@
                                                     </li>
 
                                                     <li><a href="#Galery">Galery</a></li>
+
+                                                    <li><a
+                                                            href="https://www.paypal.com/paypalme/CanadianRwandese">Donate</a>
+                                                    </li>
                                                 </ul>
                                             </nav>
                                         </div>
@@ -827,9 +831,11 @@
                                                                                 class="amount goal-amount">&#036;7,500.00</span>
                                                                         </div> --}}
                                                                     </div>
-                                                                    <div class="campaigns-btn"><a href="#"
+                                                                    <div class="campaigns-btn"><a
+                                                                            href="https://www.paypal.com/paypalme/CanadianRwandese"
                                                                             class="btn btn-theme-colored1 btn-xs">View
-                                                                            Details</a><a href="#"
+                                                                            Details</a><a
+                                                                            href="https://www.paypal.com/paypalme/CanadianRwandese"
                                                                             class="btn btn-dark btn-xs">Donate
                                                                             Now</a>
                                                                         <div class="clearfix">
@@ -884,10 +890,12 @@
                                                                                 class="amount goal-amount">&#036;8,600.00</span>
                                                                         </div>
                                                                     </div> --}}
-                                                                    <div class="campaigns-btn"><a href="#"
+                                                                    <div class="campaigns-btn"><a
+                                                                            href="https://www.paypal.com/paypalme/CanadianRwandese"
                                                                             class="btn btn-theme-colored1 btn-xs">
                                                                             View
-                                                                            Details</a><a href="#"
+                                                                            Details</a><a
+                                                                            href="https://www.paypal.com/paypalme/CanadianRwandese"
                                                                             class="btn btn-dark btn-xs">
                                                                             Donate
                                                                             Now</a>
@@ -934,10 +942,12 @@
                                                                         </div> --}}
                                                                     </div>
 
-                                                                    <div class="campaigns-btn"> <a href="#"
+                                                                    <div class="campaigns-btn"> <a
+                                                                            href="https://www.paypal.com/paypalme/CanadianRwandese"
                                                                             class="btn btn-theme-colored1 btn-xs">
                                                                             View
-                                                                            Details</a><a href="#"
+                                                                            Details</a><a
+                                                                            href="https://www.paypal.com/paypalme/CanadianRwandese"
                                                                             class="btn btn-dark btn-xs">
                                                                             Donate
                                                                             Now
@@ -1474,10 +1484,13 @@
                                 <div class="tm-widget tm-widget-blog-list ">
                                     <!-- the loop -->
                                     <article class="post media-post clearfix"> <a class="post-thumb"
-                                            href="#Causes"><img width="100" height="70"
-                                                src="images/rwandamobility.jpg" class="" alt="" /></a>
+                                            href="https://www.paypal.com/paypalme/CanadianRwandese"><img
+                                                width="100" height="70" src="images/rwandamobility.jpg"
+                                                class="" alt="" /></a>
                                         <div class="post-right">
-                                            <h5 class="post-title"> <a href="#Causes"> Inclusive Educations </a>
+                                            <h5 class="post-title"> <a
+                                                    href="https://www.paypal.com/paypalme/CanadianRwandese"> Inclusive
+                                                    Educations </a>
                                             </h5>
 
                                         </div>
@@ -1486,7 +1499,9 @@
                                             href="#Causes"><img width="100" height="70"
                                                 src="images/rwandamobility.jpg" class="" alt="" /></a>
                                         <div class="post-right">
-                                            <h5 class="post-title"> <a href="#Causes"> Collaboration </a> </h5>
+                                            <h5 class="post-title"> <a
+                                                    href="https://www.paypal.com/paypalme/CanadianRwandese">
+                                                    Collaboration </a> </h5>
 
                                         </div>
                                     </article>
