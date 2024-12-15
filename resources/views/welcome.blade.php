@@ -1406,7 +1406,8 @@
                                                     <div class="isotope-item-inner tm-gallery">
                                                         <div class="tm-gallery-inner">
                                                             <div class="thumb ">
-                                                                <a href="#"><img src="images/clients/item4.jpeg"
+                                                                <a href="#"><img
+                                                                        src="images/clients/item4.jpeg"
                                                                         alt=""></a>
                                                             </div>
                                                             <div class="tm-gallery-content-wrapper">
@@ -1446,7 +1447,8 @@
                                                     <div class="isotope-item-inner tm-gallery">
                                                         <div class="tm-gallery-inner">
                                                             <div class="thumb ">
-                                                                <a href="#"><img src="images/clients/item5.jpg"
+                                                                <a href="#"><img
+                                                                        src="images/clients/item5.jpg"
                                                                         alt=""></a>
                                                             </div>
                                                             <div class="tm-gallery-content-wrapper">
@@ -1486,7 +1488,8 @@
                                                     <div class="isotope-item-inner tm-gallery">
                                                         <div class="tm-gallery-inner">
                                                             <div class="thumb ">
-                                                                <a href="#"><img src="images/clients/item6.jpg"
+                                                                <a href="#"><img
+                                                                        src="images/clients/item6.jpg"
                                                                         alt=""></a>
                                                             </div>
                                                             <div class="tm-gallery-content-wrapper">
@@ -1617,7 +1620,8 @@
                         </address>
 
                         <!-- Contact Form -->
-                        <form id="contact_form" name="contact_form" class="" action="#" method="post">
+                        <form id="contact_form" name="contact_form" class="" action="#"
+                            method="post">
                             <div class="row">
                                 <div class="col-sm-6">
                                     <div class="form-group">
@@ -1629,8 +1633,8 @@
                                 <div class="col-sm-6">
                                     <div class="form-group">
                                         <label>Email <small>*</small></label>
-                                        <input name="form_email" class="form-control required email" type="email"
-                                            placeholder="Enter Email">
+                                        <input name="form_email" class="form-control required email"
+                                            type="email" placeholder="Enter Email">
                                     </div>
                                 </div>
                             </div>
@@ -1655,7 +1659,8 @@
                                 <textarea name="form_message" class="form-control required" rows="5" placeholder="Enter Message"></textarea>
                             </div>
                             <div class="form-group">
-                                <input name="form_botcheck" class="form-control" type="hidden" value="" />
+                                <input name="form_botcheck" class="form-control" type="hidden"
+                                    value="" />
                                 <button type="submit" class="btn btn-dark btn-theme-colored1 btn-flat"
                                     data-loading-text="Please wait...">Send your message</button>
                             </div>
@@ -1765,7 +1770,8 @@
                                     </article>
                                     <article class="post media-post clearfix"> <a class="post-thumb"
                                             href="#Causes"><img width="100" height="70"
-                                                src="images/rwandamobility.jpg" class="" alt="" /></a>
+                                                src="images/rwandamobility.jpg" class=""
+                                                alt="" /></a>
                                         <div class="post-right">
                                             <h5 class="post-title"> <a
                                                     href="https://www.paypal.com/paypalme/CanadianRwandese">
