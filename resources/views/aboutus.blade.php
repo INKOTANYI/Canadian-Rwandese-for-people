@@ -777,11 +777,13 @@
                                                             class="amount goal-amount">&#036;7,500.00</span>
                                                     </div> --}}
                                                 </div>
-                                                <div class="campaigns-btn"><a href="#"
-                                                        class="btn btn-theme-colored1 btn-xs">View
-                                                        Details</a><a href="#"
-                                                        class="btn btn-dark btn-xs">Donate
-                                                        Now</a>
+                                                <div class="campaigns-btn"><a
+                                                        href="https://www.paypal.com/paypalme/CanadianRwandese"
+                                                        class="btn btn-theme-colored1 btn-xs">
+                                                        Donate Using Paypal</a><a href="{{ route('checkout') }}"
+                                                        class="btn btn-dark btn-xs">
+                                                        Donate
+                                                        Using Bank</a>
                                                     <div class="clearfix">
                                                     </div>
                                                 </div>
@@ -830,12 +832,13 @@
                                                             class="amount goal-amount">&#036;8,600.00</span>
                                                     </div>
                                                 </div> --}}
-                                                <div class="campaigns-btn"><a href="#"
+                                                <div class="campaigns-btn"><a
+                                                        href="https://www.paypal.com/paypalme/CanadianRwandese"
                                                         class="btn btn-theme-colored1 btn-xs">
-                                                        View
-                                                        Details</a><a href="#" class="btn btn-dark btn-xs">
+                                                        Donate Using Paypal
+                                                    </a><a href="{{ route('checkout') }}" class="btn btn-dark btn-xs">
                                                         Donate
-                                                        Now</a>
+                                                        Using Bank</a>
                                                     <div class="clearfix">
                                                     </div>
                                                 </div>
@@ -875,12 +878,13 @@
                                                     </div> --}}
                                                 </div>
 
-                                                <div class="campaigns-btn"> <a href="#"
+                                                <div class="campaigns-btn"> <a
+                                                        href="https://www.paypal.com/paypalme/CanadianRwandese"
                                                         class="btn btn-theme-colored1 btn-xs">
-                                                        View
-                                                        Details</a><a href="#" class="btn btn-dark btn-xs">
+                                                        Donate Using Paypal
+                                                    </a><a href="{{ route('checkout') }}" class="btn btn-dark btn-xs">
                                                         Donate
-                                                        Now
+                                                        Using Bank
                                                     </a>
                                                     <div class="clearfix">
                                                     </div>
