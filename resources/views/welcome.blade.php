@@ -138,7 +138,7 @@
 
                                                     <li><a href="#Galery">Galery</a></li>
 
-                                                    <li><a href="{{ route('checkout') }}">Donate</a>
+                                                    <li><a href="">Donate</a>
                                                     </li>
                                                 </ul>
                                             </nav>
@@ -939,6 +939,7 @@
 
                                                                 </div>
                                                             </div>
+                                                            ;
                                                         </div>
                                                     </div>
                                                     <div class="isotope-item">
@@ -1102,8 +1103,7 @@
                                                                     <div class="campaigns-btn"><a
                                                                             href="https://www.paypal.com/paypalme/CanadianRwandese"
                                                                             class="btn btn-theme-colored1 btn-xs">
-                                                                            Donate Using Paypal</a><a
-                                                                            href="{{ route('checkout') }}"
+                                                                            Donate Using Paypal</a><a href=""
                                                                             class="btn btn-dark btn-xs">
                                                                             Donate
                                                                             Using Bank</a>
@@ -1163,7 +1163,7 @@
                                                                             href="https://www.paypal.com/paypalme/CanadianRwandese"
                                                                             class="btn btn-theme-colored1 btn-xs">
                                                                             Donate Using Paypal
-                                                                        </a><a href="{{ route('checkout') }}"
+                                                                        </a><a href=""
                                                                             class="btn btn-dark btn-xs">
                                                                             Donate
                                                                             Using Bank</a>
@@ -1214,7 +1214,7 @@
                                                                             href="https://www.paypal.com/paypalme/CanadianRwandese"
                                                                             class="btn btn-theme-colored1 btn-xs">
                                                                             Donate Using Paypal
-                                                                        </a><a href="{{ route('checkout') }}"
+                                                                        </a><a href=""
                                                                             class="btn btn-dark btn-xs">
                                                                             Donate
                                                                             Using Bank
