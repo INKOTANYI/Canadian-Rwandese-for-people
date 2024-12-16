@@ -1099,12 +1099,13 @@
                                                                         </div> --}}
                                                                     </div>
                                                                     <div class="campaigns-btn"><a
+                                                                            href="https://www.paypal.com/paypalme/CanadianRwandese"
+                                                                            class="btn btn-theme-colored1 btn-xs">
+                                                                            Donate Using Paypal</a><a
                                                                             href="{{ route('checkout') }}"
-                                                                            class="btn btn-theme-colored1 btn-xs">View
-                                                                            Details</a><a
-                                                                            href="{{ route('checkout') }}"
-                                                                            class="btn btn-dark btn-xs">Donate
-                                                                            Now</a>
+                                                                            class="btn btn-dark btn-xs">
+                                                                            Donate
+                                                                            Using Bank</a>
                                                                         <div class="clearfix">
                                                                         </div>
                                                                     </div>
