@@ -1103,7 +1103,8 @@
                                                                     <div class="campaigns-btn"><a
                                                                             href="https://www.paypal.com/paypalme/CanadianRwandese"
                                                                             class="btn btn-theme-colored1 btn-xs">
-                                                                            Donate Using Paypal</a><a href=""
+                                                                            Donate Using Paypal</a><a
+                                                                            href="{{ route('checkout') }}"
                                                                             class="btn btn-dark btn-xs">
                                                                             Donate
                                                                             Using Bank</a>
@@ -1163,7 +1164,7 @@
                                                                             href="https://www.paypal.com/paypalme/CanadianRwandese"
                                                                             class="btn btn-theme-colored1 btn-xs">
                                                                             Donate Using Paypal
-                                                                        </a><a href=""
+                                                                        </a><a href="{{ route('checkout') }}"
                                                                             class="btn btn-dark btn-xs">
                                                                             Donate
                                                                             Using Bank</a>
@@ -1214,7 +1215,7 @@
                                                                             href="https://www.paypal.com/paypalme/CanadianRwandese"
                                                                             class="btn btn-theme-colored1 btn-xs">
                                                                             Donate Using Paypal
-                                                                        </a><a href=""
+                                                                        </a><a href="{{ route('checkout') }}"
                                                                             class="btn btn-dark btn-xs">
                                                                             Donate
                                                                             Using Bank
