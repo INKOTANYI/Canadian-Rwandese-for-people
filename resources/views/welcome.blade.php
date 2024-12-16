@@ -181,11 +181,11 @@
                                         <!-- SLIDE 1 -->
                                         <li data-index="rs-1" data-transition="slidingoverlayhorizontal"
                                             data-slotamount="default" data-easein="default" data-easeout="default"
-                                            data-masterspeed="default" data-thumb="images/bg/banner1.jpg"
+                                            data-masterspeed="default" data-thumb="images/bg/rwandahills (3).jpeg"
                                             data-rotate="0" data-fstransition="fade" data-fsmasterspeed="1500"
                                             data-fsslotamount="7" data-saveperformance="off" data-title="Slide One">
                                             <!-- MAIN IMAGE -->
-                                            <img src="images/bg/banner1.jpg" alt=""
+                                            <img src="images/bg/rwandahills (3).jpeg" alt=""
                                                 data-bgposition="center 20%" data-bgfit="cover"
                                                 data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg"
                                                 data-no-retina>
@@ -207,7 +207,8 @@
                                                 data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000"
                                                 data-splitin="none" data-splitout="none" data-responsive_offset="on"
                                                 style="z-index: 6; min-width: 600px; max-width: 600px; white-space: normal;">
-                                                caresolutioncounseling
+                                                Making a Difference to Persons with Disabilities
+
                                             </div>
                                             <!-- LAYER NR. 2 -->
                                             <div class="tp-caption tp-resizeme text-white text-uppercase font-montserrat rs-parallaxlevel-0"
@@ -268,11 +269,11 @@
                                         <!-- SLIDE 2 -->
                                         <li data-index="rs-2" data-transition="slidingoverlayhorizontal"
                                             data-slotamount="default" data-easein="default" data-easeout="default"
-                                            data-masterspeed="default" data-thumb="images/bg/kigali.jpg"
+                                            data-masterspeed="default" data-thumb="images/bg/rwandahills (2).jpeg"
                                             data-rotate="0" data-fstransition="fade" data-fsmasterspeed="1500"
                                             data-fsslotamount="7" data-saveperformance="off" data-title="Slide Two">
                                             <!-- MAIN IMAGE -->
-                                            <img src="images/bg/kigali.jpg" alt=""
+                                            <img src="images/bg/rwandahills (2).jpeg" alt=""
                                                 data-bgposition="center 20%" data-bgfit="cover"
                                                 data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg"
                                                 data-no-retina>
@@ -351,18 +352,18 @@
                                                 data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000"
                                                 data-splitin="none" data-splitout="none" data-responsive_offset="on"
                                                 style="z-index: 6; min-width: 600px; max-width: 600px; white-space: normal;">
-                                                We are commited to support the Disabled ones
+
                                             </div>
                                         </li>
                                         <!-- SLIDE 3 -->
                                         <li data-index="rs-3" data-transition="slidingoverlayhorizontal"
                                             data-slotamount="default" data-easein="default" data-easeout="default"
-                                            data-masterspeed="default" data-thumb="images/bg/rwanda.jpg"
+                                            data-masterspeed="default" data-thumb="images/bg/rwandahills (8).jpeg"
                                             data-rotate="0" data-fstransition="fade" data-fsmasterspeed="1500"
                                             data-fsslotamount="7" data-saveperformance="off"
                                             data-title="Slide Three">
                                             <!-- MAIN IMAGE -->
-                                            <img src="images/bg/rwanda.jpg" alt=""
+                                            <img src="images/bg/rwandahills (8).jpeg" alt=""
                                                 data-bgposition="center 20%" data-bgfit="cover"
                                                 data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg"
                                                 data-no-retina>
@@ -446,11 +447,11 @@
 
                                         <li data-index="rs-1" data-transition="slidingoverlayhorizontal"
                                             data-slotamount="default" data-easein="default" data-easeout="default"
-                                            data-masterspeed="default" data-thumb="images/bg/banner1.jpg"
+                                            data-masterspeed="default" data-thumb="images/bg/rwandahills (9).jpeg"
                                             data-rotate="0" data-fstransition="fade" data-fsmasterspeed="1500"
                                             data-fsslotamount="7" data-saveperformance="off" data-title="Slide One">
                                             <!-- MAIN IMAGE -->
-                                            <img src="images/bg/banner1.jpg" alt=""
+                                            <img src="images/bg/rwandahills (9).jpeg" alt=""
                                                 data-bgposition="center 20%" data-bgfit="cover"
                                                 data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg"
                                                 data-no-retina>
@@ -472,7 +473,7 @@
                                                 data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000"
                                                 data-splitin="none" data-splitout="none" data-responsive_offset="on"
                                                 style="z-index: 6; min-width: 600px; max-width: 600px; white-space: normal;">
-                                                caresolutioncounseling
+
                                             </div>
                                             <!-- LAYER NR. 2 -->
                                             <div class="tp-caption tp-resizeme text-white text-uppercase font-montserrat rs-parallaxlevel-0"
@@ -533,11 +534,11 @@
                                         <!-- SLIDE 2 -->
                                         <li data-index="rs-2" data-transition="slidingoverlayhorizontal"
                                             data-slotamount="default" data-easein="default" data-easeout="default"
-                                            data-masterspeed="default" data-thumb="images/bg/kigali.jpg"
+                                            data-masterspeed="default" data-thumb="images/bg/rwandahills (5).jpeg"
                                             data-rotate="0" data-fstransition="fade" data-fsmasterspeed="1500"
                                             data-fsslotamount="7" data-saveperformance="off" data-title="Slide Two">
                                             <!-- MAIN IMAGE -->
-                                            <img src="images/bg/kigali.jpg" alt=""
+                                            <img src="images/bg/rwandahills (5).jpeg" alt=""
                                                 data-bgposition="center 20%" data-bgfit="cover"
                                                 data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg"
                                                 data-no-retina>
@@ -622,12 +623,12 @@
                                         <!-- SLIDE 3 -->
                                         <li data-index="rs-3" data-transition="slidingoverlayhorizontal"
                                             data-slotamount="default" data-easein="default" data-easeout="default"
-                                            data-masterspeed="default" data-thumb="images/bg/rwanda.jpg"
+                                            data-masterspeed="default" data-thumb="images/bg/rwanda3.jpg"
                                             data-rotate="0" data-fstransition="fade" data-fsmasterspeed="1500"
                                             data-fsslotamount="7" data-saveperformance="off"
                                             data-title="Slide Three">
                                             <!-- MAIN IMAGE -->
-                                            <img src="images/bg/rwanda.jpg" alt=""
+                                            <img src="images/bg/rwanda3.jpg" alt=""
                                                 data-bgposition="center 20%" data-bgfit="cover"
                                                 data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg"
                                                 data-no-retina>
