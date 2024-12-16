@@ -1116,11 +1116,11 @@
                             <h4 class="widget-title ">Donation</h4>
                             <div class="tm-widget tm-widget-blog-list ">
                                 <!-- the loop -->
-                                <article class="post media-post clearfix"> <a class="post-thumb"
-                                        href="{{ route('checkout') }}"><img width="100" height="70"
-                                            src="images/rwandamobility.jpg" class="" alt="" /></a>
+                                <article class="post media-post clearfix"> <a class="post-thumb" href="#"><img
+                                            width="100" height="70" src="images/rwandamobility.jpg"
+                                            class="" alt="" /></a>
                                     <div class="post-right">
-                                        <h5 class="post-title"> <a href="{{ route('checkout') }}"> Inclusive
+                                        <h5 class="post-title"> <a href="#"> Inclusive
                                                 Educations </a>
                                         </h5>
 
@@ -1130,7 +1130,7 @@
                                             width="100" height="70" src="images/rwandamobility.jpg"
                                             class="" alt="" /></a>
                                     <div class="post-right">
-                                        <h5 class="post-title"> <a href="{{ route('checkout') }}">
+                                        <h5 class="post-title"> <a href="#">
                                                 Collaboration </a> </h5>
 
                                     </div>
