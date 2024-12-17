@@ -138,7 +138,7 @@
 
                                                     <li><a href="#Galery">Galery</a></li>
 
-                                                    <li><a href="">Donate</a>
+                                                    <li><a href="{{ route('checkout') }}">Donate</a>
                                                     </li>
                                                 </ul>
                                             </nav>
