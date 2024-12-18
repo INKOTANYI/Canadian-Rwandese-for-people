@@ -3,11 +3,12 @@
 use Illuminate\Support\Facades\Route;
 use Illuminate\Http\Request;
 
+use App\Http\Controllers\StripeController;
+
 use Illuminate\Support\Facades\Auth;
 
 
 
-// use App\Http\Controllers\PaymentController;
 
 Route::get('/', function () {
     return view('welcome');
@@ -38,9 +39,6 @@ Route::get('home', function () {
     return view('welcome');
 })->name('home');
 
-// Route::get('/payment', [PaymentController::class, 'showPaymentForm'])->name('payment.form');
-// Route::post('/payment', [PaymentController::class, 'processPayment'])->name('payment.process');
-// Route::get('/payment-success', [PaymentController::class, 'paymentSuccess'])->name('payment.success');
 
 Route::get('login', function () {
     $email = 'test@example.com';
@@ -83,3 +81,12 @@ Route::get('/checkout/success-handler', function () {
     // Redirect to the homepage
     return redirect('/');
 })->name('checkout-success-handler');
+
+
+
+Route::get('/donate', [StripeController::class, 'index']);  // Route for the donation form page
+Route::post('/stripe-charge', [StripeController::class, 'createCheckoutSession'])->name('stripe.createCheckoutSession');  // Route for handling Stripe payment
+
+// Optional success and cancel routes for Stripe
+Route::get('/payment/success', [StripeController::class, 'success'])->name('payment.success');
+Route::get('/payment/cancel', [StripeController::class, 'cancel'])->name('payment.cancel');
