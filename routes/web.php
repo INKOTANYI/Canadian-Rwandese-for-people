@@ -43,11 +43,11 @@ Route::get('home', function () {
 Route::get('login', function () {
     $email = 'test@example.com';
     $password = 'password'; // Ensure this matches your user's credentials
-    
+
     if (Auth::attempt(['email' => $email, 'password' => $password])) {
         return redirect('home');
     }
-    
+
     return 'not logged in'; // Handle unsuccessful login
 })->name('login'); // Add a name to the route
 
@@ -85,8 +85,7 @@ Route::get('/checkout/success-handler', function () {
 
 
 Route::get('/donate', [StripeController::class, 'index']);  // Route for the donation form page
-Route::post('/stripe-charge', [StripeController::class, 'createCheckoutSession'])->name('stripe.createCheckoutSession');  // Route for handling Stripe payment
-
-// Optional success and cancel routes for Stripe
-Route::get('/payment/success', [StripeController::class, 'success'])->name('payment.success');
-Route::get('/payment/cancel', [StripeController::class, 'cancel'])->name('payment.cancel');
+Route::get('stripe', [StripeController::class, 'index']);
+Route::post('stripe/webhook', [StripeController::class, 'webhook']);
+Route::get('payment/success', [StripeController::class, 'success'])->name('payment.success');
+Route::get('payment/cancel', [StripeController::class, 'cancel'])->name('payment.cancel');
